@@ -9,31 +9,14 @@
 </template>
 
 <script>
-import json from "../../utils/db.json"
-// import axios from "axios";
+import json from '../../utils/db.json'
 
 export default {
-  name: "GameList",
-  data: function() {
+  name: 'GameList',
+  data: function () {
     return {
       games: json.games
-    };
-  },
-  // mounted() {
-  //   var url = "http://localhost:3000/games";
-  //   axios
-  //     .get(url)
-  //     .then(response => {
-  //       this.games = response.data;
-  //       console.log(this.games)
-  //     })
-  //     .catch(function(error) {
-  //       console.log(error);
-  //     });
-  // }
-};
+    }
+  }
+}
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped lang="scss">
-</style>
