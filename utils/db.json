@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "name": "game_name",
+      "semester": "1/2",
+      "year": 2000,
+      "cover_image": "image_path",
+      "description": "game_description",
+      "platform_packages": "linux,windows...",
+      "awards": {
+        "song": false,
+        "implementation": false,
+        "design": false,
+        "best_game": false
+      },
+      "game_images": [
+        "images"
+      ],
+      "images_gallery": [
+        "images"
+      ],
+      "sound_gallery": [
+        "songs"
+      ]
+    }
+  ]
+}
