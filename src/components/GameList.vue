@@ -2,34 +2,35 @@
   <div>
     <ul>
       <li v-for="game in games" :key="game.id + game.name">
-        <router-link :to="{name: 'game', params: {gameId: game.id}}">{{game.name}} - {{game.id}}</router-link>
+        <router-link :to="{name: 'game', params: {gameId: game.id, gameJson: game}}">{{game.name}} - {{game.id}}</router-link>
       </li>
     </ul>
   </div>
 </template>
 
 <script>
-import axios from "axios";
+import json from "../../utils/db.json"
+// import axios from "axios";
 
 export default {
   name: "GameList",
   data: function() {
     return {
-      games: []
+      games: json.games
     };
   },
-  mounted() {
-    var url = "http://localhost:3000/games";
-    axios
-      .get(url)
-      .then(response => {
-        this.games = response.data;
-        console.log(this.games)
-      })
-      .catch(function(error) {
-        console.log(error);
-      });
-  }
+  // mounted() {
+  //   var url = "http://localhost:3000/games";
+  //   axios
+  //     .get(url)
+  //     .then(response => {
+  //       this.games = response.data;
+  //       console.log(this.games)
+  //     })
+  //     .catch(function(error) {
+  //       console.log(error);
+  //     });
+  // }
 };
 </script>
 
