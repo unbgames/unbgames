@@ -13,11 +13,11 @@ export default new Router({
       component: Home
     },
     {
-      path: "/game/:gameId",
+      path: "/game/:game_id",
       name: "game",
       component: Game,
       props: route => {
-        return { gameId: Number(route.params.gameId) };
+        return { game_id: Number(route.params.game_id) };
       }
     }
   ]

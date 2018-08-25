@@ -18,11 +18,11 @@ export default {
   components: {},
   data: function () {
     return {
-      game: json.games[this.gameId]
+      game: json.games[this.game_id]
     }
   },
   props: {
-    gameId: Number
+    game_id: Number
   }
 }
 </script>
