@@ -1,12 +1,23 @@
 <template>
   <div id="app">
-    <div id="nav">
-      Menu
-    </div>
+    <menu-app />
     <router-view/>
+    
+    <footer-app />
   </div>
 </template>
 
-<style lang="scss">
+<script>
+import Footer from '@/components/Footer.vue';
+import HeaderMenu from '@/components/HeaderMenu.vue';
 
-</style>
+export default {
+  name: "App",
+  components: {
+    "footer-app": Footer,
+    "menu-app": HeaderMenu
+  }
+}
+
+
+</script>
