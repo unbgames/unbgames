@@ -1,13 +1,10 @@
 <template>
   <div>
     <hero-app />
-    <h1>{{year_title}}</h1>
-    <card-carrousel :games="games" />
-    <!-- <ul>
-      <li v-for="game in games" :key="game.id + game.name">
-        <router-link :to="{name: 'game', params: {game_id: game.id, game_json: game}}">{{game.name}} - {{game.id}}</router-link>
-      </li>
-    </ul> -->
+    <v-flex v-for="i in 3" :key="`2${i}`" mx-5>
+      <h1>{{year_title}}</h1>
+      <card-carrousel :games="games" />    
+    </v-flex>
   </div>
 </template>
 
