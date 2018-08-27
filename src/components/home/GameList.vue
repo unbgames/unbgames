@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import json from '../../utils/db.json'
-import CardCarousel from '@/components/CardCarousel.vue'
+import json from '@/../utils/db.json'
+import CardCarousel from '@/components/home/CardCarousel.vue'
 
 export default {
   name: 'GameList',

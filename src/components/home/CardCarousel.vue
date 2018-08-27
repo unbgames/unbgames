@@ -13,12 +13,12 @@
 <script>
 import "swiper/dist/css/swiper.css";
 import { swiper, swiperSlide } from "vue-awesome-swiper";
-import CardGame from "@/components/CardGame.vue";
+import CardGame from "@/components/home/CardGame.vue";
 
 export default {
   components: {
-    swiper,
-    swiperSlide,
+    "swiper": swiper,
+    "swiper-slide": swiperSlide,
     "card-game": CardGame
   },
   data() {
@@ -41,7 +41,7 @@ export default {
     }
   },
   props: {
-    games: Object
+    games: Array
   }
 };
 </script>

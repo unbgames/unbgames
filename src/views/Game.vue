@@ -12,13 +12,12 @@
 
 <script>
 import json from '@/../utils/db.json'
-import CarouselGame from '@/components/CarouselGame.vue'
-
+import GameCarousel from '@/components/GameCarousel.vue'
 
 export default {
   name: 'game',
   components: {
-    'carousel': CarouselGame
+    'carousel': GameCarousel
   },
   data: function () {
     return {
