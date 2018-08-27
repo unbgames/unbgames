@@ -1,6 +1,6 @@
 <template>
   <div class="game">
-    Este é o game
+    <carousel/>
     <ul>
       <li v-for="(value, key, index) in game" :key="value+index+key">
         {{key}}: {{value}}
@@ -12,10 +12,14 @@
 
 <script>
 import json from '@/../utils/db.json'
+import CarouselGame from '@/components/CarouselGame.vue'
+
 
 export default {
   name: 'game',
-  components: {},
+  components: {
+    'carousel': CarouselGame
+  },
   data: function () {
     return {
       game: json.games[this.game_id]

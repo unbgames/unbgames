@@ -1,17 +1,22 @@
 <template>
   <div class="home">
-    <GameList/>
+    <hero-app />
+    <game-list/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
 import GameList from '@/components/GameList.vue'
+import HeroComponentVue from '@/components/HeroComponent.vue';
 
 export default {
   name: 'home',
   components: {
-    GameList
+    "game-list": GameList,
+    "hero-app": HeroComponentVue
   }
 }
+
+
 </script>
