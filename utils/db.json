@@ -12,9 +12,26 @@
         "name": "Raphaelle",
         "link": "https://mozell.net"
       },
+      "version": "1.2",
       "awards": [
         {
-          "type": "Jogo do ano or melhor implementação or melhor trilha sonora or melhor arte",
+          "nada": "Jogo do ano or melhor implementação or melhor trilha sonora or melhor arte",
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "nada": "Jogo do ano or melhor implementação or melhor trilha sonora or melhor arte",
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "nada": "Jogo do ano or melhor implementação or melhor trilha sonora or melhor arte",
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
           "position": "Primeiro lugar",
           "revelation": true
         }
@@ -68,11 +85,57 @@
           "name": "Turner"
         }
       ],
-      "authors": [
+      "credits": [
         {
-          "name": "Beatty",
-          "role": "Mobility",
-          "portifolio": "http://ila.name"
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Beatty",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },

@@ -13,7 +13,7 @@
 <script>
 import "swiper/dist/css/swiper.css";
 import { swiper, swiperSlide } from "vue-awesome-swiper";
-import CardGame from "@/components/home/CardGame.vue";
+import CardGame from "@/components/home/GameCard.vue";
 
 export default {
   components: {
@@ -36,6 +36,20 @@ export default {
         navigation: {
           nextEl: '.swiper-button-next',
           prevEl: '.swiper-button-prev'
+        },
+        breakpoints: {
+          1024: {
+            slidesPerView: 4,
+            spaceBetween: 40
+          },
+          960: {
+            slidesPerView: 2,
+            spaceBetween: 30
+          },
+          600: {
+            slidesPerView: 1,
+            spaceBetween: 20
+          }
         }
       }
     }

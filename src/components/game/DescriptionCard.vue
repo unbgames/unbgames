@@ -6,10 +6,10 @@
         <v-card-text>
             {{game_description}}
         </v-card-text>
-        <v-card-actions>
+        <!-- <v-card-actions>
             <v-btn flat color="orange">{{game_license}}</v-btn>
             <v-btn flat color="orange">Explore</v-btn>
-        </v-card-actions>
+        </v-card-actions> -->
     </v-card>
 </template>
 
