@@ -1,7 +1,7 @@
 <template>
   <div class="header-app">
     <router-link class="text-xs-center white--text header-text" to="/">
-      <h1>UnB Games</h1>
+      <h1 class="font-weight-thin text-uppercase">UnB Games</h1>
     </router-link>
   </div>
 </template>

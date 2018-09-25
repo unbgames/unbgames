@@ -18,7 +18,10 @@ export default new Router({
       component: Game,
       props: route => {
         return { game_id: Number(route.params.game_id) };
-      }
+      },
     }
-  ]
+  ],
+  scrollBehavior () {
+    return { x: 0, y: 0 }
+  }
 });
