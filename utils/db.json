@@ -2,43 +2,39 @@
   "games": [
     {
       "id": 0,
-      "name": "Dynamic Tactics Manager",
-      "semester": "1",
-      "year": 2000,
+      "name": "Central Infrastructure Agent",
+      "year": 2005,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Saepe consequatur sit accusamus. Sunt quam officiis dolorem consequatur tenetur qui maiores. Necessitatibus illo corrupti a quia quaerat rerum minima soluta voluptatem. Earum quo fuga aliquam est excepturi neque voluptate debitis eius. Mollitia ea autem incidunt ab consequatur itaque vero. Fugit id tempore.",
-      "repository": "http://hosea.net",
-      "license": {
-        "name": "Raphaelle",
-        "link": "https://mozell.net"
-      },
-      "version": "1.2",
+      "description": "Et debitis quis laudantium dolorum nesciunt. Distinctio ex expedita qui officiis excepturi aliquid iusto maxime. Voluptatem facilis odio eum. Doloribus aperiam minima omnis.",
+      "repository": "http://eula.info",
+      "version": 1,
       "awards": [
         {
-          "nada": "Jogo do ano or melhor implementação or melhor trilha sonora or melhor arte",
           "type_text": "Jogo do ano",
           "type": "game_year",
           "position": "Primeiro lugar",
           "revelation": true
         },
         {
-          "nada": "Jogo do ano or melhor implementação or melhor trilha sonora or melhor arte",
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
           "type_text": "Melhor implementação",
           "type": "devel",
           "position": "Primeiro lugar",
           "revelation": true
         },
         {
-          "nada": "Jogo do ano or melhor implementação or melhor trilha sonora or melhor arte",
           "type_text": "Melhor trilha sonora",
           "type": "music",
           "position": "Primeiro lugar",
           "revelation": true
         }
       ],
-      "genres": [
-        "Ação", "Aventura", "Corrida"
-      ],
+      "genres": ["Augustine", "Joel", "Flavio", "Susie", "Roel"],
       "packs": [
         {
           "platform": "debian",
@@ -56,62 +52,65 @@
           "platform": "windows",
           "link": "http://adah.com",
           "architecture": "x86_64",
-          "extension": "rpm"
+          "extension": "exe"
         },
         {
           "platform": "apple",
           "link": "http://adah.com",
           "architecture": "x86_64",
-          "extension": "rpm"
+          "extension": "app"
         }
       ],
       "images": [
         {
-          "fdsa": "fdsa",
-          "src": "http://lorempixel.com/640/480"
-        },
-        {
-          "src": "http://lorempixel.com/640/480"
-        },
-        {
-          "src": "http://lorempixel.com/640/480"
-        },
-        {
-          "src": "http://lorempixel.com/640/480"
-        },
-        {
-          "src": "http://lorempixel.com/640/480"
-        },
-        {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg",
-          "name": "Huel",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Product Mobility Developer",
           "is_gallery": false
         },
         {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
-          "name": "Huelfdsa",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Human Branding Specialist",
           "is_gallery": false
         },
         {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
-          "name": "Huelfdsafd",
+          "src": "http://lorempixel.com/640/480",
+          "name": "District Mobility Analyst",
           "is_gallery": false
         },
         {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
-          "name": "Huelfdsafdfds",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Lead Functionality Supervisor",
           "is_gallery": false
         },
         {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
-          "name": "Huelfdsafdasdf",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Internal Tactics Orchestrator",
           "is_gallery": false
-        }
-      ],
-      "sounds": [
+        },
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Turner"
+          "src": "http://lorempixel.com/640/480",
+          "name": "Corporate Identity Coordinator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Global Brand Planner",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Direct Functionality Officer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Customer Web Associate",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Lead Accountability Executive",
+          "is_gallery": false
         }
       ],
       "credits": [
@@ -119,15 +118,15 @@
           "role": "Desenvolvedores(as)",
           "authors": [
             {
-              "name": "Beatty",
+              "name": "Amie",
               "portifolio": "http://ila.name"
             },
             {
-              "name": "Beatty",
+              "name": "Donny",
               "portifolio": "http://ila.name"
             },
             {
-              "name": "Beatty",
+              "name": "Johnathon",
               "portifolio": "http://ila.name"
             }
           ]
@@ -136,15 +135,15 @@
           "role": "Artistas",
           "authors": [
             {
-              "name": "Beatty",
+              "name": "Brycen",
               "portifolio": "http://ila.name"
             },
             {
-              "name": "Beatty",
+              "name": "Vivienne",
               "portifolio": "http://ila.name"
             },
             {
-              "name": "Beatty",
+              "name": "Landen",
               "portifolio": "http://ila.name"
             }
           ]
@@ -153,15 +152,15 @@
           "role": "Músicos(as)",
           "authors": [
             {
-              "name": "Beatty",
+              "name": "Delbert",
               "portifolio": "http://ila.name"
             },
             {
-              "name": "Beatty",
+              "name": "Jade",
               "portifolio": "http://ila.name"
             },
             {
-              "name": "Beatty",
+              "name": "Chris",
               "portifolio": "http://ila.name"
             }
           ]
@@ -170,1667 +169,1504 @@
     },
     {
       "id": 1,
-      "name": "Dynamic Program Director",
-      "semester": "1",
-      "year": 2000,
+      "name": "National Functionality Officer",
+      "year": 2012,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Qui totam exercitationem vero eos ducimus quaerat ipsam aliquid dolorem. Aut aut est modi deserunt eum. Voluptas cum qui culpa. Omnis debitis sunt nihil. Accusantium ut animi. Recusandae nobis explicabo consequatur velit quia dolore sed.",
-      "repository": "https://gunner.com",
-      "license": {
-        "name": "Aniya",
-        "link": "https://cicero.biz"
-      },
-      "awards": ["award"],
+      "description": "Ex in eaque repudiandae est soluta nostrum. Ducimus tempora id distinctio provident ut. Tenetur est non sed esse. Omnis odit quo labore sed. Harum labore omnis quo est aliquam. Non nemo nobis ex consequuntur optio magnam doloremque.",
+      "repository": "http://crawford.name",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Pattie", "Leonie", "Trycia", "Wilhelmine", "Alia"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Rath",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Legacy Optimization Consultant",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Direct Operations Executive",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Human Web Associate",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "District Applications Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Principal Creative Designer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Customer Optimization Engineer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Central Creative Agent",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Forward Optimization Representative",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Corporate Applications Technician",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Customer Implementation Associate",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Jerde"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Aiyana",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Jakob",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Euna",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Hills",
-          "role": "Infrastructure",
-          "portifolio": "http://nathan.name"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Hans",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Randi",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Carleton",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Otha",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Santino",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Luis",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 2,
-      "name": "Forward Marketing Director",
-      "semester": "1",
-      "year": 2000,
+      "name": "National Infrastructure Strategist",
+      "year": 2002,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Voluptates nihil optio ipsa aliquid cumque. Consequatur magni molestias consequatur sint eum quidem tempora. Maxime quam iste repellat perferendis delectus hic sunt voluptatem omnis.",
-      "repository": "http://susan.info",
-      "license": {
-        "name": "Alverta",
-        "link": "http://lysanne.info"
-      },
-      "awards": ["award"],
+      "description": "Quidem provident consequatur recusandae quia id. Voluptas doloribus rerum eius sint natus commodi. Cum soluta iure eum neque et aut similique. Eum minus ut molestias tempore modi ea sit hic. Est animi dolor est voluptate sed reiciendis modi. Dolores culpa dignissimos veritatis accusamus itaque facilis sint porro.",
+      "repository": "http://florida.biz",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Ocie", "Tyler", "Fannie", "Elwin", "Chris"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "O'Connell",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Product Creative Manager",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Direct Program Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Forward Web Designer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Central Data Administrator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Central Identity Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Product Metrics Planner",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "National Optimization Executive",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Forward Paradigm Coordinator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Principal Brand Coordinator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Principal Assurance Manager",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Mueller"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Fredy",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Jennings",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Khalil",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Fahey",
-          "role": "Solutions",
-          "portifolio": "http://helen.com"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Gaylord",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Arnulfo",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Loren",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Mariela",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Emilie",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Virgie",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 3,
-      "name": "Future Web Engineer",
-      "semester": "1",
-      "year": 2000,
+      "name": "National Security Specialist",
+      "year": 2014,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Saepe optio quidem quaerat temporibus eaque autem. Nam ut quod a. Sit ipsum voluptatem.",
-      "repository": "https://kade.com",
-      "license": {
-        "name": "Macie",
-        "link": "http://stefanie.biz"
-      },
-      "awards": ["award"],
+      "description": "Eligendi aliquam necessitatibus vero tempore. Qui officia est qui architecto consequuntur. Laudantium iure dolore nihil deserunt ut quibusdam sit eius et.",
+      "repository": "https://alan.name",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Jay", "Dedrick", "Markus", "Ilene", "Kasandra"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Roberts",
+          "src": "http://lorempixel.com/640/480",
+          "name": "National Usability Liaison",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Direct Program Coordinator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Dynamic Paradigm Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Regional Tactics Officer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Chief Data Officer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Regional Factors Assistant",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Human Mobility Consultant",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Future Group Specialist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Dynamic Group Developer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Human Group Agent",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Davis"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Roel",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Meda",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Boris",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Hagenes",
-          "role": "Accountability",
-          "portifolio": "https://lorna.com"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Gabriel",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Laisha",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Kaela",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Guido",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Richmond",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Devon",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 4,
-      "name": "Customer Functionality Supervisor",
-      "semester": "1",
-      "year": 2000,
+      "name": "Legacy Program Engineer",
+      "year": 2002,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Ratione ad architecto qui ea voluptates corporis. Quam laborum labore maiores qui aliquam perspiciatis quia et. Aspernatur ut sed beatae.",
-      "repository": "https://mathias.biz",
-      "license": {
-        "name": "Allene",
-        "link": "https://may.biz"
-      },
-      "awards": ["award"],
+      "description": "Ut et non voluptatem veritatis reprehenderit quos esse. Enim ut possimus deserunt quas culpa non laboriosam maxime deleniti. Assumenda sunt neque quo.",
+      "repository": "https://ayla.name",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Emory", "Bradford", "Norris", "Josefa", "Etha"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Brakus",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Central Infrastructure Associate",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Corporate Data Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Forward Configuration Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Legacy Assurance Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Forward Integration Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Regional Applications Specialist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Forward Division Orchestrator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Dynamic Accounts Planner",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Lead Identity Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Product Division Coordinator",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Torphy"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Yesenia",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Carol",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Don",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Lang",
-          "role": "Paradigm",
-          "portifolio": "https://evie.info"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Ophelia",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Helga",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Tre",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Peyton",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Kendall",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Gianni",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 5,
-      "name": "District Assurance Director",
-      "semester": "1",
-      "year": 2000,
+      "name": "International Metrics Coordinator",
+      "year": 2014,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Omnis aut reprehenderit. Laboriosam quia minima modi sequi. Nostrum quam hic illo quia fuga minima doloremque accusantium error. Officia et unde voluptas sit eaque. Itaque ipsum accusamus soluta error alias molestiae. Molestiae eligendi eos aut doloribus pariatur non autem harum.",
-      "repository": "https://lauriane.com",
-      "license": {
-        "name": "Marcelina",
-        "link": "https://gabrielle.org"
-      },
-      "awards": ["award"],
+      "description": "Natus soluta ab laboriosam. Aliquam ab vitae nemo eveniet omnis velit dicta. Quam saepe culpa accusamus fugiat rerum occaecati itaque. Unde est nobis debitis et officia eos maiores maiores nisi. Accusamus qui occaecati sed animi quisquam. Id placeat ut quia aut nemo enim.",
+      "repository": "http://judah.name",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Conrad", "Talon", "Jan", "Frederique", "Natasha"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Gutmann",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Future Integration Designer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Regional Web Manager",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Chief Operations Specialist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Lead Quality Representative",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Principal Accounts Designer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Customer Accountability Manager",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Customer Infrastructure Technician",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Senior Research Representative",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Chief Creative Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Human Accountability Liaison",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Brown"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Karolann",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Jerry",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Wade",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Kautzer",
-          "role": "Brand",
-          "portifolio": "https://monserrate.net"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Tristian",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Delta",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Pattie",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Rex",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Velma",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Conrad",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 6,
-      "name": "Future Integration Manager",
-      "semester": "1",
-      "year": 2000,
+      "name": "Forward Web Agent",
+      "year": 2009,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Consectetur praesentium fugiat eum. Vel maiores voluptate. Et voluptatem cumque. Aliquid non laboriosam tempora sit ducimus nesciunt exercitationem. Reiciendis fugiat maxime ut quis dolor. Eos laudantium odit pariatur error aut.",
-      "repository": "http://adella.com",
-      "license": {
-        "name": "Beulah",
-        "link": "https://gustave.org"
-      },
-      "awards": ["award"],
+      "description": "Voluptatem aspernatur excepturi ullam est ut sit doloribus. Repudiandae quia corrupti necessitatibus eum quia corrupti totam. Error atque ipsum est dolor aut qui in. Qui architecto in laudantium nostrum omnis voluptatem qui autem. Vitae sint debitis ratione quisquam vel sunt.",
+      "repository": "http://jessyca.net",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Catherine", "Alanna", "Ardith", "Joshuah", "Raoul"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Botsford",
+          "src": "http://lorempixel.com/640/480",
+          "name": "International Tactics Designer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Internal Applications Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Customer Program Assistant",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Global Tactics Specialist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Future Configuration Developer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Regional Operations Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Global Branding Agent",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Senior Mobility Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "National Operations Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Global Research Coordinator",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Pfannerstill"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Loraine",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Alaina",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Percival",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Gutmann",
-          "role": "Web",
-          "portifolio": "http://myrtle.com"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Suzanne",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Wendy",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Branson",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Bernhard",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Laurel",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Cora",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 7,
-      "name": "District Functionality Orchestrator",
-      "semester": "1",
-      "year": 2000,
+      "name": "Lead Applications Representative",
+      "year": 2004,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Enim fuga voluptates ipsum. Tempore occaecati facilis itaque saepe voluptatibus qui velit magni facilis. Delectus ipsam et ut cum et velit. Porro officia et similique nobis quos. Soluta soluta corrupti autem deleniti aperiam laboriosam.",
-      "repository": "http://tremaine.info",
-      "license": {
-        "name": "Amya",
-        "link": "http://destin.info"
-      },
-      "awards": ["award"],
+      "description": "Inventore dicta ut ipsum. Qui quia cupiditate repellendus aut et maxime sed consequatur. Magni repellat possimus ratione omnis doloremque in at tenetur sapiente.",
+      "repository": "https://katarina.net",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Sonia", "Edward", "Petra", "Everett", "Madie"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Morissette",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Product Quality Liaison",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Future Paradigm Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Central Identity Specialist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Corporate Factors Engineer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Direct Response Officer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Global Research Liaison",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Dynamic Markets Assistant",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Regional Optimization Producer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Central Accounts Developer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Dynamic Marketing Assistant",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Nitzsche"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Cathryn",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Abbigail",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Rahul",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Willms",
-          "role": "Identity",
-          "portifolio": "http://eldridge.info"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Dale",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Mac",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Brett",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Irwin",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Jasmin",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Everette",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 8,
-      "name": "Corporate Interactions Manager",
-      "semester": "1",
-      "year": 2000,
+      "name": "Dynamic Applications Facilitator",
+      "year": 2016,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Nihil quia cum minima voluptas et eum quo. Accusantium reprehenderit velit occaecati ratione reprehenderit sed adipisci sit. Vel quia in deserunt dolore sunt. Quasi consectetur et qui harum incidunt mollitia qui quod occaecati. Ipsam possimus voluptatibus repudiandae omnis sit. Magni sunt facere occaecati eos rerum exercitationem qui eligendi officiis.",
-      "repository": "http://aracely.biz",
-      "license": {
-        "name": "Madelyn",
-        "link": "http://dasia.biz"
-      },
-      "awards": ["award"],
+      "description": "Eaque excepturi ducimus maiores tenetur qui qui officiis alias. Maxime dolorem et nulla nihil incidunt iure suscipit. Deleniti ea vitae velit veritatis quo accusantium dolor incidunt. Ipsum rem sit est. Qui velit at. Culpa est repellendus sunt saepe aspernatur.",
+      "repository": "http://cornelius.net",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Vivienne", "Lavon", "Lucio", "Oswaldo", "Isabel"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Johns",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Product Mobility Engineer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Direct Optimization Architect",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Direct Infrastructure Strategist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "National Applications Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Corporate Intranet Executive",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Chief Directives Director",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Legacy Identity Strategist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Corporate Tactics Associate",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "District Program Coordinator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "District Program Officer",
           "is_gallery": false
         }
       ],
-      "sounds": [
+      "credits": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Jacobs"
-        }
-      ],
-      "authors": [
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Forrest",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Rylee",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Francesca",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
         {
-          "name": "Funk",
-          "role": "Division",
-          "portifolio": "http://jacynthe.biz"
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Tillman",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Maci",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Logan",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Krystal",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Adeline",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Samanta",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     },
     {
       "id": 9,
-      "name": "District Security Facilitator",
-      "semester": "1",
-      "year": 2000,
+      "name": "Chief Usability Representative",
+      "year": 2008,
       "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Numquam nesciunt qui. Qui aliquam eum laboriosam eaque sapiente deserunt. Laudantium sed ratione.",
-      "repository": "https://grace.biz",
-      "license": {
-        "name": "Scotty",
-        "link": "http://franz.name"
-      },
-      "awards": ["award"],
+      "description": "Sit repellat eos sed omnis reiciendis iusto tempora sequi ipsa. Expedita dignissimos eos. Qui consequatur error. Sit ea mollitia quis non nihil. Doloremque et assumenda fuga. Laboriosam et aspernatur quia molestiae.",
+      "repository": "https://andreane.org",
+      "version": 1,
+      "awards": [
+        {
+          "type_text": "Jogo do ano",
+          "type": "game_year",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor arte",
+          "type": "art",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor implementação",
+          "type": "devel",
+          "position": "Primeiro lugar",
+          "revelation": true
+        },
+        {
+          "type_text": "Melhor trilha sonora",
+          "type": "music",
+          "position": "Primeiro lugar",
+          "revelation": true
+        }
+      ],
+      "genres": ["Jamie", "Anita", "Trystan", "Wanda", "Kattie"],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "exe"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "app"
+        }
+      ],
       "images": [
         {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Zieme",
+          "src": "http://lorempixel.com/640/480",
+          "name": "Senior Operations Specialist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Legacy Tactics Architect",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Internal Branding Agent",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Senior Implementation Supervisor",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Senior Solutions Administrator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "International Quality Coordinator",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "International Identity Engineer",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Dynamic Research Manager",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "Corporate Usability Strategist",
+          "is_gallery": false
+        },
+        {
+          "src": "http://lorempixel.com/640/480",
+          "name": "National Markets Manager",
           "is_gallery": false
         }
       ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Streich"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Jenkins",
-          "role": "Functionality",
-          "portifolio": "http://nannie.net"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Senior Data Engineer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Aut quam vel quasi beatae doloribus doloribus maxime. Rerum et fugit. Ut nobis et eius nisi ab tenetur quo et.",
-      "repository": "https://natasha.org",
-      "license": {
-        "name": "Daren",
-        "link": "https://lorena.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Gulgowski",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Okuneva"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Schinner",
-          "role": "Brand",
-          "portifolio": "http://cielo.org"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "name": "Forward Security Executive",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Dolores deserunt eligendi repellendus velit sed quo. Cupiditate facilis nisi doloremque. Recusandae vitae officiis aut voluptas accusantium officiis dicta est. Voluptatum doloremque modi quis ut et consequatur ut. Voluptatum est itaque ipsum rem cupiditate minima natus. Omnis commodi culpa et adipisci deserunt ex reiciendis pariatur.",
-      "repository": "https://charlene.biz",
-      "license": {
-        "name": "Will",
-        "link": "http://quinton.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "McDermott",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Barton"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Abbott",
-          "role": "Paradigm",
-          "portifolio": "http://tyrique.org"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "National Applications Analyst",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Nulla perferendis ipsa accusantium. Animi non et quo quae sequi magnam molestiae. Doloremque consequatur vitae odio voluptas fugit ea nam. Adipisci exercitationem ut alias. Asperiores blanditiis quia.",
-      "repository": "https://andy.org",
-      "license": {
-        "name": "Vallie",
-        "link": "https://rick.net"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Dickinson",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Hills"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Rohan",
-          "role": "Applications",
-          "portifolio": "https://roxane.net"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Customer Directives Planner",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Eligendi pariatur fugit reprehenderit ipsum aliquid eveniet. Eaque dolores aliquid. Asperiores sed vitae amet. Deleniti aliquid unde id. Sunt beatae unde qui assumenda maxime velit.",
-      "repository": "http://elton.name",
-      "license": {
-        "name": "Norval",
-        "link": "http://armani.name"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Schaden",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Oberbrunner"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Homenick",
-          "role": "Branding",
-          "portifolio": "http://brayan.info"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Future Usability Strategist",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Deleniti et dignissimos ad et veniam sed. Sapiente quod quas qui accusantium. Aperiam facere exercitationem culpa. Dolorem occaecati et et dolores sint fuga porro velit. Iste magnam repudiandae. Culpa quia iste ut maiores fugiat quis possimus accusamus.",
-      "repository": "http://mariana.biz",
-      "license": {
-        "name": "Euna",
-        "link": "https://mia.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Romaguera",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Keeling"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Lindgren",
-          "role": "Assurance",
-          "portifolio": "http://tyreek.com"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "name": "Human Communications Facilitator",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Adipisci distinctio expedita omnis nobis et voluptas dolores mollitia. Sed voluptatem veniam sunt omnis incidunt aspernatur officia aut consectetur. Quos dolor veniam rem qui blanditiis eos quae cum est. Laboriosam harum qui recusandae. Enim quia sit explicabo at quia minus vero modi.",
-      "repository": "https://alexzander.biz",
-      "license": {
-        "name": "Kayden",
-        "link": "https://damian.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Oberbrunner",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Hackett"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Zboncak",
-          "role": "Division",
-          "portifolio": "http://clarissa.com"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "District Markets Developer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Voluptas sed doloribus harum non molestiae temporibus. Aut eius deleniti rerum esse omnis id qui. Rem velit ad nobis necessitatibus ut nihil placeat alias deserunt.",
-      "repository": "http://reyna.info",
-      "license": {
-        "name": "Zoe",
-        "link": "https://isobel.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Kuhn",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Price"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Orn",
-          "role": "Tactics",
-          "portifolio": "http://alexandra.net"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "name": "Chief Functionality Associate",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Aspernatur dolorum eaque. In at assumenda perspiciatis eaque quis aut est consequatur. Tempora expedita facere tenetur incidunt ut aut iusto. Possimus similique molestiae dolore soluta adipisci qui aut et.",
-      "repository": "https://maybell.info",
-      "license": {
-        "name": "Tatyana",
-        "link": "https://osvaldo.name"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Rath",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Harvey"
-        }
-      ],
-      "authors": [
-        {
-          "name": "McCullough",
-          "role": "Group",
-          "portifolio": "http://floyd.info"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Global Factors Associate",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Nam aliquid nihil excepturi corporis labore. Maxime ad animi et sed. Libero non facilis repellendus temporibus. Suscipit eius fugiat possimus et neque dolor magnam et non.",
-      "repository": "http://ara.biz",
-      "license": {
-        "name": "Arlene",
-        "link": "http://angus.net"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Koss",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Corwin"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Hills",
-          "role": "Creative",
-          "portifolio": "http://rasheed.com"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "name": "Chief Functionality Consultant",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Maxime sit pariatur vel nobis ut rem ratione. Ex dolorem doloribus quod sed excepturi porro eum eum. Accusamus vero autem soluta laborum est non autem.",
-      "repository": "https://zachariah.com",
-      "license": {
-        "name": "Stanford",
-        "link": "https://jaron.org"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Weber",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Flatley"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Labadie",
-          "role": "Accountability",
-          "portifolio": "http://pauline.net"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "name": "Global Brand Analyst",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Quis et quia reprehenderit mollitia quasi sed. Et iusto qui deleniti aut ea at. Tempore qui sit voluptas autem fugiat dolores eveniet. Eum deleniti saepe.",
-      "repository": "http://bill.net",
-      "license": {
-        "name": "Kristoffer",
-        "link": "http://petra.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Weissnat",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Stark"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Wunsch",
-          "role": "Applications",
-          "portifolio": "https://priscilla.name"
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "name": "Regional Markets Producer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Quia quasi aspernatur veniam veniam velit aut eligendi perferendis. Atque occaecati nam. Exercitationem omnis odit. Ut sit pariatur minima perspiciatis minus velit. Autem aut sit nobis in quidem quia cumque odit. Ut ut deserunt et ut laborum qui architecto velit molestias.",
-      "repository": "https://eleonore.org",
-      "license": {
-        "name": "Keely",
-        "link": "http://nicolette.org"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Macejkovic",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Braun"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Morar",
-          "role": "Factors",
-          "portifolio": "http://marques.biz"
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "name": "National Assurance Specialist",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Ipsam repellendus exercitationem. Dolorum voluptas voluptas corporis nihil natus qui est neque. Qui vel nam eveniet. Exercitationem et ducimus nostrum doloremque quo dolorem. Ullam laudantium nisi dolor est.",
-      "repository": "https://meredith.net",
-      "license": {
-        "name": "Elmira",
-        "link": "https://samantha.org"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Schimmel",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Gutmann"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Crona",
-          "role": "Accounts",
-          "portifolio": "https://chelsey.net"
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "name": "District Response Assistant",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Ullam possimus ipsum cum voluptates rerum repudiandae. Distinctio eaque aspernatur omnis aut nemo aut accusantium beatae corporis. Quia illum quia qui similique et porro eius nam. Ut culpa est eum eos voluptatem.",
-      "repository": "http://terrill.info",
-      "license": {
-        "name": "Garett",
-        "link": "https://nedra.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Connelly",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Kilback"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Ankunding",
-          "role": "Usability",
-          "portifolio": "http://chanelle.info"
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "name": "Customer Functionality Officer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Excepturi fugit at tempore ratione quo itaque. Cupiditate animi est fuga a aut. Quos minima veritatis excepturi nam blanditiis quibusdam. Atque aut eum culpa velit. Quia corporis voluptatem ratione veniam suscipit ipsum ut culpa quis.",
-      "repository": "http://gwendolyn.biz",
-      "license": {
-        "name": "Fred",
-        "link": "https://sadye.net"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "O'Keefe",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Eichmann"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Macejkovic",
-          "role": "Optimization",
-          "portifolio": "http://ashleigh.info"
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "name": "Future Operations Facilitator",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Ea non debitis similique. Quia dolores impedit dolor. Officia deserunt at tempora fugiat autem molestiae. Quam ratione aut sunt. Labore ut aut velit nihil quae eaque.",
-      "repository": "http://garret.net",
-      "license": {
-        "name": "Broderick",
-        "link": "https://orie.org"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Corkery",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Homenick"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Swift",
-          "role": "Factors",
-          "portifolio": "https://johan.name"
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "name": "Direct Security Representative",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Aut doloremque ab. Vel magnam mollitia cumque doloremque aut et. Earum iure repudiandae dolorem ea atque et. Distinctio voluptatem dolores. Quia inventore vero sapiente debitis numquam. Distinctio voluptatum unde et sequi voluptas architecto sed quia sit.",
-      "repository": "http://doris.net",
-      "license": {
-        "name": "Otto",
-        "link": "http://graciela.net"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Labadie",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Franecki"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Heller",
-          "role": "Factors",
-          "portifolio": "https://ova.biz"
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "name": "Regional Applications Strategist",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Laudantium qui eos doloremque assumenda consequuntur dolor qui quasi. Minus dignissimos praesentium numquam nisi non totam. Et et voluptatem excepturi explicabo a voluptates reprehenderit. Quae inventore eos suscipit fugit corrupti non nobis dolor.",
-      "repository": "https://jalon.org",
-      "license": {
-        "name": "Kelsie",
-        "link": "https://adrien.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Funk",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Murazik"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Crona",
-          "role": "Functionality",
-          "portifolio": "https://phoebe.org"
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "name": "International Communications Assistant",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Deleniti quia culpa. Ut id suscipit. Error et nostrum qui tempora qui quia cumque consequatur.",
-      "repository": "https://abdullah.com",
-      "license": {
-        "name": "Allan",
-        "link": "http://rosendo.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Spencer",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Deckow"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Hilpert",
-          "role": "Paradigm",
-          "portifolio": "https://garett.com"
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "name": "Direct Infrastructure Consultant",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Excepturi impedit nobis illum aliquid architecto dicta aut et. Excepturi ut laudantium velit ut libero maiores consequuntur eum sed. Aliquam at et consequatur nobis. Est perspiciatis eos libero alias rerum et.",
-      "repository": "http://demetrius.com",
-      "license": {
-        "name": "Hermina",
-        "link": "http://nicolas.com"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Flatley",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Cassin"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Koch",
-          "role": "Functionality",
-          "portifolio": "https://ansel.info"
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "name": "Future Communications Director",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Non quo autem non et. Enim nam non qui ex libero quae. Quae suscipit reprehenderit alias.",
-      "repository": "https://daisy.biz",
-      "license": {
-        "name": "Leta",
-        "link": "http://august.com"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Hoeger",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Kiehn"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Durgan",
-          "role": "Research",
-          "portifolio": "http://leda.info"
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "name": "National Tactics Facilitator",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Fuga est et et. Ex doloribus qui in maiores et harum maiores dolore optio. Adipisci non velit corrupti in laudantium minus sit. Soluta labore molestiae est. Eveniet qui suscipit ut repellendus perferendis sapiente nihil maxime nesciunt.",
-      "repository": "https://vallie.org",
-      "license": {
-        "name": "Kaci",
-        "link": "http://adah.com"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Pfannerstill",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Turner"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Okuneva",
-          "role": "Applications",
-          "portifolio": "http://halie.org"
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "name": "Regional Configuration Agent",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Voluptatem distinctio laudantium totam inventore. Minima commodi possimus mollitia. Sunt dolor voluptatem rerum error. Ad ullam reprehenderit harum est similique laborum hic. Et aut laborum voluptate dolore.",
-      "repository": "https://gladyce.org",
-      "license": {
-        "name": "Marcella",
-        "link": "http://jaleel.net"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Padberg",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Breitenberg"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Kohler",
-          "role": "Interactions",
-          "portifolio": "http://kailyn.com"
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "name": "Legacy Group Liaison",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Expedita est iure ea impedit neque dignissimos. Odit error culpa dignissimos iste dolor explicabo inventore. Cumque libero est pariatur in nihil facere.",
-      "repository": "https://lauriane.biz",
-      "license": {
-        "name": "Devonte",
-        "link": "https://marcelle.name"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Ferry",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Gleason"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Fritsch",
-          "role": "Group",
-          "portifolio": "http://ludwig.name"
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "name": "Forward Tactics Developer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Harum corporis quasi blanditiis minima voluptas accusantium aliquam. Harum voluptates distinctio nostrum sed ut dolor. Nulla voluptates quis. Nihil nihil libero. At cumque aliquid molestiae facilis corrupti laborum unde. Debitis provident perspiciatis saepe quia repellat hic.",
-      "repository": "http://jeromy.org",
-      "license": {
-        "name": "Assunta",
-        "link": "https://stephen.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "O'Keefe",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Ebert"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Wehner",
-          "role": "Applications",
-          "portifolio": "http://jane.net"
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "name": "Direct Data Specialist",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Ea atque doloribus distinctio est quod aperiam totam dolores vel. Expedita sequi totam adipisci eum rerum non. Porro suscipit consequuntur officia hic. Vel qui ea beatae laudantium veritatis. Facilis numquam error est rerum cumque quis aliquid aspernatur fugiat. Repudiandae voluptas sequi velit tenetur quos minus reprehenderit eius rerum.",
-      "repository": "https://vita.net",
-      "license": {
-        "name": "Vesta",
-        "link": "https://rozella.net"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Franecki",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Daniel"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Crist",
-          "role": "Creative",
-          "portifolio": "http://mariam.org"
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "name": "Regional Security Designer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Omnis itaque temporibus distinctio minus sed. Quidem reiciendis esse deleniti est sunt fugit velit culpa. Quibusdam eligendi asperiores consequatur ducimus voluptatem.",
-      "repository": "http://edythe.org",
-      "license": {
-        "name": "Dulce",
-        "link": "https://keshaun.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Hermann",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Dare"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Vandervort",
-          "role": "Directives",
-          "portifolio": "http://daryl.com"
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "name": "Investor Brand Agent",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Qui perferendis veniam. Dolore cupiditate ut. Consequuntur optio ducimus sapiente ut aliquid voluptas optio delectus. Illum in animi atque.",
-      "repository": "http://rigoberto.name",
-      "license": {
-        "name": "Lempi",
-        "link": "http://harmony.com"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Moore",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Bins"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Von",
-          "role": "Implementation",
-          "portifolio": "http://macey.biz"
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "name": "Regional Assurance Designer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Voluptatibus adipisci illo dignissimos maiores at cupiditate officiis. Et repellat non. Quam magnam culpa nesciunt. Placeat consectetur corporis repudiandae cumque ex velit.",
-      "repository": "https://noah.org",
-      "license": {
-        "name": "Juvenal",
-        "link": "http://tamara.org"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Stamm",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Padberg"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Quigley",
-          "role": "Paradigm",
-          "portifolio": "http://josiane.info"
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "name": "Chief Infrastructure Executive",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Laborum dolorum sapiente doloribus. Ut est ad. Accusamus id ipsum modi totam iure porro quas odio. Voluptatum et officiis perferendis aut impedit illo sit. Quis expedita modi ex natus voluptate.",
-      "repository": "https://ludie.org",
-      "license": {
-        "name": "Kariane",
-        "link": "http://ciara.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Bosco",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Dickinson"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Botsford",
-          "role": "Interactions",
-          "portifolio": "https://haylee.net"
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "name": "Investor Solutions Coordinator",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Sed incidunt cupiditate sit eum quis corporis rerum aut delectus. Distinctio quasi facere et est. Harum non sunt est recusandae laboriosam eligendi incidunt.",
-      "repository": "https://kip.name",
-      "license": {
-        "name": "Kiel",
-        "link": "http://queenie.com"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Green",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Smith"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Gerhold",
-          "role": "Mobility",
-          "portifolio": "https://tyree.com"
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "name": "Regional Division Agent",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Praesentium adipisci corporis aliquam omnis. Quia quo deserunt. Tenetur harum corrupti ut quos.",
-      "repository": "https://jaclyn.net",
-      "license": {
-        "name": "Rodrick",
-        "link": "http://esteban.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Gusikowski",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Sipes"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Kub",
-          "role": "Factors",
-          "portifolio": "https://payton.net"
-        }
-      ]
-    },
-    {
-      "id": 42,
-      "name": "Investor Mobility Orchestrator",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Labore delectus mollitia autem quibusdam non hic. Nam repellat accusamus porro eligendi excepturi. Quia nobis sint.",
-      "repository": "http://carrie.info",
-      "license": {
-        "name": "Celestino",
-        "link": "http://eli.name"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Cartwright",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Hintz"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Pacocha",
-          "role": "Response",
-          "portifolio": "https://malinda.name"
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "name": "Chief Accounts Architect",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Autem esse recusandae ut ad. Nesciunt dolor quo. Minima officia sed voluptatem aut.",
-      "repository": "https://jenifer.com",
-      "license": {
-        "name": "Jamel",
-        "link": "http://tina.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Rodriguez",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Pfeffer"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Koch",
-          "role": "Solutions",
-          "portifolio": "https://gage.biz"
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "name": "Lead Accountability Officer",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Nihil et impedit. Rerum qui quis possimus iusto ut quia ad. Incidunt sit placeat eius corporis cum qui non.",
-      "repository": "https://sylvan.name",
-      "license": {
-        "name": "Jerel",
-        "link": "http://buster.name"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Bogisich",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Morar"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Brekke",
-          "role": "Functionality",
-          "portifolio": "https://willy.com"
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "name": "Forward Web Consultant",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Aut at accusantium dicta est aut sed. Occaecati unde impedit et quis alias quia necessitatibus repudiandae. Laudantium culpa aut excepturi aut. Officiis in soluta consectetur et tempore tenetur qui totam.",
-      "repository": "http://meagan.org",
-      "license": {
-        "name": "Erika",
-        "link": "http://kolby.com"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Prosacco",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Walter"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Emmerich",
-          "role": "Mobility",
-          "portifolio": "https://leonor.name"
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "name": "Internal Interactions Assistant",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Rem aliquid provident odio sit totam est eos eos vel. Deserunt magnam deserunt provident voluptatem. Dolor aut beatae aut atque itaque eos ab illum. Corrupti aut ea. Quae eligendi et iure in. Debitis atque recusandae deleniti dolor quia provident laboriosam voluptas quia.",
-      "repository": "https://annette.info",
-      "license": {
-        "name": "Maybelle",
-        "link": "http://tracy.net"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Greenfelder",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Walker"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Cremin",
-          "role": "Applications",
-          "portifolio": "http://edmond.info"
-        }
-      ]
-    },
-    {
-      "id": 47,
-      "name": "Internal Marketing Supervisor",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Tempore accusamus sed molestiae. Voluptatem ut et maxime nesciunt doloribus neque fuga unde. Nobis consequatur dolorem ut at recusandae sed vel nisi amet. Assumenda esse voluptas quia explicabo inventore repellendus sequi eaque at.",
-      "repository": "http://josephine.org",
-      "license": {
-        "name": "Jalen",
-        "link": "http://jules.biz"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Cruickshank",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Heathcote"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Monahan",
-          "role": "Program",
-          "portifolio": "http://solon.net"
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "name": "Dynamic Web Manager",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Numquam qui perspiciatis velit fugiat modi. Et aliquid facere voluptatibus earum dolorum numquam. Quis eos ut libero. Sed temporibus odio ullam nulla. Culpa et animi adipisci quasi dolores. Magnam aut autem est magni facere expedita culpa officia voluptatem.",
-      "repository": "http://lea.com",
-      "license": {
-        "name": "Ryan",
-        "link": "http://laila.com"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Jakubowski",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Schulist"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Halvorson",
-          "role": "Solutions",
-          "portifolio": "https://willy.name"
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "name": "Dynamic Tactics Consultant",
-      "semester": "1",
-      "year": 2000,
-      "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-      "description": "Quia nisi odio ipsam vel saepe. Necessitatibus corporis animi deleniti non omnis. Et tempore suscipit tempore voluptatem et dolor vitae magnam quia. Qui ut ullam repellendus fugiat dolor maiores in. Deleniti hic inventore fuga aut velit qui.",
-      "repository": "https://alysson.name",
-      "license": {
-        "name": "Ruthe",
-        "link": "https://alisha.info"
-      },
-      "awards": ["award"],
-      "images": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Kiehn",
-          "is_gallery": false
-        }
-      ],
-      "sounds": [
-        {
-          "path": "http://lorempixel.com/640/480",
-          "name": "Bode"
-        }
-      ],
-      "authors": [
-        {
-          "name": "Gottlieb",
-          "role": "Division",
-          "portifolio": "http://jaren.biz"
+      "credits": [
+        {
+          "role": "Desenvolvedores(as)",
+          "authors": [
+            {
+              "name": "Rafael",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Broderick",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Kathleen",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Artistas",
+          "authors": [
+            {
+              "name": "Brown",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Selina",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Trudie",
+              "portifolio": "http://ila.name"
+            }
+          ]
+        },
+        {
+          "role": "Músicos(as)",
+          "authors": [
+            {
+              "name": "Lilly",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Anahi",
+              "portifolio": "http://ila.name"
+            },
+            {
+              "name": "Sofia",
+              "portifolio": "http://ila.name"
+            }
+          ]
         }
       ]
     }

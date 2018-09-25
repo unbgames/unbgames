@@ -106,8 +106,6 @@ function generateCredits(){
     return credits
 }
 
-/////////////// Utils functions ///////////////////////////
-
 function generateGame(game_id) {
     const game =
         {
@@ -129,26 +127,21 @@ function generateGame(game_id) {
 }
 
 function generateGamesYear(){
-    var games = []
-
-    for(var i = 0; i < 10; i++){
-        games[i] = generateGame(i)
-    }
     var games_year = []
-    for(var j = 0; j < 21; j++){
+    for(var j = 0; j < 5; j++){
         games_year[j] = {
             year: j+2000,
-            games: games
+            games: generateGames(j)
         }
     }
     return games_year
 }
 
-function generateGames(){
+function generateGames(x){
     var games = []
 
-    for(var i = 0; i < 10; i++){
-        games[i] = generateGame(i)
+    for(var i = (x*5); i < 5*(x+1); i++){
+        games.push(generateGame(i))
     }
     return games
 }
@@ -156,7 +149,7 @@ function generateGames(){
 function generateData() {
     return {
         games_year: generateGamesYear(),
-        games: generateGames()
+        games: generateGames(0)
     };
 }
 

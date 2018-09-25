@@ -28,7 +28,8 @@
 </template>
 
 <script>
-import json from '@/../utils/db.json'
+// import json from '@/../utils/db.json'
+import json from '@/../utils/db_new.json'
 import GameCarousel from '@/components/GameCarousel.vue'
 import DescriptionCard from '@/components/game/DescriptionCard.vue'
 import CreditsCard from '@/components/game/CreditsCard.vue'
@@ -44,20 +45,17 @@ export default {
     'game-card': GameCardDescription,
     'download-card': DownloadCard
   },
-  data: function () {
-    return {
-      game: json.games[this.game_id]
-    }
-  },
   props: {
-    game_id: Number
+    game_id: Number,
+  },
+  computed: {
+    game: function (){
+      for(var i = 0, size = json.length; i < size; i++){
+        var game = json[i].games.find(game => game.id===this.game_id);
+        if(game!=undefined) break;
+      }
+      return game
+    }
   }
 }
-// <!-- <carousel/> -->
-//     <ul>
-//       <li v-for="(value, key, index) in game" :key="value+index+key">
-//         {{key}}: {{value}}
-//         <img v-if="key=='cover_image'" :src="value" />
-//       </li>
-//     </ul>
 </script>
