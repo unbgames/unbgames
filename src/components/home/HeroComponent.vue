@@ -7,8 +7,6 @@
               <span class="subheading white--text">
                 Lorem ipsum dolor sit amet, pri veniam forensibus id.
                 Vis maluisset molestiae id, ad semper lobortis cum.
-                At impetus detraxit incorrupte usu, repudiare assueverit ex eum,
-                ne nam essent vocent admodum.
               </span>
               <v-divider class="my-4"></v-divider>
               <v-btn class="mx-0" color="green lighten-1" large>
@@ -53,6 +51,25 @@ body, html {
     background-image: url("https://github.com/unbgames/Wenova/raw/master/res/readme/menu1.png");
 
     /* Full height */
+    height: 100%; 
+    max-height: auto;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.test {
+  position: relative;
+  z-index: 999;
+  padding-top: 50px;
+}
+@media only screen and (min-width: 600px) {
+  #particles-js { 
+    /* The image used */
+    background-image: url("https://github.com/unbgames/Wenova/raw/master/res/readme/menu1.png");
+
+    /* Full height */
     height: 50%; 
     max-height: 500px;
 
@@ -61,16 +78,10 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.test {
-  position: absolute;
-  z-index: 999;
-  margin: 100px;
-}
-@media only screen and (min-width: 600px) {
   .test {
     position: absolute;
     z-index: 999;
-    margin: 5% 40%;
+    margin: 3% 40%;
   }
 }
 </style>
