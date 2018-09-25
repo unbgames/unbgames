@@ -30,7 +30,7 @@ ul, li {
 }
 
 #app {
-  background: #B0A4A2;
+  background: #EEEEEE;
 }
 
 .link-app{

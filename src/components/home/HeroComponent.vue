@@ -1,7 +1,7 @@
 <template>
     <div id="particles-js">
       <div class="test">  
-          <v-layout align-center>
+          <v-layout>
             <v-flex text-xs-center>
               <h3 class="display-3 white--text">UnBGames</h3>
               <span class="subheading white--text">
@@ -44,15 +44,33 @@ export default {
 </script>
 
 <style>
-#particles-js {
-  background-image: url("https://github.com/unbgames/Wenova/raw/master/res/readme/menu1.png");
-  max-height: 33em;
+body, html {
+    height: 100%;
 }
-@media only screen and (min-width: 600px)  {    
-  .test{
+
+#particles-js { 
+    /* The image used */
+    background-image: url("https://github.com/unbgames/Wenova/raw/master/res/readme/menu1.png");
+
+    /* Full height */
+    height: 50%; 
+    max-height: 500px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.test {
+  position: absolute;
+  z-index: 999;
+  margin: 100px;
+}
+@media only screen and (min-width: 600px) {
+  .test {
     position: absolute;
     z-index: 999;
-    margin: 100px;
+    margin: 5% 40%;
   }
 }
 </style>

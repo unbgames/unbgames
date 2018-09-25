@@ -4,12 +4,12 @@
             <span class="font-weight-light title">Descrição</span>
             <p class="description-text">{{game_description}}</p>
         </v-card-text>
-        <v-card-actions v-if="genres.length!=0">
+        <div class="genres-card" v-if="genres.length!=0">
             <strong>Gêneros:</strong> 
-            <span  class="genres-btn" v-for="(genre,i) in genres" :key="genre+i">
+            <span v-for="(genre,i) in genres" :key="genre+i">
                 <v-btn color="green light-4 white--text"  round small>{{genre}}</v-btn>
             </span>
-        </v-card-actions>
+        </div>
     </v-card>
 </template>
 
@@ -17,8 +17,8 @@
 .description-text{
     margin-top: 10px; 
 }
-.genres-btn{
-    margin: 0 7px;
+.genres-card{
+    padding: 5px 15px;
 }
 </style>
 
