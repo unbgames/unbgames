@@ -1,10 +1,8 @@
 <template>
     <v-card color="blue-grey darken-2" class="white--text">
-        <v-card-title>
-            <span class="headline">Descrição</span>
-        </v-card-title>
         <v-card-text>
-            {{game_description}}
+            <span class="font-weight-light title">Descrição</span>
+            <p class="description-text">{{game_description}}</p>
         </v-card-text>
         <!-- <v-card-actions>
             <v-btn flat color="orange">{{game_license}}</v-btn>
@@ -14,7 +12,9 @@
 </template>
 
 <style>
-
+.description-text{
+    margin-top: 10px; 
+}
 </style>
 
 <script>

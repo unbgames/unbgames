@@ -2,8 +2,7 @@
   <v-container>
     <v-flex>
       <div>
-        <h1>{{game.name}}</h1>
-        <h2>{{game.semester}} / {{game.year}}</h2>
+        <h1 class="font-weight-thin display-1">{{game.name}}</h1>
       </div>
     </v-flex>
     <v-layout row wrap>
