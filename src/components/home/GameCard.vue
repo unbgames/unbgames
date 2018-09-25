@@ -1,27 +1,38 @@
 <template>
-    <v-card>
-        <v-card-media
-            :src="cover_image"
-            height="200px"
-        ></v-card-media>
+    <v-card class="game-card">
+        <v-card-media>
+            <img class="cover-image" :src="cover_image" alt="cover_image"/>>
+        </v-card-media>
         <v-card-title primary-title>
-            <div>
-                <h4 class="headline mb-0">{{name}}</h4>
-            </div>
+            <h4 class="title card-text">{{getName}}</h4>
         </v-card-title>
-        <!-- <v-card-actions>
-            <v-btn flat color="orange">Share</v-btn>
-        </v-card-actions> -->
     </v-card>  
 </template>
 
 <script>
 export default {
-    name: "GameCard",
-    props: {
-        cover_image: String,
-        name: String
+  name: "GameCard",
+  props: {
+    cover_image: String,
+    name: String
+  },
+  computed: {
+    getName: function() {
+      return this.name.slice(0, 23) + "...";
     }
+  }
+};
+</script>
+
+<style>
+.game-card {
+  color: black;
+  background: #e0e0e0;
 }
-</script>        
-          
+.cover-image {
+    max-height: 200px;
+    background-size: 100%;
+    background-position: center;
+}
+
+</style>

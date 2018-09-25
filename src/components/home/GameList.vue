@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-flex v-for="i in 3" :key="`2${i}`" mx-5>
-      <h1>{{year_title}}</h1>
+      <h1 class="title">{{year_title}}</h1>
       <card-carrousel :games="games" />    
     </v-flex>
   </div>

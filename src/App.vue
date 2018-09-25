@@ -2,7 +2,6 @@
   <div id="app">
     <menu-app />
     <router-view/>
-    
     <footer-app />
   </div>
 </template>
@@ -25,7 +24,12 @@ export default {
 a {
   text-decoration: none;  
 }
+
 ul, li {
   list-style: none;
+}
+
+#app {
+  background: #B0A4A2;
 }
 </style>
