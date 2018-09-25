@@ -7,7 +7,7 @@
     </v-flex>
     <v-layout row wrap>
       <v-flex d-flex xs12 sm12 md8 my-3>
-        <carousel :images="game.items"/>
+        <carousel :images="game.images"/>
       </v-flex>
       <v-flex md3 :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}">
         <v-flex my-3>

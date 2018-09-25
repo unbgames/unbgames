@@ -1,7 +1,7 @@
 <template>
     <v-card class="game-card">
         <v-card-media>
-            <img class="cover-image" :src="cover_image" alt="cover_image"/>>
+            <img class="cover-image" :src="cover_image" alt="cover_image"/>
         </v-card-media>
         <v-card-title primary-title>
             <h4 class="title card-text">{{getName}}</h4>

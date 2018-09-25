@@ -1,37 +1,53 @@
 <template>
     <div>
         <v-expansion-panel>
-            <v-expansion-panel-content
-            >
+            <v-expansion-panel-content>
                 <div slot="header"><span class="title font-weight-regular">Download</span></div>
-                <v-card>
-                    <v-card-text>
-                        fdsa
-                    </v-card-text>
-                </v-card>
+                <v-data-table
+                    :headers="headers"
+                    :items="game.packs"
+                    hide-actions
+                    class="elevation-1"
+                >
+                    <template slot="items" slot-scope="props">
+                    <td>
+                        <a class="link-app" :href="props.item.link">
+                            <v-icon color="white darken-2">mdi-{{ props.item.platform }}</v-icon> {{ props.item.platform }}
+                        </a>
+                    </td>
+                        <td class="text-xs-left">{{ props.item.architecture }}</td>
+                    </template>
+                </v-data-table>
             </v-expansion-panel-content>
         </v-expansion-panel>
     </div>
 </template>
 
 <style>
-
 </style>
 
 <script>
 export default {
-    name: "AuthorsCard",
-    props: {
-        credits: Array,
-    },
-    data () {
-      return {
-        items: [
-          { title: 'deb', icon: 'dashboard' },
-          { title: 'Account', icon: 'account_box' },
-          { title: 'Admin', icon: 'gavel' }
-        ]
-      }
-    }
-}
+  name: "AuthorsCard",
+  props: {
+    game: Object
+  },
+  data() {
+    return {
+      headers: [
+        {
+          text: "Plataforma",
+          align: "left",
+          sortable: false,
+          value: "platform"
+        },
+        {
+          text: "Arquitetura",
+          sortable: false,
+          value: "architecture"
+        }
+      ]
+    };
+  }
+};
 </script>

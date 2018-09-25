@@ -5,14 +5,16 @@
             <p><strong>Ano de lançamento:</strong> {{game.year}}</p>
             <p>
                 <strong>Repositório Oficial:</strong><br>
-                <a class="repository-link" :href="game.repository">{{game.name}}</a>
+                <a class="link-app" :href="game.repository">{{game.name}}</a>
             </p>
-            <p><strong>Gêneros:</strong> lista de</p>
+            <p><strong>Gêneros:</strong> 
+            <span v-for="(genre,i) in game.genres" :key="genre+i">
+                <v-btn color="primary" dark>
+                    {{genre}}
+                </v-btn>
+            </span>
+            </p>
             <p><strong> icone - Multiplayer</strong></p>
-        </v-card-text>
-        <!-- <v-card-actions>
-            <v-btn flat color="orange">Share</v-btn>
-        </v-card-actions> 
             <span v-for="(award,i) in game.awards" :key="award.type+i">
                 <div class="data-content" v-if="award.type=='game_year'">
                     <v-icon class="icon-content">mdi-xbox-controller</v-icon>
@@ -28,6 +30,11 @@
                     <v-icon class="icon-content">music_note</v-icon> {{award.type_text}} - {{award.position}}
                 </div>
             </span>
+        </v-card-text>
+        <!-- <v-card-actions>
+            <v-btn flat color="orange">Share</v-btn>
+        </v-card-actions> 
+            
         -->
     </v-card>  
 </template>
@@ -47,9 +54,5 @@ export default {
 }
 .icon-content {
     padding: 2px;
-}
-.repository-link{
-    color: black;
-    margin: 15px 15px;
 }
 </style>

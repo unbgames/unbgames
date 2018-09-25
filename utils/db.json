@@ -36,19 +36,48 @@
           "revelation": true
         }
       ],
-      "items": [
+      "genres": [
+        "Ação", "Aventura", "Corrida"
+      ],
+      "packs": [
+        {
+          "platform": "debian",
+          "link": "http://adah.com",
+          "architecture": "i386",
+          "extension": "deb"
+        },
+        {
+          "platform": "fedora",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "windows",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        },
+        {
+          "platform": "apple",
+          "link": "http://adah.com",
+          "architecture": "x86_64",
+          "extension": "rpm"
+        }
+      ],
+      "images": [
         {
           "fdsa": "fdsa",
-          "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+          "src": "http://lorempixel.com/640/480"
         },
         {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg"
+          "src": "http://lorempixel.com/640/480"
         },
         {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/bird.jpg"
+          "src": "http://lorempixel.com/640/480"
         },
         {
-          "src": "https://cdn.vuetifyjs.com/images/carousel/planet.jpg"
+          "src": "http://lorempixel.com/640/480"
         },
         {
           "src": "http://lorempixel.com/640/480"

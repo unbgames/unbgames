@@ -32,4 +32,8 @@ ul, li {
 #app {
   background: #B0A4A2;
 }
+
+.link-app{
+  color: yellow;
+}
 </style>
