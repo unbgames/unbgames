@@ -26,25 +26,25 @@ function generateAwards(){
         {
           type_text: "Jogo do ano",
           type: "game_year",
-          position: "Primeiro lugar",
+          position: "1 lugar",
           revelation: true
         },
         {
           type_text: "Melhor arte",
           type: "art",
-          position: "Primeiro lugar",
+          position: "2 lugar",
           revelation: true
         },
         {
           type_text: "Melhor implementação",
           type: "devel",
-          position: "Primeiro lugar",
+          position: "1 lugar",
           revelation: true
         },
         {
           type_text: "Melhor trilha sonora",
           type: "music",
-          position: "Primeiro lugar",
+          position: "3 lugar",
           revelation: true
         }
     ]

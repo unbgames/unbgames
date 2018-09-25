@@ -1,7 +1,7 @@
 <template>
   <div class="header-app">
-    <router-link to="/">
-      <h1 class="text-md-center white--text header-text">UnB Games</h1>
+    <router-link class="text-xs-center white--text header-text" to="/">
+      <h1>UnB Games</h1>
     </router-link>
   </div>
 </template>
@@ -13,11 +13,13 @@ export default {
 </script>
 <style>
 .header-app{
-  background: black;
+  background: #282928;
   padding: 10px 0;
 }
-.header-text{
+.header-text {
   vertical-align: center;
+  text-decoration: none;
+  color: red;
 }
 </style>
 

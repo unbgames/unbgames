@@ -21,8 +21,8 @@ export default {
 
 </script>
 <style>
-a {
-  text-decoration: none;  
+body {
+  color: #282928;
 }
 
 ul, li {
@@ -34,6 +34,6 @@ ul, li {
 }
 
 .link-app{
-  color: yellow;
+  color: #282928;
 }
 </style>

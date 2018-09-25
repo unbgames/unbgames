@@ -18,9 +18,9 @@
     </v-layout>
     <v-layout row wrap>
       <v-flex xs12 md8 sm12 my-3>
-        <description-card :game_description="game.description" :game_license="game.license" />
+        <description-card :game_description="game.description" :game_license="game.license" :genres="game.genres" />
       </v-flex>
-      <v-flex my-3 :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}">
+      <v-flex my-3 md3 :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}">
         <credits-card :credits="game.credits"/>
       </v-flex>
     </v-layout>

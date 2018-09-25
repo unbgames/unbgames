@@ -4,7 +4,7 @@
             <img class="cover-image" :src="cover_image" alt="cover_image"/>
         </v-card-media>
         <v-card-title primary-title>
-            <h4 class="title card-text">{{getName}}</h4>
+            <h4 class="title card-text text-truncate">{{name}}</h4>
         </v-card-title>
     </v-card>  
 </template>
@@ -16,17 +16,12 @@ export default {
     cover_image: String,
     name: String
   },
-  computed: {
-    getName: function() {
-      return this.name.slice(0, 23) + "...";
-    }
-  }
 };
 </script>
 
 <style>
 .game-card {
-  color: black;
+  color: #282928;
   background: #e0e0e0;
 }
 .cover-image {
@@ -34,5 +29,4 @@ export default {
     background-size: 100%;
     background-position: center;
 }
-
 </style>

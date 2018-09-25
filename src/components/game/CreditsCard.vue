@@ -1,5 +1,5 @@
 <template>
-    <v-card color="blue-grey darken-2" class="white--text">
+    <v-card color="grey lighten-2">
         <div v-for="credit in credits" :key="credit.role">
             <v-card-text>
                 <span class="font-weight-light title">{{credit.role}}</span>
@@ -18,7 +18,7 @@
     margin-top: 10px;
 }
 .author-link {
-    color: white;
+    color: #282928;
 }
 </style>
 

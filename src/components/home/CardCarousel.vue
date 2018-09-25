@@ -1,7 +1,7 @@
 <template>
   <swiper :options="swiper_option">
     <swiper-slide v-for="game in games" :key="game.id + game.name">
-      <router-link :to="{name: 'game', params: {game_id: game.id, game_json: game}}">
+      <router-link class="card-carousel" :to="{name: 'game', params: {game_id: game.id, game_json: game}}">
         <card-game :name="game.name" :cover_image="game.cover_image" />
       </router-link>
     </swiper-slide>

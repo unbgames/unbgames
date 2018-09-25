@@ -1,18 +1,21 @@
 <template>
-    <div>
+    <v-card color="grey lighten-2">
         <v-expansion-panel>
-            <v-expansion-panel-content>
-                <div slot="header"><span class="title font-weight-regular">Download</span></div>
+            <v-expansion-panel-content>                
+                <div slot="header"><span class="title font-weight-thin text-uppercase">DOWNLOAD</span></div>
                 <v-data-table
                     :headers="headers"
                     :items="game.packs"
                     hide-actions
-                    class="elevation-1"
+                    class="elevation-2"
                 >
                     <template slot="items" slot-scope="props">
                     <td>
+                        <v-icon v-if="props.item.platform=='debian'" size="18" color="red">mdi-{{ props.item.platform }}</v-icon>
+                        <v-icon v-else-if="props.item.platform=='fedora'" size="18" color="purple">mdi-{{ props.item.platform }}</v-icon>
+                        <v-icon v-else size="18">mdi-{{ props.item.platform }}</v-icon>
                         <a class="link-app" :href="props.item.link">
-                            <v-icon color="white darken-2">mdi-{{ props.item.platform }}</v-icon> {{ props.item.platform }}
+                            <span class="body-1 text-capitalize platform-text">{{ props.item.platform }}</span>
                         </a>
                     </td>
                         <td class="text-xs-left">{{ props.item.architecture }}</td>
@@ -20,10 +23,14 @@
                 </v-data-table>
             </v-expansion-panel-content>
         </v-expansion-panel>
-    </div>
+    </v-card>
 </template>
 
 <style>
+.platform-text {
+    font-size: 1.2em;
+    padding: 5px;
+}
 </style>
 
 <script>

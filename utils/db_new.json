@@ -4,39 +4,39 @@
     "games": [
       {
         "id": 0,
-        "name": "Internal Division Orchestrator",
-        "year": 2017,
+        "name": "Dynamic Mobility Officer",
+        "year": 2011,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Labore rerum unde recusandae consequatur quia ea. Voluptates voluptas eos dignissimos corrupti sunt quisquam possimus. Consequatur qui magni ipsa culpa. Aspernatur voluptatum et itaque rerum natus.",
-        "repository": "http://maddison.name",
+        "description": "Tempora et molestiae. Aut rerum numquam. Et ut optio assumenda fugiat porro voluptates. Libero iure velit. Animi aliquid dolores est voluptatem. Quae sapiente ut recusandae sed quis est.",
+        "repository": "https://odessa.net",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Alexane", "Callie", "Hilbert", "Jules", "Ervin"],
+        "genres": ["Oran", "Triston", "Kara", "Gonzalo", "Cora"],
         "packs": [
           {
             "platform": "debian",
@@ -66,52 +66,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Usability Consultant",
+            "name": "National Operations Architect",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Paradigm Assistant",
+            "name": "Lead Tactics Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Branding Orchestrator",
+            "name": "Customer Accounts Executive",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Accountability Developer",
+            "name": "Direct Solutions Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Implementation Strategist",
+            "name": "National Assurance Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Creative Agent",
+            "name": "Investor Group Orchestrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Creative Producer",
+            "name": "Central Accounts Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Tactics Director",
+            "name": "Senior Accounts Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Markets Consultant",
+            "name": "Future Group Representative",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Quality Director",
+            "name": "International Creative Supervisor",
             "is_gallery": false
           }
         ],
@@ -120,15 +120,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Marianne",
+                "name": "Jody",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kristopher",
+                "name": "Estella",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jessy",
+                "name": "Bella",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -137,15 +137,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Letitia",
+                "name": "Korey",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Aliyah",
+                "name": "Isabella",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Khalid",
+                "name": "Eldon",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -154,15 +154,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Benedict",
+                "name": "Emmett",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Pauline",
+                "name": "Bonita",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kade",
+                "name": "Peter",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -171,39 +171,39 @@
       },
       {
         "id": 1,
-        "name": "Senior Identity Developer",
-        "year": 2000,
+        "name": "Customer Research Director",
+        "year": 2007,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Ea officiis saepe asperiores harum est. Ullam velit ratione ratione. Mollitia tempora sunt quos assumenda.",
-        "repository": "http://ava.info",
+        "description": "Laborum omnis voluptate qui saepe. Et dolores nam voluptatem accusantium et id. Officia labore facere et id ut. Dicta ut nobis sint repudiandae. Mollitia rem ut. Magni id sit accusantium dolores a.",
+        "repository": "https://stuart.biz",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Alf", "Sonny", "Marianne", "Catherine", "Kamren"],
+        "genres": ["Logan", "Jordan", "Emily", "Amaya", "Beatrice"],
         "packs": [
           {
             "platform": "debian",
@@ -233,52 +233,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Usability Associate",
+            "name": "Chief Response Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Mobility Orchestrator",
+            "name": "Global Program Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Assurance Agent",
+            "name": "Customer Brand Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Group Producer",
+            "name": "Legacy Creative Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Creative Agent",
+            "name": "Principal Metrics Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Division Supervisor",
+            "name": "Principal Security Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Configuration Producer",
+            "name": "Customer Accounts Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Usability Facilitator",
+            "name": "Human Interactions Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Implementation Agent",
+            "name": "District Configuration Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Factors Engineer",
+            "name": "Chief Markets Producer",
             "is_gallery": false
           }
         ],
@@ -287,15 +287,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Jazlyn",
+                "name": "Juston",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jasper",
+                "name": "Elva",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Carrie",
+                "name": "Kristina",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -304,15 +304,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Lauriane",
+                "name": "Juliana",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Rasheed",
+                "name": "Clair",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Alford",
+                "name": "Henry",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -321,15 +321,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Santino",
+                "name": "Edison",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Curtis",
+                "name": "Sammy",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Lonnie",
+                "name": "Emelie",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -338,39 +338,39 @@
       },
       {
         "id": 2,
-        "name": "Forward Applications Designer",
-        "year": 2011,
+        "name": "Future Applications Associate",
+        "year": 2019,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Iure dolores asperiores ut earum quia porro qui quaerat. Consequatur aut architecto. Laudantium ipsa error est voluptatum reiciendis. Et voluptatem soluta.",
-        "repository": "http://hope.org",
+        "description": "Eos omnis earum animi. Exercitationem et quibusdam et non blanditiis distinctio cumque. Esse consequatur atque aut quidem est omnis fugiat doloremque. Aperiam odit hic. Asperiores et dolores dolorem voluptatem deleniti. Qui non excepturi.",
+        "repository": "http://johnathon.biz",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Daisha", "Abdiel", "Hilton", "Destini", "Jocelyn"],
+        "genres": ["Wilfrid", "Helmer", "Werner", "Santina", "Makenzie"],
         "packs": [
           {
             "platform": "debian",
@@ -400,52 +400,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Implementation Officer",
+            "name": "National Division Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Infrastructure Orchestrator",
+            "name": "Internal Research Agent",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Research Engineer",
+            "name": "Global Security Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Usability Facilitator",
+            "name": "Global Intranet Orchestrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Marketing Representative",
+            "name": "Global Directives Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Response Architect",
+            "name": "National Implementation Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Program Engineer",
+            "name": "Regional Implementation Assistant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Implementation Designer",
+            "name": "Internal Communications Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Usability Assistant",
+            "name": "Human Program Assistant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Response Analyst",
+            "name": "Forward Infrastructure Administrator",
             "is_gallery": false
           }
         ],
@@ -454,15 +454,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Keanu",
+                "name": "Maximillia",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Rex",
+                "name": "Deion",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Agnes",
+                "name": "Tyrese",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -471,15 +471,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Assunta",
+                "name": "Ivah",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Horacio",
+                "name": "Will",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Dasia",
+                "name": "Grady",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -488,15 +488,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Grayson",
+                "name": "Korey",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Damaris",
+                "name": "Melvin",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Zachery",
+                "name": "Davonte",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -505,39 +505,39 @@
       },
       {
         "id": 3,
-        "name": "Principal Optimization Assistant",
+        "name": "Forward Tactics Representative",
         "year": 2000,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Vel et repellendus rerum et nulla nemo voluptas. Repudiandae ut quibusdam consequatur voluptas quasi ut reprehenderit. Porro consequuntur quia.",
-        "repository": "https://dan.org",
+        "description": "Sed ut totam aspernatur necessitatibus non. Minima beatae ut debitis autem. Molestiae blanditiis voluptatum eos rem nesciunt ex accusantium omnis rerum. Id repellendus voluptas praesentium eveniet nostrum.",
+        "repository": "http://jarret.name",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Abagail", "Britney", "Stefan", "Cordia", "Declan"],
+        "genres": ["Raegan", "Reymundo", "Albert", "Connie", "Myrtle"],
         "packs": [
           {
             "platform": "debian",
@@ -567,52 +567,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Metrics Executive",
+            "name": "District Communications Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Implementation Planner",
+            "name": "Central Intranet Representative",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Applications Facilitator",
+            "name": "Future Paradigm Coordinator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Research Analyst",
+            "name": "Senior Communications Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Customer Brand Assistant",
+            "name": "Corporate Quality Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Division Supervisor",
+            "name": "Human Assurance Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Creative Representative",
+            "name": "Human Operations Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Implementation Agent",
+            "name": "Product Research Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Division Agent",
+            "name": "Investor Integration Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Program Assistant",
+            "name": "Dynamic Response Facilitator",
             "is_gallery": false
           }
         ],
@@ -621,15 +621,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Lincoln",
+                "name": "Joelle",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kelsi",
+                "name": "Emily",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Edwin",
+                "name": "Bill",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -638,15 +638,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Kay",
+                "name": "Linnea",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Brown",
+                "name": "Laila",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kelton",
+                "name": "Ethyl",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -655,15 +655,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Karine",
+                "name": "Reuben",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Llewellyn",
+                "name": "Candido",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jacquelyn",
+                "name": "Lyla",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -672,39 +672,39 @@
       },
       {
         "id": 4,
-        "name": "Senior Directives Administrator",
-        "year": 2015,
+        "name": "Human Accountability Developer",
+        "year": 2009,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Aut omnis at est eaque inventore est totam. Occaecati perspiciatis facere itaque. Tempore amet cum et est.",
-        "repository": "https://daisha.info",
+        "description": "Laudantium quae non suscipit ut. Repellat voluptas itaque cumque eos velit. Dignissimos autem inventore assumenda nihil illum ipsam placeat. Debitis autem autem adipisci. Itaque odit provident ea ullam est tempora aspernatur asperiores. Vel quia distinctio.",
+        "repository": "http://linnie.org",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Mafalda", "Jesus", "Jazmyn", "Ramona", "Maynard"],
+        "genres": ["Mina", "Gregg", "Cameron", "Hugh", "Mariano"],
         "packs": [
           {
             "platform": "debian",
@@ -734,52 +734,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Interactions Officer",
+            "name": "National Usability Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Communications Consultant",
+            "name": "Direct Marketing Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Communications Developer",
+            "name": "Human Paradigm Assistant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Identity Producer",
+            "name": "Customer Quality Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Intranet Architect",
+            "name": "Human Usability Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Accounts Manager",
+            "name": "National Division Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Accountability Planner",
+            "name": "Global Accounts Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Security Agent",
+            "name": "Regional Marketing Orchestrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Customer Factors Facilitator",
+            "name": "Product Branding Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Mobility Specialist",
+            "name": "Dynamic Creative Specialist",
             "is_gallery": false
           }
         ],
@@ -788,15 +788,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Zelda",
+                "name": "Rachael",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Maximillian",
+                "name": "Giovani",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Breanna",
+                "name": "Alvah",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -805,15 +805,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Mariane",
+                "name": "Winifred",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Alison",
+                "name": "Joaquin",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Hattie",
+                "name": "Golda",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -822,15 +822,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Americo",
+                "name": "Kiera",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Beryl",
+                "name": "Liliana",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Aidan",
+                "name": "Merritt",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -844,39 +844,39 @@
     "games": [
       {
         "id": 5,
-        "name": "Dynamic Usability Supervisor",
-        "year": 2002,
+        "name": "Human Factors Officer",
+        "year": 2009,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Et incidunt tenetur non delectus id quos. Optio est sint libero. Velit est temporibus perspiciatis veritatis explicabo quis. Quo dolorem tempore.",
-        "repository": "http://brittany.name",
+        "description": "Qui reiciendis nam expedita velit assumenda sint eos et. Dolorem natus deleniti natus voluptatum. Maxime modi aliquam deserunt aut voluptatem modi enim molestias. Pariatur velit porro.",
+        "repository": "http://catherine.org",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Crystel", "Carmella", "Duane", "Jessy", "Ashleigh"],
+        "genres": ["Candace", "Modesto", "Rachel", "Madalyn", "Zora"],
         "packs": [
           {
             "platform": "debian",
@@ -906,52 +906,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Internal Directives Assistant",
+            "name": "Senior Infrastructure Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Communications Orchestrator",
+            "name": "Direct Tactics Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Markets Planner",
+            "name": "Legacy Quality Architect",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Customer Tactics Liaison",
+            "name": "Legacy Response Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Security Orchestrator",
+            "name": "Customer Factors Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Infrastructure Representative",
+            "name": "Regional Branding Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Internal Implementation Facilitator",
+            "name": "Direct Factors Liaison",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Metrics Associate",
+            "name": "Direct Paradigm Consultant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Infrastructure Facilitator",
+            "name": "Customer Accountability Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Interactions Architect",
+            "name": "Product Creative Specialist",
             "is_gallery": false
           }
         ],
@@ -960,15 +960,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Elyse",
+                "name": "Javier",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Yvette",
+                "name": "Torrance",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Halle",
+                "name": "Devyn",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -977,15 +977,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Brant",
+                "name": "Josiah",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jeanne",
+                "name": "Nickolas",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Janie",
+                "name": "Sidney",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -994,15 +994,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Vivien",
+                "name": "Nasir",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Aubree",
+                "name": "Alberta",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Justina",
+                "name": "Chaya",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1011,39 +1011,39 @@
       },
       {
         "id": 6,
-        "name": "Human Marketing Supervisor",
-        "year": 2000,
+        "name": "Senior Communications Assistant",
+        "year": 2004,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Nostrum quo provident hic. Iusto harum quod a ipsa. Omnis voluptatem nemo animi quaerat inventore quidem laborum ratione voluptates. Ipsa dolorem et beatae dolorem optio sunt. Architecto aliquam recusandae et. Nihil accusamus dolores voluptas et iste provident facilis.",
-        "repository": "https://abe.com",
+        "description": "Deserunt consectetur vitae id dolorem numquam consectetur animi sit. Odio nesciunt odio voluptas nobis ab dolorum qui non. Illo quo et est iure dolorem aut dignissimos. Et commodi temporibus ratione vero doloribus. Quas iste est veniam dicta modi nobis id eaque in. Earum et exercitationem.",
+        "repository": "https://kaylin.info",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Lilian", "Angelica", "Torey", "Daisy", "Rhianna"],
+        "genres": ["Saige", "Arvilla", "Karson", "Cale", "Samanta"],
         "packs": [
           {
             "platform": "debian",
@@ -1073,52 +1073,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Accounts Orchestrator",
+            "name": "Direct Web Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Web Associate",
+            "name": "Direct Response Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Creative Planner",
+            "name": "Investor Program Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Accountability Planner",
+            "name": "Central Accountability Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Quality Assistant",
+            "name": "Investor Factors Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Applications Supervisor",
+            "name": "Internal Quality Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Usability Consultant",
+            "name": "Forward Accountability Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Mobility Assistant",
+            "name": "Central Metrics Liaison",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Division Associate",
+            "name": "Dynamic Configuration Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Optimization Associate",
+            "name": "Corporate Applications Coordinator",
             "is_gallery": false
           }
         ],
@@ -1127,15 +1127,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Ari",
+                "name": "Stacy",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Darrion",
+                "name": "Nathan",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ella",
+                "name": "Ulices",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1144,15 +1144,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Jodie",
+                "name": "Jameson",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Norwood",
+                "name": "Daniela",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Caleigh",
+                "name": "Juliana",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1161,15 +1161,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Francesco",
+                "name": "Marcelina",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Leonardo",
+                "name": "Jeramie",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Elmer",
+                "name": "Peggie",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1178,39 +1178,39 @@
       },
       {
         "id": 7,
-        "name": "Central Mobility Planner",
-        "year": 2009,
+        "name": "Senior Functionality Orchestrator",
+        "year": 2005,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Quo vel aspernatur nulla laudantium. Deserunt magni assumenda. Vero ad sit ut omnis.",
-        "repository": "http://karine.com",
+        "description": "Aperiam laboriosam est vel maxime et eligendi quod fugiat. Maiores rem aspernatur aut. Quae distinctio sed cupiditate nihil. Eius et non qui omnis id laboriosam est error. Laboriosam sunt enim perspiciatis perferendis modi deserunt minima. Dignissimos laboriosam aut animi est inventore.",
+        "repository": "http://krystal.biz",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Aaliyah", "Cloyd", "Sim", "Marcelina", "Fabiola"],
+        "genres": ["Angela", "Newell", "Violette", "Abelardo", "Jazlyn"],
         "packs": [
           {
             "platform": "debian",
@@ -1240,52 +1240,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Tactics Designer",
+            "name": "Human Intranet Orchestrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Metrics Manager",
+            "name": "Investor Brand Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Applications Consultant",
+            "name": "Customer Solutions Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Interactions Coordinator",
+            "name": "District Optimization Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Marketing Agent",
+            "name": "Corporate Markets Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Response Producer",
+            "name": "International Intranet Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Solutions Assistant",
+            "name": "Regional Branding Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Accounts Liaison",
+            "name": "Customer Metrics Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Integration Supervisor",
+            "name": "Dynamic Response Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Accounts Manager",
+            "name": "Corporate Directives Specialist",
             "is_gallery": false
           }
         ],
@@ -1294,15 +1294,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Monserrate",
+                "name": "Desiree",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Daija",
+                "name": "Lauren",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Aubree",
+                "name": "Nathaniel",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1311,15 +1311,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Isabell",
+                "name": "Bert",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ona",
+                "name": "Kariane",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Tyreek",
+                "name": "Ethelyn",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1328,15 +1328,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Raymundo",
+                "name": "Breanne",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Crystal",
+                "name": "Adrien",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Antonetta",
+                "name": "Lucinda",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1345,39 +1345,39 @@
       },
       {
         "id": 8,
-        "name": "Investor Accounts Producer",
+        "name": "Dynamic Creative Architect",
         "year": 2012,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Placeat magnam pariatur quasi mollitia repellat fugit. Distinctio et fugiat eos hic quas eveniet repellendus non laborum. Nisi aut ratione est id et eligendi sit. Eos molestiae aut aliquam suscipit et sed nobis. Et tempora minima magnam autem porro adipisci nemo nihil et. Omnis fuga fugit enim corrupti maiores officia.",
-        "repository": "http://everette.net",
+        "description": "Minima sed commodi voluptas natus id. Numquam minus animi fugit hic quas et ut. Id enim aut dolorem est laudantium sapiente. Adipisci deleniti optio voluptas et sint. Vero eum explicabo quia et rerum.",
+        "repository": "https://amiya.name",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Malcolm", "Edgardo", "Jammie", "Herta", "Lyla"],
+        "genres": ["Sadye", "Elfrieda", "Neal", "Quincy", "Karina"],
         "packs": [
           {
             "platform": "debian",
@@ -1407,52 +1407,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Intranet Designer",
+            "name": "Legacy Infrastructure Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Intranet Developer",
+            "name": "Forward Assurance Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Security Agent",
+            "name": "International Marketing Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Program Facilitator",
+            "name": "Future Integration Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Integration Producer",
+            "name": "Product Quality Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Accounts Director",
+            "name": "Dynamic Branding Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Brand Developer",
+            "name": "Forward Marketing Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Response Designer",
+            "name": "Principal Program Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Factors Analyst",
+            "name": "Dynamic Functionality Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Paradigm Agent",
+            "name": "Internal Data Coordinator",
             "is_gallery": false
           }
         ],
@@ -1461,15 +1461,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Lance",
+                "name": "Danial",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Lavern",
+                "name": "Maci",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ferne",
+                "name": "Claude",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1478,15 +1478,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Summer",
+                "name": "Cyril",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ross",
+                "name": "Estella",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Albert",
+                "name": "Devan",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1495,15 +1495,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Sheila",
+                "name": "Kariane",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Elmira",
+                "name": "Kaela",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Brian",
+                "name": "Alexandra",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1512,39 +1512,39 @@
       },
       {
         "id": 9,
-        "name": "Product Markets Representative",
-        "year": 2007,
+        "name": "Chief Functionality Planner",
+        "year": 2003,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Unde quas aliquam maxime itaque est voluptatum aut. Sed ea nulla. Quod dolores voluptatibus velit.",
-        "repository": "https://krystina.name",
+        "description": "Molestiae est aut. Beatae expedita omnis. Autem praesentium perspiciatis qui sit laboriosam velit non maxime. Dolor officia impedit quam dignissimos voluptatem ad quis consequatur. Sed deserunt reiciendis impedit sapiente delectus in id aut et. Dolorem molestias amet ea voluptas.",
+        "repository": "http://genevieve.net",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Beatrice", "Amanda", "Cayla", "Harley", "Electa"],
+        "genres": ["Grayson", "Jimmie", "Chelsie", "Alvina", "Kathlyn"],
         "packs": [
           {
             "platform": "debian",
@@ -1574,52 +1574,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Quality Specialist",
+            "name": "Global Assurance Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Response Officer",
+            "name": "Investor Infrastructure Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Identity Technician",
+            "name": "Principal Research Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Research Representative",
+            "name": "Global Directives Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Tactics Coordinator",
+            "name": "District Directives Coordinator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Markets Engineer",
+            "name": "Central Metrics Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Operations Facilitator",
+            "name": "Forward Tactics Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Directives Director",
+            "name": "Customer Usability Liaison",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Solutions Director",
+            "name": "Chief Communications Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Functionality Coordinator",
+            "name": "Global Quality Orchestrator",
             "is_gallery": false
           }
         ],
@@ -1628,15 +1628,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Joyce",
+                "name": "Dorthy",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Julia",
+                "name": "Johnnie",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Gerda",
+                "name": "Marisol",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1645,15 +1645,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Gia",
+                "name": "Norwood",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Alessandra",
+                "name": "Petra",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Maeve",
+                "name": "Thelma",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1662,15 +1662,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Peter",
+                "name": "Amara",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ari",
+                "name": "Will",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Sanford",
+                "name": "Briana",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1684,39 +1684,39 @@
     "games": [
       {
         "id": 10,
-        "name": "District Mobility Assistant",
-        "year": 2014,
+        "name": "Central Intranet Analyst",
+        "year": 2008,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Sunt odio delectus necessitatibus occaecati quis nostrum. Qui et ipsa eos quaerat impedit suscipit vel id. Voluptate voluptatum dicta. Ut non est sed quia aperiam est sint fugit.",
-        "repository": "http://wilfred.com",
+        "description": "Sunt voluptatibus cupiditate fuga ipsam. Odit vel reiciendis dolores et eveniet architecto voluptatum. Aperiam exercitationem provident rem. Libero quas perferendis perferendis cupiditate sapiente. Ut ullam sint magnam ut quos laborum.",
+        "repository": "https://zackary.net",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Jackeline", "Torrance", "Tanner", "Aracely", "Sophie"],
+        "genres": ["Jillian", "Dawn", "Ima", "Allene", "Delphine"],
         "packs": [
           {
             "platform": "debian",
@@ -1746,52 +1746,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Metrics Strategist",
+            "name": "Direct Data Representative",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Group Strategist",
+            "name": "Lead Web Representative",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Identity Supervisor",
+            "name": "Regional Accounts Representative",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Mobility Specialist",
+            "name": "Customer Operations Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Web Architect",
+            "name": "Direct Identity Coordinator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Division Planner",
+            "name": "Dynamic Optimization Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Internal Usability Engineer",
+            "name": "Chief Accountability Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Quality Executive",
+            "name": "National Solutions Assistant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Configuration Director",
+            "name": "Forward Assurance Executive",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Group Producer",
+            "name": "Future Mobility Executive",
             "is_gallery": false
           }
         ],
@@ -1800,15 +1800,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Willa",
+                "name": "Grayson",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "William",
+                "name": "Elisa",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Estell",
+                "name": "Rene",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1817,15 +1817,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Andres",
+                "name": "Melyna",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Myrtis",
+                "name": "Mireya",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Christy",
+                "name": "Davon",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1834,15 +1834,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Lance",
+                "name": "Kenneth",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Lyda",
+                "name": "Isadore",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Deshaun",
+                "name": "Kamron",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1851,39 +1851,39 @@
       },
       {
         "id": 11,
-        "name": "Regional Optimization Designer",
-        "year": 2010,
+        "name": "Dynamic Functionality Producer",
+        "year": 2003,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Temporibus architecto debitis. Similique libero voluptatibus unde blanditiis itaque. Aliquam nam nulla non esse sunt.",
-        "repository": "https://hester.com",
+        "description": "Enim non nihil veniam. Voluptatum maiores occaecati. Quo aut nihil eum ex. Possimus accusamus sunt quia.",
+        "repository": "https://reyna.name",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Irwin", "Saige", "Lisette", "Arjun", "Citlalli"],
+        "genres": ["Billie", "Zoie", "Flo", "Kaylie", "Mercedes"],
         "packs": [
           {
             "platform": "debian",
@@ -1913,52 +1913,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Branding Designer",
+            "name": "Internal Functionality Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Marketing Planner",
+            "name": "Forward Factors Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Factors Analyst",
+            "name": "Chief Security Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Interactions Developer",
+            "name": "Regional Assurance Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Marketing Producer",
+            "name": "Central Operations Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Tactics Executive",
+            "name": "Customer Communications Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Creative Director",
+            "name": "Regional Integration Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Interactions Designer",
+            "name": "Customer Optimization Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Metrics Engineer",
+            "name": "Customer Directives Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Group Developer",
+            "name": "Central Implementation Manager",
             "is_gallery": false
           }
         ],
@@ -1967,15 +1967,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Arlene",
+                "name": "Hilton",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jennifer",
+                "name": "Ford",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ada",
+                "name": "Janessa",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -1984,15 +1984,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Lizeth",
+                "name": "Oran",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Florence",
+                "name": "Jacey",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Raheem",
+                "name": "Jordan",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2001,15 +2001,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Sydney",
+                "name": "Eino",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Arely",
+                "name": "Montana",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Dannie",
+                "name": "Pablo",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2018,39 +2018,39 @@
       },
       {
         "id": 12,
-        "name": "Product Branding Consultant",
-        "year": 2013,
+        "name": "National Research Technician",
+        "year": 2005,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Corrupti dolor cum repellendus voluptate distinctio ipsa beatae perspiciatis. Voluptatem id ea aut debitis eos facere consequatur sed. Est tempore optio atque non.",
-        "repository": "http://laurence.biz",
+        "description": "Esse aperiam ut cumque nisi et tempore ut perferendis voluptas. Voluptatem est modi totam magnam quos animi perspiciatis. Ut et voluptate.",
+        "repository": "https://daniella.info",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Guido", "Lavada", "Maude", "Mathew", "Fletcher"],
+        "genres": ["Kelsie", "Madge", "Brooklyn", "Fanny", "Talon"],
         "packs": [
           {
             "platform": "debian",
@@ -2080,52 +2080,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Implementation Supervisor",
+            "name": "International Tactics Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Accountability Facilitator",
+            "name": "National Marketing Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Directives Analyst",
+            "name": "Senior Data Executive",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Research Administrator",
+            "name": "Direct Program Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Factors Technician",
+            "name": "Human Optimization Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Intranet Officer",
+            "name": "Customer Brand Architect",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Infrastructure Analyst",
+            "name": "National Operations Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Solutions Director",
+            "name": "Senior Program Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Solutions Analyst",
+            "name": "Forward Solutions Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Response Facilitator",
+            "name": "Internal Tactics Representative",
             "is_gallery": false
           }
         ],
@@ -2134,15 +2134,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Anna",
+                "name": "Ilene",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Charley",
+                "name": "Frida",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Blanca",
+                "name": "Raleigh",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2151,15 +2151,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Isabella",
+                "name": "Hardy",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kiara",
+                "name": "Iva",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Genesis",
+                "name": "Preston",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2168,15 +2168,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Felix",
+                "name": "Cordia",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Van",
+                "name": "Barbara",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jonatan",
+                "name": "Marcellus",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2185,39 +2185,39 @@
       },
       {
         "id": 13,
-        "name": "Forward Solutions Technician",
-        "year": 2004,
+        "name": "Senior Directives Associate",
+        "year": 2007,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Non qui possimus omnis aut deleniti voluptate dolores vel. Maiores mollitia tempora suscipit pariatur autem. Maiores eum velit voluptatem autem. Sint aut aut sed. Quia minus et distinctio repellendus. Dolores veniam laudantium.",
-        "repository": "https://gustave.com",
+        "description": "Assumenda est tempore. Neque molestiae aperiam ad non. Quos nostrum laborum numquam tempore omnis eaque corporis dolores. Voluptatum exercitationem soluta est odio dignissimos cumque temporibus eos eos. Est et dolorem.",
+        "repository": "http://wilhelm.com",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Abner", "Vella", "Hassan", "Lelia", "Joannie"],
+        "genres": ["Kaitlin", "Marietta", "Raegan", "Mohamed", "Presley"],
         "packs": [
           {
             "platform": "debian",
@@ -2247,52 +2247,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Program Specialist",
+            "name": "Investor Marketing Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Applications Executive",
+            "name": "Dynamic Security Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Paradigm Officer",
+            "name": "International Accountability Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Security Planner",
+            "name": "Corporate Response Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Configuration Consultant",
+            "name": "Internal Directives Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Directives Administrator",
+            "name": "Principal Accountability Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Web Director",
+            "name": "Future Branding Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Factors Manager",
+            "name": "Principal Mobility Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Brand Producer",
+            "name": "National Division Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Program Coordinator",
+            "name": "Dynamic Branding Representative",
             "is_gallery": false
           }
         ],
@@ -2301,15 +2301,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Claude",
+                "name": "Ila",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Davonte",
+                "name": "Durward",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Shanelle",
+                "name": "Layla",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2318,15 +2318,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Donnie",
+                "name": "Violette",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ewald",
+                "name": "Jalen",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Mohamed",
+                "name": "Noble",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2335,15 +2335,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Stuart",
+                "name": "Hobart",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kathryn",
+                "name": "Ali",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Howard",
+                "name": "Emie",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2352,39 +2352,39 @@
       },
       {
         "id": 14,
-        "name": "Investor Program Director",
-        "year": 2004,
+        "name": "Dynamic Usability Liaison",
+        "year": 2003,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Possimus quasi iste magni aut suscipit. Ut alias aperiam laborum qui ea saepe et. Illum cum vitae similique provident. Eius sit sit eum beatae magni. Sunt aliquid vitae. Blanditiis sunt sint consequatur qui nemo ut et illo sed.",
-        "repository": "http://alicia.info",
+        "description": "Sunt aut atque. A repellendus nemo id est accusamus sint ullam aut. Ut repudiandae et. Non voluptatem voluptate. At libero deleniti voluptas cupiditate id voluptatem mollitia dolores omnis. Et officiis aut eveniet est dolores.",
+        "repository": "http://willard.org",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Justen", "Princess", "Ed", "Green", "Lilly"],
+        "genres": ["Salma", "Karina", "Andrew", "Adrien", "Ocie"],
         "packs": [
           {
             "platform": "debian",
@@ -2414,52 +2414,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Creative Manager",
+            "name": "Corporate Functionality Coordinator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Communications Associate",
+            "name": "Lead Usability Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Creative Associate",
+            "name": "Central Paradigm Agent",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Marketing Liaison",
+            "name": "Senior Interactions Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Data Director",
+            "name": "Internal Metrics Architect",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Factors Executive",
+            "name": "Product Usability Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Factors Orchestrator",
+            "name": "National Marketing Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Research Developer",
+            "name": "Central Brand Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Brand Administrator",
+            "name": "District Communications Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Infrastructure Developer",
+            "name": "Future Response Planner",
             "is_gallery": false
           }
         ],
@@ -2468,15 +2468,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Alysa",
+                "name": "Tillman",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Conner",
+                "name": "Amara",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Milan",
+                "name": "Molly",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2485,15 +2485,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Lorine",
+                "name": "Nelda",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Albin",
+                "name": "Aniyah",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Nelson",
+                "name": "Camille",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2502,15 +2502,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Astrid",
+                "name": "Barrett",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Cornelius",
+                "name": "Gust",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Rick",
+                "name": "Kacie",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2524,39 +2524,39 @@
     "games": [
       {
         "id": 15,
-        "name": "Direct Intranet Designer",
-        "year": 2008,
+        "name": "Corporate Creative Planner",
+        "year": 2011,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Id sint natus. Maxime porro impedit nemo ea nisi deserunt ut sed est. Tempora numquam minus unde ex cumque rem nihil sunt. At quia excepturi ut laborum sint rerum aliquid. Maiores accusantium inventore natus voluptas repudiandae sunt. Voluptatem ipsam odit ipsum atque quas nobis est.",
-        "repository": "http://kevon.name",
+        "description": "Voluptate vel reprehenderit. Est sed est neque corporis labore et. Dolorem laudantium quo perspiciatis.",
+        "repository": "http://eldon.org",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Reyes", "Paige", "Aylin", "Fae", "Naomie"],
+        "genres": ["Marilyne", "Icie", "Devyn", "Eliezer", "Breanne"],
         "packs": [
           {
             "platform": "debian",
@@ -2586,52 +2586,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Communications Consultant",
+            "name": "Chief Brand Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Mobility Agent",
+            "name": "Legacy Operations Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Applications Engineer",
+            "name": "Product Mobility Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Interactions Specialist",
+            "name": "Investor Configuration Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Brand Coordinator",
+            "name": "Product Implementation Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Data Supervisor",
+            "name": "Dynamic Interactions Liaison",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Program Supervisor",
+            "name": "Corporate Solutions Architect",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Factors Planner",
+            "name": "Product Marketing Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Solutions Analyst",
+            "name": "Product Marketing Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Marketing Associate",
+            "name": "Chief Usability Agent",
             "is_gallery": false
           }
         ],
@@ -2640,15 +2640,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Eloisa",
+                "name": "Nolan",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jonas",
+                "name": "Fidel",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Amara",
+                "name": "Eloy",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2657,15 +2657,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Hadley",
+                "name": "Etha",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Orlo",
+                "name": "Gillian",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Danika",
+                "name": "Autumn",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2674,15 +2674,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Mireille",
+                "name": "Luz",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Moses",
+                "name": "Adolfo",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Rafael",
+                "name": "Cecil",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2691,39 +2691,39 @@
       },
       {
         "id": 16,
-        "name": "Regional Mobility Officer",
-        "year": 2003,
+        "name": "Principal Assurance Specialist",
+        "year": 2004,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Hic repellat molestiae natus cum eos est. Unde et odio aut ex consequatur. Quia eum tempore inventore eius aut sint et esse.",
-        "repository": "http://michael.org",
+        "description": "Perspiciatis maxime sit quo ut ratione ad. Voluptatem praesentium quasi est. Quibusdam hic facere quam et nulla dolor culpa. Architecto asperiores eligendi officia corporis.",
+        "repository": "https://jaren.org",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Keagan", "Jarrett", "Lilliana", "Nathanael", "Corene"],
+        "genres": ["Merlin", "Kade", "Elliot", "Monty", "Murl"],
         "packs": [
           {
             "platform": "debian",
@@ -2753,52 +2753,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Accountability Engineer",
+            "name": "Product Accounts Liaison",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Functionality Consultant",
+            "name": "Principal Factors Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Infrastructure Associate",
+            "name": "District Intranet Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Optimization Analyst",
+            "name": "National Accounts Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Internal Accounts Coordinator",
+            "name": "Corporate Research Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Brand Producer",
+            "name": "Future Research Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Brand Strategist",
+            "name": "District Operations Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Tactics Strategist",
+            "name": "Customer Quality Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Tactics Liaison",
+            "name": "Customer Solutions Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Metrics Producer",
+            "name": "Product Metrics Director",
             "is_gallery": false
           }
         ],
@@ -2807,15 +2807,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Fae",
+                "name": "Vinnie",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Jordon",
+                "name": "Deshaun",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Arnaldo",
+                "name": "Mayra",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2824,15 +2824,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Megane",
+                "name": "Abigale",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Keyon",
+                "name": "Cristina",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Sheldon",
+                "name": "Christine",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2841,15 +2841,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Giovani",
+                "name": "Max",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Wilhelmine",
+                "name": "Stewart",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Dee",
+                "name": "Genevieve",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2858,39 +2858,39 @@
       },
       {
         "id": 17,
-        "name": "Dynamic Identity Developer",
-        "year": 2019,
+        "name": "National Usability Manager",
+        "year": 2007,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Quo ad esse alias exercitationem. Magni voluptas fugit et consequatur ullam. Voluptatibus voluptate maiores. Magni architecto deleniti voluptas laboriosam rerum est fugit. Aspernatur culpa minima aliquid temporibus quasi.",
-        "repository": "https://shanelle.org",
+        "description": "Impedit sit illo ut est cum accusamus hic. Voluptatem omnis dolor in consequatur. Labore temporibus aliquid quaerat rerum et consequatur aperiam eaque autem.",
+        "repository": "https://mable.name",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Ed", "Keanu", "Ashley", "August", "Nathaniel"],
+        "genres": ["Braxton", "Alda", "Belle", "Harvey", "Mckayla"],
         "packs": [
           {
             "platform": "debian",
@@ -2920,52 +2920,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Quality Representative",
+            "name": "District Configuration Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Web Consultant",
+            "name": "International Brand Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Metrics Specialist",
+            "name": "Product Assurance Consultant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Optimization Officer",
+            "name": "International Directives Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Communications Representative",
+            "name": "District Infrastructure Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Markets Orchestrator",
+            "name": "Human Interactions Orchestrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Quality Assistant",
+            "name": "Chief Interactions Analyst",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Interactions Technician",
+            "name": "Chief Intranet Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Customer Functionality Facilitator",
+            "name": "Regional Accounts Agent",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Operations Facilitator",
+            "name": "Central Directives Representative",
             "is_gallery": false
           }
         ],
@@ -2974,15 +2974,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Joshuah",
+                "name": "Lela",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Abigale",
+                "name": "Terence",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Morris",
+                "name": "Layne",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -2991,15 +2991,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Shannon",
+                "name": "Wanda",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Dashawn",
+                "name": "Lora",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Naomie",
+                "name": "Adaline",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3008,15 +3008,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Beverly",
+                "name": "Jena",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Annalise",
+                "name": "Malcolm",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kianna",
+                "name": "Aleen",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3025,39 +3025,39 @@
       },
       {
         "id": 18,
-        "name": "Global Functionality Agent",
-        "year": 2001,
+        "name": "National Markets Strategist",
+        "year": 2014,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Sint molestias impedit omnis sunt itaque. Est quae possimus quasi aut architecto. Dolor atque in eos. Quis vel in incidunt saepe minima enim. Suscipit eveniet consectetur quidem rem placeat non et quo.",
-        "repository": "https://seth.name",
+        "description": "Iste quaerat qui qui fuga minima reiciendis nulla. Eligendi et repudiandae ab quos. Dolorem non eveniet et laudantium error id quod.",
+        "repository": "http://connie.info",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Moshe", "Ewell", "Chasity", "Ally", "Tod"],
+        "genres": ["Dion", "Halle", "Melody", "Abbey", "Barton"],
         "packs": [
           {
             "platform": "debian",
@@ -3087,52 +3087,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Accounts Strategist",
+            "name": "Corporate Security Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Assurance Analyst",
+            "name": "Principal Division Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Optimization Architect",
+            "name": "Investor Program Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Factors Associate",
+            "name": "Principal Branding Orchestrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Implementation Director",
+            "name": "Direct Intranet Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Program Assistant",
+            "name": "Corporate Factors Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Mobility Coordinator",
+            "name": "Senior Usability Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Creative Technician",
+            "name": "Corporate Data Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Research Developer",
+            "name": "International Paradigm Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Internal Web Analyst",
+            "name": "Investor Creative Developer",
             "is_gallery": false
           }
         ],
@@ -3141,15 +3141,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Milo",
+                "name": "Julien",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Diana",
+                "name": "Noah",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ila",
+                "name": "Willis",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3158,15 +3158,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Devon",
+                "name": "Providenci",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Hailey",
+                "name": "Selena",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Cale",
+                "name": "Mylene",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3175,15 +3175,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Aleen",
+                "name": "Tevin",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Aditya",
+                "name": "Presley",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Zita",
+                "name": "Stanley",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3192,39 +3192,39 @@
       },
       {
         "id": 19,
-        "name": "National Program Strategist",
-        "year": 2002,
+        "name": "Direct Implementation Executive",
+        "year": 2014,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Et molestiae quo natus est soluta rerum. Eos quasi numquam optio non. Mollitia culpa aperiam beatae sit magni minus.",
-        "repository": "http://emmett.net",
+        "description": "Aperiam eum consequatur deserunt et atque. Non autem est similique. Magni mollitia expedita. Qui eos est porro vel omnis ab architecto incidunt.",
+        "repository": "https://chandler.info",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Casimir", "Lenny", "Alena", "Nona", "Hermina"],
+        "genres": ["Kelton", "Albina", "Moriah", "Everette", "Jewell"],
         "packs": [
           {
             "platform": "debian",
@@ -3254,52 +3254,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Usability Consultant",
+            "name": "International Group Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Infrastructure Director",
+            "name": "National Data Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Integration Supervisor",
+            "name": "Direct Integration Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Security Director",
+            "name": "National Markets Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Usability Consultant",
+            "name": "Dynamic Accountability Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Security Liaison",
+            "name": "Internal Branding Consultant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Accountability Liaison",
+            "name": "Dynamic Assurance Administrator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Forward Directives Representative",
+            "name": "Future Identity Assistant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Branding Supervisor",
+            "name": "Forward Division Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Data Agent",
+            "name": "Human Web Representative",
             "is_gallery": false
           }
         ],
@@ -3308,15 +3308,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Sandra",
+                "name": "Christelle",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Carmela",
+                "name": "Gillian",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Pamela",
+                "name": "Alf",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3325,15 +3325,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Rudolph",
+                "name": "Benny",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kali",
+                "name": "Eldora",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Kelvin",
+                "name": "Tamia",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3342,15 +3342,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Furman",
+                "name": "Korey",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Orlando",
+                "name": "Billy",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Precious",
+                "name": "Waldo",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3364,39 +3364,39 @@
     "games": [
       {
         "id": 20,
-        "name": "National Operations Analyst",
-        "year": 2003,
+        "name": "Internal Directives Representative",
+        "year": 2010,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Corporis hic pariatur et et pariatur quis omnis quia. Autem omnis maxime est illo dolores harum. Facilis expedita quae. Dicta dolore cumque placeat aspernatur fugiat ducimus ducimus deleniti dolores. Odio est quo unde voluptatem. Necessitatibus minima fugiat qui atque.",
-        "repository": "http://molly.biz",
+        "description": "Nesciunt est sint provident ut dolor nihil eveniet consectetur autem. Iste adipisci corporis. Atque distinctio qui facilis.",
+        "repository": "http://verona.net",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Imogene", "May", "Rosamond", "Camden", "Mara"],
+        "genres": ["Nash", "Luisa", "Susanna", "Carolyn", "Jerrell"],
         "packs": [
           {
             "platform": "debian",
@@ -3426,52 +3426,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Applications Coordinator",
+            "name": "Lead Tactics Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Integration Officer",
+            "name": "Dynamic Configuration Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Applications Associate",
+            "name": "National Creative Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Usability Planner",
+            "name": "Dynamic Branding Technician",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Customer Quality Director",
+            "name": "Future Web Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Metrics Manager",
+            "name": "Future Configuration Assistant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Factors Planner",
+            "name": "Chief Intranet Agent",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Global Operations Consultant",
+            "name": "Regional Integration Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Assurance Producer",
+            "name": "Internal Division Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Corporate Data Specialist",
+            "name": "Lead Brand Liaison",
             "is_gallery": false
           }
         ],
@@ -3480,15 +3480,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Brandyn",
+                "name": "Brayan",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Sonny",
+                "name": "Vidal",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Wallace",
+                "name": "Alayna",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3497,15 +3497,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Isaiah",
+                "name": "Jasen",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Russel",
+                "name": "Bridie",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Ashton",
+                "name": "Henriette",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3514,15 +3514,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Chyna",
+                "name": "Bill",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Celia",
+                "name": "Eve",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Leif",
+                "name": "Grace",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3531,39 +3531,39 @@
       },
       {
         "id": 21,
-        "name": "Senior Division Facilitator",
-        "year": 2012,
+        "name": "Legacy Tactics Supervisor",
+        "year": 2015,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Ut saepe enim molestiae fuga aspernatur. Dolores tenetur quidem. Laudantium voluptas beatae a.",
-        "repository": "https://vella.net",
+        "description": "Doloremque ut qui. Ea saepe autem facere cupiditate odio expedita beatae. Placeat omnis nisi harum quia non tempore quia. Assumenda doloribus non rerum praesentium tenetur.",
+        "repository": "http://laron.biz",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Sidney", "Stewart", "Darien", "Edd", "Jorge"],
+        "genres": ["Katarina", "Mustafa", "Yoshiko", "Muriel", "Barton"],
         "packs": [
           {
             "platform": "debian",
@@ -3593,52 +3593,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Program Assistant",
+            "name": "Customer Web Producer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "National Quality Officer",
+            "name": "District Implementation Agent",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Paradigm Technician",
+            "name": "Principal Identity Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Creative Executive",
+            "name": "Investor Optimization Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Applications Consultant",
+            "name": "District Intranet Executive",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Future Optimization Designer",
+            "name": "Chief Applications Officer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Communications Assistant",
+            "name": "Lead Program Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Customer Creative Orchestrator",
+            "name": "Human Mobility Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Direct Research Supervisor",
+            "name": "National Operations Manager",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Directives Engineer",
+            "name": "Customer Configuration Analyst",
             "is_gallery": false
           }
         ],
@@ -3647,15 +3647,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Nicholas",
+                "name": "Santos",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Etha",
+                "name": "Laron",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Shirley",
+                "name": "Sydni",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3664,15 +3664,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Nickolas",
+                "name": "Torrey",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Robbie",
+                "name": "Vada",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Birdie",
+                "name": "Kelvin",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3681,15 +3681,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Edythe",
+                "name": "Adrain",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Lisette",
+                "name": "Giovanny",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Lorena",
+                "name": "Terrill",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3698,39 +3698,39 @@
       },
       {
         "id": 22,
-        "name": "Principal Solutions Designer",
-        "year": 2014,
+        "name": "Principal Mobility Representative",
+        "year": 2009,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Fugiat aperiam provident aspernatur et tempora fuga incidunt. Velit quos quae. Mollitia quia deleniti excepturi illum esse natus et. Cumque sed ab est corporis nostrum. Optio eveniet voluptatem fugit qui.",
-        "repository": "https://darrin.com",
+        "description": "Vitae ad nostrum. Reprehenderit dolores eaque dolor. Nihil ipsum ut est harum et fugiat. Omnis vel quia eligendi quae similique assumenda ea consequatur. Voluptatem neque quia sunt quod libero dolorum. Est quasi odit sunt necessitatibus quidem reprehenderit in aut.",
+        "repository": "http://verdie.name",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Lew", "Evalyn", "Gerry", "Tevin", "Grady"],
+        "genres": ["Walter", "Toni", "D'angelo", "Scarlett", "Myah"],
         "packs": [
           {
             "platform": "debian",
@@ -3760,52 +3760,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Brand Liaison",
+            "name": "Principal Implementation Strategist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Security Supervisor",
+            "name": "National Brand Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Internal Optimization Manager",
+            "name": "Chief Usability Developer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Optimization Planner",
+            "name": "Customer Functionality Designer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Functionality Associate",
+            "name": "Central Operations Architect",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Human Interactions Coordinator",
+            "name": "Dynamic Paradigm Agent",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Product Group Facilitator",
+            "name": "Internal Applications Planner",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Central Creative Assistant",
+            "name": "National Brand Representative",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Program Planner",
+            "name": "District Security Director",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "International Group Administrator",
+            "name": "Principal Intranet Assistant",
             "is_gallery": false
           }
         ],
@@ -3814,15 +3814,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Ressie",
+                "name": "Mazie",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Colby",
+                "name": "Marjorie",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Braxton",
+                "name": "Napoleon",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3831,15 +3831,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Jaclyn",
+                "name": "Clementine",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Guadalupe",
+                "name": "Kassandra",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Peter",
+                "name": "Otto",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3848,15 +3848,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Anne",
+                "name": "Brayan",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Tomas",
+                "name": "Thomas",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Diamond",
+                "name": "Desmond",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3865,39 +3865,39 @@
       },
       {
         "id": 23,
-        "name": "Customer Metrics Architect",
-        "year": 2015,
+        "name": "Future Communications Representative",
+        "year": 2003,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Consequatur id assumenda. Non dolores non voluptas quos ex et quod neque non. Sunt vel deleniti odio sed incidunt est. Et natus a pariatur sapiente.",
-        "repository": "http://ernie.net",
+        "description": "Illo quo ab omnis dolores voluptas repudiandae quod et facilis. Blanditiis ullam eos perferendis sunt reiciendis. Aut qui tempora eum aut ipsam consequatur amet quisquam quas. Omnis quas reprehenderit sunt.",
+        "repository": "https://edgardo.com",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Zakary", "Maggie", "Lexus", "Shad", "Kyle"],
+        "genres": ["Norbert", "Mariane", "Emmet", "Kylee", "Ebba"],
         "packs": [
           {
             "platform": "debian",
@@ -3927,52 +3927,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Group Coordinator",
+            "name": "Customer Applications Associate",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Implementation Architect",
+            "name": "Investor Functionality Analyst",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Solutions Analyst",
+            "name": "Future Assurance Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Assurance Supervisor",
+            "name": "Legacy Research Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Creative Officer",
+            "name": "Direct Directives Architect",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Directives Manager",
+            "name": "Principal Accountability Analyst",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Integration Agent",
+            "name": "Future Division Supervisor",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Lead Division Supervisor",
+            "name": "Direct Paradigm Liaison",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Chief Accounts Liaison",
+            "name": "Forward Applications Consultant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Regional Creative Agent",
+            "name": "Dynamic Identity Coordinator",
             "is_gallery": false
           }
         ],
@@ -3981,15 +3981,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Regan",
+                "name": "Diamond",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Dejah",
+                "name": "Clementine",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Estelle",
+                "name": "Allison",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -3998,15 +3998,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Lizzie",
+                "name": "Margarita",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Orion",
+                "name": "Kenny",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Isidro",
+                "name": "Hilton",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -4015,15 +4015,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Bernie",
+                "name": "Kiara",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Hugh",
+                "name": "Aisha",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Emilio",
+                "name": "Paige",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -4032,39 +4032,39 @@
       },
       {
         "id": 24,
-        "name": "National Optimization Assistant",
-        "year": 2000,
+        "name": "Product Operations Designer",
+        "year": 2017,
         "cover_image": "https://raw.githubusercontent.com/unbgames/Wenova/master/res/readme/logo.png",
-        "description": "Omnis reprehenderit provident aliquid doloribus dignissimos consequatur repellendus sed. Qui alias magni et. Soluta ullam hic culpa. Hic architecto rerum eum architecto libero distinctio est quibusdam. Vel nobis numquam sunt quasi sint qui eaque ad. Sed culpa expedita aut voluptates dolorem sed quae.",
-        "repository": "http://nathaniel.org",
+        "description": "Eligendi saepe maiores ab doloribus inventore suscipit et laborum. Id consequuntur sint sit nam quaerat sed rem. Error accusamus sed sit asperiores voluptatem quod itaque sed. Quas nihil autem omnis consequuntur a similique.",
+        "repository": "https://whitney.biz",
         "version": 1,
         "awards": [
           {
             "type_text": "Jogo do ano",
             "type": "game_year",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor arte",
             "type": "art",
-            "position": "Primeiro lugar",
+            "position": "2 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor implementação",
             "type": "devel",
-            "position": "Primeiro lugar",
+            "position": "1 lugar",
             "revelation": true
           },
           {
             "type_text": "Melhor trilha sonora",
             "type": "music",
-            "position": "Primeiro lugar",
+            "position": "3 lugar",
             "revelation": true
           }
         ],
-        "genres": ["Ruthie", "Myrtice", "Carolyne", "Ibrahim", "Shaun"],
+        "genres": ["Martine", "Abdiel", "Duncan", "Jennifer", "Darron"],
         "packs": [
           {
             "platform": "debian",
@@ -4094,52 +4094,52 @@
         "images": [
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Accounts Analyst",
+            "name": "Regional Usability Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Principal Applications Facilitator",
+            "name": "Lead Usability Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Metrics Specialist",
+            "name": "Global Data Specialist",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Dynamic Branding Administrator",
+            "name": "District Group Representative",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Legacy Group Manager",
+            "name": "International Infrastructure Consultant",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Senior Communications Consultant",
+            "name": "Principal Interactions Facilitator",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Metrics Strategist",
+            "name": "Human Mobility Agent",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Internal Functionality Manager",
+            "name": "Human Accountability Analyst",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "Investor Paradigm Representative",
+            "name": "Product Functionality Engineer",
             "is_gallery": false
           },
           {
             "src": "http://lorempixel.com/640/480",
-            "name": "District Marketing Associate",
+            "name": "Dynamic Response Officer",
             "is_gallery": false
           }
         ],
@@ -4148,15 +4148,15 @@
             "role": "Desenvolvedores(as)",
             "authors": [
               {
-                "name": "Earnest",
+                "name": "Oma",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Cyril",
+                "name": "Kellie",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Vita",
+                "name": "Philip",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -4165,15 +4165,15 @@
             "role": "Artistas",
             "authors": [
               {
-                "name": "Maritza",
+                "name": "Tyshawn",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Granville",
+                "name": "Everette",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Lexi",
+                "name": "Linda",
                 "portifolio": "http://ila.name"
               }
             ]
@@ -4182,15 +4182,15 @@
             "role": "Músicos(as)",
             "authors": [
               {
-                "name": "Darion",
+                "name": "Kenny",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Bernie",
+                "name": "Dandre",
                 "portifolio": "http://ila.name"
               },
               {
-                "name": "Theo",
+                "name": "Jaycee",
                 "portifolio": "http://ila.name"
               }
             ]

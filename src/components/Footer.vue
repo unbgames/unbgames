@@ -6,7 +6,8 @@
     <v-card
       flat
       tile
-      class="black lighten-1 white--text text-xs-center"
+      style="background: #282928;"
+      class="white--text text-xs-center"
     >
       <v-card-text>
         <!-- <v-btn
@@ -26,7 +27,7 @@
       <v-divider></v-divider>
 
       <v-card-text class="white--text">
-        &copy;2018 — <strong>Vuetify</strong>
+        &copy;2018 — <strong>UnB Games</strong>
       </v-card-text>
     </v-card>
   </v-footer>

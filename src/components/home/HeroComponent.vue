@@ -1,8 +1,5 @@
 <template>
-  <v-jumbotron
-    dark
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-  >
+    <v-parallax src="https://cdn.vuetifyjs.com/images/parallax/material.jpg">
     <v-container fill-height>
       <v-layout align-center>
         <v-flex text-xs-center>
@@ -13,14 +10,14 @@
             At impetus detraxit incorrupte usu, repudiare assueverit ex eum,
             ne nam essent vocent admodum.
           </span>
-          <v-divider class="my-3"></v-divider>
+          <v-divider class="my-4"></v-divider>
           <v-btn class="mx-0" color="primary" large>
             Saiba mais!
           </v-btn>
         </v-flex>
       </v-layout>
     </v-container>
-  </v-jumbotron>
+  </v-parallax>
 </template>
 
 <script>

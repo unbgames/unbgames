@@ -1,8 +1,8 @@
 <template>
   <div>
-    <v-flex v-for="(game,i) in games" :key="`2${i}`" mx-5>
-      <h1 class="title">{{game.year}}</h1>
-      <card-carrousel :index_array_year="i" :games="game.games" />    
+    <v-flex v-for="(game,i) in games" :key="`2${i}`" ma-5>
+      <h1 class="display-2 font-weight-light year-title">Jogos de {{game.year}}</h1>
+      <card-carrousel class="card-carousel" :index_array_year="i" :games="game.games" />
     </v-flex>
   </div>
 </template>
@@ -23,3 +23,13 @@ export default {
   }
 }
 </script>
+
+<style>
+.card-carousel{
+  text-decoration: none;
+}
+.year-title {
+  margin: 15px 0 10px 0;
+
+}
+</style>
