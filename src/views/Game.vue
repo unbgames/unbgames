@@ -1,6 +1,6 @@
 <template>
   <div>
-    <menu-app />
+    <menu-app/>
     <v-container>
       <v-flex>
         <div>
@@ -11,7 +11,10 @@
         <v-flex d-flex xs12 sm12 md8 my-3>
           <carousel :images="game.images"/>
         </v-flex>
-        <v-flex md3 :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}">
+        <v-flex
+          md3
+          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
+        >
           <v-flex my-3>
             <download-card :game="game"/>
           </v-flex>
@@ -20,9 +23,17 @@
       </v-layout>
       <v-layout row wrap>
         <v-flex xs12 md8 sm12 my-3>
-          <description-card :game_description="game.description" :game_license="game.license" :genres="game.genres" />
+          <description-card
+            :game_description="game.description"
+            :game_license="game.license"
+            :genres="game.genres"
+          />
         </v-flex>
-        <v-flex my-3 md3 :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}">
+        <v-flex
+          my-3
+          md3
+          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
+        >
           <credits-card :credits="game.credits"/>
         </v-flex>
       </v-layout>
@@ -31,8 +42,7 @@
 </template>
 
 <script>
-// import json from '@/../utils/db.json'
-import json from "@/../utils/db_new.json";
+import json from "@/../utils/db.json";
 import GameCarousel from "@/components/GameCarousel.vue";
 import DescriptionCard from "@/components/game/DescriptionCard.vue";
 import CreditsCard from "@/components/game/CreditsCard.vue";

@@ -9,10 +9,10 @@
 <script>
 export default {
   name: "HeaderMenu"
-}
+};
 </script>
 <style>
-.header-app{
+.header-app {
   background: #282928;
   padding: 10px 0;
 }

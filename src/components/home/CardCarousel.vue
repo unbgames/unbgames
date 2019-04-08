@@ -1,8 +1,11 @@
 <template>
   <swiper :options="swiper_option">
     <swiper-slide v-for="game in games" :key="game.id + game.name">
-      <router-link class="card-carousel" :to="{name: 'game', params: {game_id: game.id, game_json: game}}">
-        <card-game :name="game.name" :cover_image="game.cover_image" />
+      <router-link
+        class="card-carousel"
+        :to="{name: 'game', params: {game_id: game.id, game_json: game}}"
+      >
+        <card-game :name="game.name" :cover_image="game.cover_image"/>
       </router-link>
     </swiper-slide>
     <div class="swiper-button-prev" slot="button-prev"></div>
@@ -17,7 +20,7 @@ import CardGame from "@/components/home/GameCard.vue";
 
 export default {
   components: {
-    "swiper": swiper,
+    swiper: swiper,
     "swiper-slide": swiperSlide,
     "card-game": CardGame
   },
@@ -30,12 +33,12 @@ export default {
         loop: true,
         loopFillGroupWithBlank: false,
         pagination: {
-          el: '.swiper-pagination',
+          el: ".swiper-pagination",
           clickable: true
         },
         navigation: {
-          nextEl: '.swiper-button-next',
-          prevEl: '.swiper-button-prev'
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev"
         },
         breakpoints: {
           1024: {
@@ -52,7 +55,7 @@ export default {
           }
         }
       }
-    }
+    };
   },
   props: {
     games: Array

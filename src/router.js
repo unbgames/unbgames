@@ -21,7 +21,7 @@ export default new Router({
       },
     }
   ],
-  scrollBehavior () {
+  scrollBehavior() {
     return { x: 0, y: 0 }
   }
 });

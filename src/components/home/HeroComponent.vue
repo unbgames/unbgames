@@ -1,5 +1,5 @@
 <template>
-    <v-parallax src="https://cdn.vuetifyjs.com/images/parallax/material.jpg">
+  <v-parallax src="https://cdn.vuetifyjs.com/images/parallax/material.jpg">
     <v-container fill-height>
       <v-layout align-center>
         <v-flex text-xs-center>
@@ -11,9 +11,7 @@
             ne nam essent vocent admodum.
           </span>
           <v-divider class="my-4"></v-divider>
-          <v-btn class="mx-0" color="primary" large>
-            Saiba mais!
-          </v-btn>
+          <v-btn class="mx-0" outline color="green" large>Saiba mais!</v-btn>
         </v-flex>
       </v-layout>
     </v-container>

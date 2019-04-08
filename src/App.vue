@@ -1,35 +1,35 @@
 <template>
   <div id="app">
     <router-view/>
-    <footer-app />
+    <footer-app/>
   </div>
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
+import Footer from "@/components/Footer.vue";
 
 export default {
   name: "App",
   components: {
-    "footer-app": Footer,
+    "footer-app": Footer
   }
-}
-
+};
 </script>
 <style>
 body {
   color: #282928;
 }
 
-ul, li {
+ul,
+li {
   list-style: none;
 }
 
 #app {
-  background: #EEEEEE;
+  background: #eeeeee;
 }
 
-.link-app{
+.link-app {
   color: #282928;
 }
 </style>
