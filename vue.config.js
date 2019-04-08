@@ -3,7 +3,7 @@ module.exports = {
     disableHostCheck: true,
   },
 
-  baseUrl: process.env.NODE_ENV === 'production'
+  publicPath: process.env.NODE_ENV === 'production'
     ? '/unbgames-platform/'
     : '/'
 }
