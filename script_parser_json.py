@@ -1,5 +1,6 @@
 import os
 import glob
+import re
 
 def lista_arquivo():
     lista = []
@@ -23,10 +24,18 @@ for i in lista_md:
     readme_json = open(arquivoTmp , 'w')
     readme_json.write('---\n')
     for linha in arquivo:
-        aux = linha.replace('\n', '')
+        aux = linha.rstrip()
         aux = aux.replace('#', '')
+        aux = aux.replace('*', '-')
+        url = re.findall(r'src=(\S+)><', aux)
+        if url:
+            for x in url:
+                item = x
+                for y in ['(', ')']:
+                    item = item.replace(y, "")
+            aux = '   - '+item
         if count == 0:
-            readme_json.write(aux+':\n')
+            readme_json.write(' Name:\n    '+aux+'\n')
         else:
             readme_json.write(aux+'\n')
         count+=1
