@@ -1,6 +1,7 @@
 import os
 import glob
 import re
+import time
 
 def lista_arquivo():
     lista = []
@@ -9,7 +10,7 @@ def lista_arquivo():
     return lista
 
 def salva_json(nomeArquivo):
-    os.popen('m2j '+nomeArquivo+' >> '+ nomeArquivo.replace('_tmp.md','.json'))
+    os.popen('m2j '+nomeArquivo+' >> '+nomeArquivo.replace('_tmp.md','.json'))
 
 
 lista_md = lista_arquivo()
@@ -45,3 +46,5 @@ for i in lista_md:
     readme_json.close()
 
     salva_json(arquivoTmp)
+
+os.popen('mv readmes/*.json readmes/json')
