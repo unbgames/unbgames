@@ -1,41 +1,43 @@
-# Nome do Jogo
+# Game Name
 
-### Descrição: 
-    Breve descrição sobre o jogo.
+## Description:
+   Breve descrição do jogo. Os dados de cada tópico devem conter um tab em seu início. Obedeça a formatação exata deste template.
 
-### Versão do jogo: 
-    1.0
+## Version:
+   Versão do jogo. Exemplo: 1.0, 2.0...
 
-### Ano de Lançamento: 
-    2019
+## Year:
+   Ano de lançamento do jogo.
 
-### Repositório Oficial: 
-    Link do repositório oficial
+## Repository:
+   Link do repositório oficial do jogo.
 
-### Prêmios conquistados:
-    - Melhor arte
-    - Melhor música
+## Awards:
+   - Melhor jogo da categoria
+   - Melhor jogabilidade
 
-### Galeria de imagens:
-   <p align="center"><a href="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png" target="_blank"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></a></p>
+## Gallery:
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
+   * Obs: Substitua o link de "src" pelo link da imagem.
 
-   <p align="center"><a href="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg" target="_blank"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></a></p>
+## Genre:
+   - Rpg
+   - Luta
+   - Guerra
 
-   <p align="center"><a href="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg" target="_blank"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></a></p>
+### Development:
+   - Desenvolvedor 1
+   - Desenvolvedor 2
+   - Desenvolvedor N
 
+### Art:
+   - Artista 1
+   - Artista 2
+   - Artista N
 
-### Gêneros:
-    - Luta
-    - Corrida
-
-### Desenvolvedores:
-    - Dev 1
-    - Dev 2
-
-### Artistas:
-    - Artista 1
-    - Artista 2
-
-### Músicos:
-    - Músico 1
-    - Músico 2
+### Music:
+   - Músico 1
+   - Músico 2
+   - Músico N
