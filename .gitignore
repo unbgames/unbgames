@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+# Temporary files to generate games info JSON
+/readmes/*.md
+/readmes/json/*.json
