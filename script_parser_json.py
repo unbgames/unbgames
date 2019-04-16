@@ -12,11 +12,11 @@ def lista_arquivo():
 def salva_json(nomeArquivo):
     os.popen('m2j '+nomeArquivo+' >> '+nomeArquivo.replace('_tmp.md','.json'))
 
-
 lista_md = lista_arquivo()
 
 dados = []
 aux = ''
+is_url = 0
 
 for i in lista_md:
     count = 0
@@ -30,6 +30,7 @@ for i in lista_md:
         aux = aux.replace('*', '-')
         url = re.findall(r'src=(\S+)><', aux)
         if url:
+            is_url = 1
             for x in url:
                 item = x
                 for y in ['(', ')']:
@@ -38,13 +39,15 @@ for i in lista_md:
         if count == 0:
             readme_json.write(' Name:\n    '+aux+'\n')
         else:
+            url_rep = re.findall(r'https://', aux)
+            if not url_rep:
+                if (aux.replace('#','').strip() != "Description:" and aux.replace('#','').strip() !="Version:" and aux.replace('#','').strip() !="Year:" and aux.replace('#','').strip() !="Repository:" and aux.replace('#','').strip() !="Awards:" and aux.replace('#','').strip() !="Gallery:" and aux.replace('#','').strip() !="Genre:" and aux.replace('#','').strip() !="Development:" and aux.replace('#','').strip() !="Art:" and aux.replace('#','').strip() !="Music:") and is_url == 0:
+                    aux = aux.replace(':',' -')
             readme_json.write(aux+'\n')
         count+=1
     readme_json.write('---')
 
     arquivo.close()
     readme_json.close()
-
+    is_url = 0
     salva_json(arquivoTmp)
-
-os.popen('mv readmes/*.json readmes/json')
