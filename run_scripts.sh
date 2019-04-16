@@ -7,7 +7,7 @@ rm -rf json
 mkdir json 
 
 echo "Step 2"
-npm i markdown-to-json
+npm i -g markdown-to-json
 
 echo "Step 3"
 cd ../
