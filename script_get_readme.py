@@ -1,7 +1,7 @@
 from github import Github
 import urllib
 
-token = "500aeede18cbe164af9f41b40ce3c7cb98028eb9"
+token = ""
 
 g = Github(token)
 org = g.get_organization('unbgames')
