@@ -1,17 +1,12 @@
 <template>
-  <v-parallax src="https://cdn.vuetifyjs.com/images/parallax/material.jpg">
+  <v-parallax src="http://www.facets.la/fullview/F_2013_232.jpg">
     <v-container fill-height>
       <v-layout align-center>
         <v-flex text-xs-center>
-          <h3 class="display-3">UnBGames</h3>
-          <span class="subheading">
-            Lorem ipsum dolor sit amet, pri veniam forensibus id.
-            Vis maluisset molestiae id, ad semper lobortis cum.
-            At impetus detraxit incorrupte usu, repudiare assueverit ex eum,
-            ne nam essent vocent admodum.
-          </span>
+          <h2 class="display-3">UnBGames</h2>
+          <h3>Está pronto jogador?</h3>
           <v-divider class="my-4"></v-divider>
-          <v-btn class="mx-0" outline color="green" large>Saiba mais!</v-btn>
+          <v-btn round large color="info" dark>Start</v-btn>
         </v-flex>
       </v-layout>
     </v-container>
