@@ -12,6 +12,8 @@
           <carousel :images="game.images"/>
         </v-flex>
       </v-layout>
+    </v-container>
+    <v-container>
       <v-layout row wrap>
         <v-flex xs12 md12 sm12 my-3>
           <description-card
@@ -20,18 +22,24 @@
             :genres="game.genres"
           />
 
-           <credits-card :credits="game.credits"/>
+          <credits-card :credits="game.credits"/>
         </v-flex>
       </v-layout>
-      <v-layout row wrap>
-        <v-flex xs12 md6 sm6 my-3
+    </v-container>
+    <v-container>
+      <v-layout align-center justify-space-around row wrap>
+        <v-flex
+          xs12
+          md5
+          sm5
+          my-3
           :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-0': $vuetify.breakpoint.mdAndUp}"
         >
           <game-card :game="game"/>
         </v-flex>
-        <v-flex xs12 md6 sm6 my-3>
-            <download-card :game="game"/>
-          </v-flex>
+        <v-flex xs12 md5 sm5 my-3>
+          <download-card :game="game"/>
+        </v-flex>
       </v-layout>
     </v-container>
   </div>
