@@ -17,27 +17,35 @@
    - Melhor jogabilidade
 
 ## Gallery:
+### Cover Image:
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
+
+### Carousel Gallery:
    <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
    <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
    <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
-   * Obs: Substitua o link de "src" pelo link da imagem.
+
+### Image Gallery:
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
 
 ## Genre:
    - Rpg
    - Luta
    - Guerra
 
-### Development:
+### Developers:
    - Desenvolvedor 1
    - Desenvolvedor 2
    - Desenvolvedor N
 
-### Art:
+### Designers:
    - Artista 1
    - Artista 2
    - Artista N
 
-### Music:
+### Musicians:
    - Músico 1
    - Músico 2
    - Músico N
