@@ -35,8 +35,9 @@ for i in lista_md:
                 for y in ['(', ')']:
                     item = item.replace(y, "")
             aux = '   - '+item
-        if count == 0:
-            readme_json.write(' Name:\n    '+aux+'\n')
+        if count == 0: #Define Name and ID of the game
+            gameId = lista_md.index(i)
+            readme_json.write(' ID:\n    '+str(gameId)+'\n' + ' Name:\n    '+aux+'\n')
         else:
             url_rep = re.findall(r'https://', aux)
             if not url_rep:
