@@ -1,0 +1,14 @@
+version: '3.0'
+
+services:
+  parser:
+    build: .   
+    ports:
+      - 8000:8000
+    tty: true
+    command: bash -c 'cd /code && npm i -g markdown-to-json && chmod +x run_scripts.sh && ./run_scripts.sh && ls readmes/json' 
+  
+
+
+
+    
