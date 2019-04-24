@@ -23,3 +23,4 @@ yarn-error.log*
 # Temporary files to generate games info JSON
 /readmes/*.md
 /readmes/json/*.json
+/readmes/json/games_db/*.json
