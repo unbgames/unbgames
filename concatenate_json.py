@@ -18,5 +18,4 @@ for json_file in lista_jsons:
 
 # Salvando lista em um arquivo json
 with open('readmes/json/games_db/db.json', 'w') as db:
-	json.dump(games_list, db)
-	
+	json.dump(games_list, db, indent=4)
