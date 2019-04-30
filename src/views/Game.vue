@@ -8,33 +8,37 @@
         </div>
       </v-flex>
       <v-layout row wrap>
-        <v-flex d-flex xs12 sm12 md8 my-3>
+        <v-flex d-flex xs12 sm12 md12 my-12>
           <carousel :images="game.images"/>
         </v-flex>
-        <v-flex
-          md3
-          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
-        >
-          <v-flex my-3>
-            <download-card :game="game"/>
-          </v-flex>
-          <game-card :game="game"/>
-        </v-flex>
       </v-layout>
+    </v-container>
+    <v-container>
       <v-layout row wrap>
-        <v-flex xs12 md8 sm12 my-3>
+        <v-flex xs12 md12 sm12 my-3>
           <description-card
             :game_description="game.description"
             :game_license="game.license"
             :genres="game.genres"
           />
-        </v-flex>
-        <v-flex
-          my-3
-          md3
-          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
-        >
+
           <credits-card :credits="game.credits"/>
+        </v-flex>
+      </v-layout>
+    </v-container>
+    <v-container>
+      <v-layout align-center justify-space-around row wrap>
+        <v-flex
+          xs12
+          md5
+          sm5
+          my-3
+          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-0': $vuetify.breakpoint.mdAndUp}"
+        >
+          <game-card :game="game"/>
+        </v-flex>
+        <v-flex xs12 md5 sm5 my-3>
+          <download-card :game="game"/>
         </v-flex>
       </v-layout>
     </v-container>
