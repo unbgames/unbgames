@@ -20,6 +20,12 @@ for json_file in lista_jsons:
 				break
 
 		game_obj = json.load(data)
+
+		# Padroniza todas as chaves no array de jogos
+		key_game_obj = game_obj.keys()
+		key_game_obj = list(key_game_obj)[0]
+		game_obj["jogo"] = game_obj.pop(key_game_obj)
+
 		games_list.append(game_obj)
 
 # Salvando lista em um arquivo json que será o banco de dados
