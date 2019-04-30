@@ -65,11 +65,13 @@ export default {
   },
   computed: {
     game: function() {
-      for (var i = 0, size = json.length; i < size; i++) {
-        var game = json[i].games.find(game => game.id === this.game_id);
-        if (game != undefined) break;
+      let size = json.games.length;
+      for (var i = 0; i <= size; i++) {
+        var game = json.games[i].game;
+        if (game.id == this.game_id) {
+          return game;
+        }
       }
-      return game;
     }
   }
 };
