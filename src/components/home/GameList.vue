@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-flex v-for="(game,i) in games" :key="`${i}`" ma-5>
-      <h1 class="display-2 font-weight-light year-title">Jogos de {{game.game.Year}}</h1>
+      <h1 class="display-2 font-weight-light year-title">Jogos de {{game.jogo.Year}}</h1>
       <card-carrousel class="card-carousel" :index_array_year="i" :games="game"/>
     </v-flex>
   </div>
@@ -15,7 +15,7 @@ export default {
   name: "GameList",
   data: function() {
     return {
-      games: json.games
+      games: json.jogos
     };
   },
   components: {

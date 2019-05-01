@@ -3,18 +3,18 @@
     <v-card-text>
       <p>
         <strong>Versão do jogo:</strong>
-        {{game.version}}
+        {{game.Version}}
       </p>
       <p>
         <strong>Ano de lançamento:</strong>
-        {{game.year}}
+        {{game.Year}}
       </p>
       <p>
         <strong>Repositório Oficial:</strong>
         <br>
-        <a class="link-app" :href="game.repository">{{game.name}}</a>
+        <a class="link-app" :href="game.Repository">{{game.Name}}</a>
       </p>
-      <awards-card :awards="game.awards"></awards-card>
+      <awards-card :awards="game.Awards"></awards-card>
     </v-card-text>
   </v-card>
 </template>
@@ -26,6 +26,9 @@ export default {
   name: "GameCardDescription",
   props: {
     game: Object
+  },
+  mounted(){
+    console.log(this.game)
   },
   components: {
     "awards-card": AwardsCard
