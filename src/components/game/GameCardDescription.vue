@@ -27,9 +27,6 @@ export default {
   props: {
     game: Object
   },
-  mounted(){
-    console.log(this.game)
-  },
   components: {
     "awards-card": AwardsCard
   }
