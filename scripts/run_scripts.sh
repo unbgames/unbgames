@@ -2,8 +2,6 @@
 echo "Iniciando execução do script!"
 
 echo "Step 1"
-pwd
-cd ../
 cd readmes/
 pwd
 ls
@@ -12,6 +10,7 @@ rm -rf json
 mkdir json
 
 echo "Step 2"
+pwd
 cd ../
 python scripts/script_get_readme.py
 sleep 3
