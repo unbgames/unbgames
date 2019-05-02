@@ -2,8 +2,11 @@
 echo "Iniciando execução do script!"
 
 echo "Step 1"
-cd ..
+pwd
+cd ../
 cd readmes/
+pwd
+ls
 rm *.md
 rm -rf json
 mkdir json
