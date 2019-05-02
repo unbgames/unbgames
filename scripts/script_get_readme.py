@@ -11,7 +11,7 @@ for repo in org.get_repos():
     try:
         file_content = repo.get_file_contents('unbgames.md')
 
-        if(repo.name != 'unbgames'):
+        if(repo.name != 'unbgames' or repo.name != 'game-template'):
             urllib.request.urlretrieve(file_content.download_url, ('readmes/'+repo.name + '.md'))
 
     except Exception as e :
