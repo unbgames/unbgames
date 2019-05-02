@@ -8,6 +8,7 @@ python:
 branches:
     only:
         - master
+        - devel
 
 before_script:
     - chmod +x scripts/run_scripts.sh
