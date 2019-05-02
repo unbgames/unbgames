@@ -1,11 +1,11 @@
 <template>
   <swiper :options="swiper_option">
-    <swiper-slide v-for="game in games" :key="game.id + game.name">
+    <swiper-slide v-for="game in games" :key="game.ID + game.Name">
       <router-link
         class="card-carousel"
-        :to="{name: 'game', params: {game_id: game.id, game_json: game}}"
+        :to="{name: 'game', params: {game_id: game.ID, game_json: game}}"
       >
-        <card-game :name="game.name" :cover_image="game.cover_image"/>
+        <card-game :name="game.Name" :cover_image="game.Gallery[0]"/>
       </router-link>
     </swiper-slide>
     <div class="swiper-button-prev" slot="button-prev"></div>
@@ -58,7 +58,7 @@ export default {
     };
   },
   props: {
-    games: Array
+    games: Object
   }
 };
 </script>

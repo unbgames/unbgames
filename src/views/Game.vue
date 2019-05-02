@@ -4,37 +4,41 @@
     <v-container>
       <v-flex>
         <div>
-          <h1 class="font-weight-thin display-1">{{game.name}}</h1>
+          <h1 class="font-weight-thin display-1">{{game.Name}}</h1>
         </div>
       </v-flex>
       <v-layout row wrap>
-        <v-flex d-flex xs12 sm12 md8 my-3>
-          <carousel :images="game.images"/>
-        </v-flex>
-        <v-flex
-          md3
-          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
-        >
-          <v-flex my-3>
-            <download-card :game="game"/>
-          </v-flex>
-          <game-card :game="game"/>
+        <v-flex d-flex xs12 sm12 md12 my-12>
+          <carousel :images="game.Gallery"/>
         </v-flex>
       </v-layout>
+    </v-container>
+    <v-container>
       <v-layout row wrap>
-        <v-flex xs12 md8 sm12 my-3>
+        <v-flex xs12 md12 sm12 my-3>
           <description-card
-            :game_description="game.description"
+            :game_description="game.Description"
             :game_license="game.license"
-            :genres="game.genres"
+            :genres="game.Genre"
           />
+
+          <credits-card :developers="game.Development" :artists="game.Art" :musicians="game.Music"/>
         </v-flex>
+      </v-layout>
+    </v-container>
+    <v-container>
+      <v-layout align-center justify-space-around row wrap>
         <v-flex
+          xs12
+          md5
+          sm5
           my-3
-          md3
-          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
+          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-0': $vuetify.breakpoint.mdAndUp}"
         >
-          <credits-card :credits="game.credits"/>
+          <game-card :game="game"/>
+        </v-flex>
+        <v-flex xs12 md5 sm5 my-3>
+          <download-card :game="game"/>
         </v-flex>
       </v-layout>
     </v-container>
@@ -65,11 +69,13 @@ export default {
   },
   computed: {
     game: function() {
-      for (var i = 0, size = json.length; i < size; i++) {
-        var game = json[i].games.find(game => game.id === this.game_id);
-        if (game != undefined) break;
+      let size = json.jogos.length;
+      for (var i = 0; i <= size; i++) {
+        var jogo = json.jogos[i].jogo;
+        if (jogo.ID == this.game_id) {
+          return jogo;
+        }
       }
-      return game;
     }
   }
 };
