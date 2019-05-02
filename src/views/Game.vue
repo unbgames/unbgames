@@ -4,12 +4,12 @@
     <v-container>
       <v-flex>
         <div>
-          <h1 class="font-weight-thin display-1">{{game.name}}</h1>
+          <h1 class="font-weight-thin display-1">{{game.Name}}</h1>
         </div>
       </v-flex>
       <v-layout row wrap>
         <v-flex d-flex xs12 sm12 md12 my-12>
-          <carousel :images="game.images"/>
+          <carousel :images="game.Gallery"/>
         </v-flex>
       </v-layout>
     </v-container>
@@ -17,12 +17,12 @@
       <v-layout row wrap>
         <v-flex xs12 md12 sm12 my-3>
           <description-card
-            :game_description="game.description"
+            :game_description="game.Description"
             :game_license="game.license"
-            :genres="game.genres"
+            :genres="game.Genre"
           />
 
-          <credits-card :credits="game.credits"/>
+          <credits-card :developers="game.Development" :artists="game.Art" :musicians="game.Music"/>
         </v-flex>
       </v-layout>
     </v-container>
@@ -69,11 +69,13 @@ export default {
   },
   computed: {
     game: function() {
-      for (var i = 0, size = json.length; i < size; i++) {
-        var game = json[i].games.find(game => game.id === this.game_id);
-        if (game != undefined) break;
+      let size = json.jogos.length;
+      for (var i = 0; i <= size; i++) {
+        var jogo = json.jogos[i].jogo;
+        if (jogo.ID == this.game_id) {
+          return jogo;
+        }
       }
-      return game;
     }
   }
 };

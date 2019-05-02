@@ -1,5 +1,5 @@
 <template>
-  <v-parallax src="https://cdn.vuetifyjs.com/images/parallax/material.jpg">
+  <v-parallax class="header-image">
     <v-container fill-height>
       <v-layout align-center>
         <v-flex text-xs-center>
@@ -11,7 +11,7 @@
             ne nam essent vocent admodum.
           </span>
           <v-divider class="my-4"></v-divider>
-          <v-btn class="mx-0" outline color="green" large>Saiba mais!</v-btn>
+          <v-btn class="mx-0" outline color="white" large>Saiba mais!</v-btn>
         </v-flex>
       </v-layout>
     </v-container>
@@ -23,3 +23,14 @@ export default {
   name: "HeroComponent"
 };
 </script>
+
+<style lang="scss" scoped>
+.header-image {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(#4caf50, 1),
+      rgba(#1f4037, 1)
+    )
+}
+</style>
+

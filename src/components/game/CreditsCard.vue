@@ -1,24 +1,38 @@
 <template>
-  <v-card color="grey lighten-2">
-    <div v-for="credit in credits" :key="credit.role">
-      <v-card-text>
-        <span class="font-weight-light title">{{credit.role}}</span>
-        <ul class="authors-names-list">
-          <li v-for="(author, i) in credit.authors" :key="credit.role+i+author.name">
-            <a class="author-link" :href="author.portifolio">{{author.name}}</a>
-          </li>
-        </ul>
-      </v-card-text>
-    </div>
-  </v-card>
+  <v-container class="u-margin-bottom">
+    <v-layout align-center justify-space-around row wrap>
+      <v-flex xs1 md4 sm1>
+        <v-card-text class="text-xs-center">
+          <span class="font-weight-light title authors-names-list">Desenvolvedores</span>
+          <p  v-for="developer in developers">{{developer}}</p>
+        </v-card-text>
+      </v-flex>
+
+      <v-flex xs1 md4 sm1>
+        <v-card-text class="text-xs-center">
+          <span class="font-weight-light title authors-names-list">Artistas</span>
+          <p v-for="artist in artists">{{artist}}</p>
+        </v-card-text>
+      </v-flex>
+
+      <v-flex xs1 md4 sm1>
+        <v-card-text class="text-xs-center">
+          <span class="font-weight-light title authors-names-list">Musicos</span>
+          <p v-for="musician in musicians">{{musician}}</p>
+        </v-card-text>
+      </v-flex>
+    </v-layout>
+  </v-container>
 </template>
 
-<style>
-.authors-names-list {
-  margin-top: 10px;
+<style scoped>
+p {
+  margin-top: 2vh;
 }
-.author-link {
-  color: #282928;
+
+.u-margin-bottom{
+  margin-top: 3vh;
+  margin-bottom: -7.5vh;
 }
 </style>
 
@@ -26,7 +40,9 @@
 export default {
   name: "AuthorsCard",
   props: {
-    credits: Array
+    developers: Array,
+    artists: Array,
+    musicians: Array
   }
 };
 </script>
