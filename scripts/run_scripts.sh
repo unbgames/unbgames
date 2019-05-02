@@ -2,6 +2,7 @@
 echo "Iniciando execução do script!"
 
 echo "Step 1"
+cd ..
 cd readmes/
 rm *.md
 rm -rf json
