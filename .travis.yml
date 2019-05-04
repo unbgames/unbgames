@@ -9,6 +9,7 @@ branches:
     only:
         - master
         - devel
+        - issue_30
 
 before_script:
     - chmod +x scripts/run_scripts.sh
@@ -18,3 +19,11 @@ before_script:
 
 script:
     - ./scripts/run_scripts.sh
+
+deploy:
+    provider: pages
+    local_dir: dist/
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    on:
+      branch: master
