@@ -30,6 +30,6 @@ deploy:
     provider: pages
     local_dir: dist/
     skip_cleanup: true
-    github_token: e460b3fb8874e670f425b89eafa177776708922e
+    github_token: $GITHUB_TOKEN
     on:
       branch: issue_30
