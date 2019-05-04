@@ -24,7 +24,6 @@ cache:
 
 script:
     - ./scripts/run_scripts.sh
-    - npm run lint
     - npm run build
 
 deploy:
