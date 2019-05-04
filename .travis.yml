@@ -9,7 +9,6 @@ branches:
     only:
         - master
         - devel
-        - issue_30
 
 before_script:
     - chmod +x scripts/run_scripts.sh
@@ -33,4 +32,4 @@ deploy:
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
     on:
-      branch: issue_30
+      branch: devel
