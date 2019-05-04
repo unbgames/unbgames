@@ -4,7 +4,7 @@ import os
 
 # Lista JSONs dos jogos
 jsons_list = []
-for arquivo_json in glob.glob("readmes/json/*.json"):
+for arquivo_json in glob.glob("readmes/*.json"):
 	jsons_list.append(arquivo_json)
 
 # Abre os aquivos json e coloca seus conteudos em uma lista de objetos
