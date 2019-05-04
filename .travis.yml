@@ -17,8 +17,15 @@ before_script:
     - npm i -g markdown-to-json
     - pip install -r requirements.txt
 
+cache:
+    npm: true
+    directories:
+        - node_modules
+
 script:
     - ./scripts/run_scripts.sh
+    - npm run lint
+    - npm run build
 
 deploy:
     provider: pages
@@ -26,4 +33,4 @@ deploy:
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
     on:
-      branch: master
+      branch: issue_30
