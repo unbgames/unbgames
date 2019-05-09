@@ -9,7 +9,7 @@ branches:
     only:
         - master
         - devel
-
+	- issue_40
 before_script:
     - chmod +x scripts/run_scripts.sh
     - npm install
@@ -24,6 +24,8 @@ cache:
 script:
     - ./scripts/run_scripts.sh
     - npm install
+    - git add utils/db.json
+    - git commit -m"Atualizando db.json"
     - npm run build
 
 deploy:
@@ -32,4 +34,4 @@ deploy:
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
     on:
-      branch: devel
+      branch: issue_40
