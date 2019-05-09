@@ -8,7 +8,7 @@ python:
 branches:
     only:
         - master
-	- issue_40
+        - issue_40
 before_script:
     - chmod +x scripts/run_scripts.sh
     - npm install
