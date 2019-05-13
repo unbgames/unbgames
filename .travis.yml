@@ -16,5 +16,20 @@ before_script:
     - npm i -g markdown-to-json
     - pip install -r requirements.txt
 
+cache:
+    npm: true
+    directories:
+        - node_modules
+
 script:
     - ./scripts/run_scripts.sh
+    - npm install
+    - npm run build
+
+deploy:
+    provider: pages
+    local_dir: dist/
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    on:
+      branch: devel
