@@ -9,7 +9,7 @@
       </v-flex>
       <v-layout row wrap>
         <v-flex d-flex xs12 sm12 md12 my-12>
-          <carousel :images="game.Gallery"/>
+          <carousel :images="game.Gallery.CarouselGallery[i]"/>
         </v-flex>
       </v-layout>
     </v-container>
