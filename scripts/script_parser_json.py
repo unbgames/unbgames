@@ -34,20 +34,20 @@ for i in lista_md:
                 item = x
                 for y in ['(', ')']:
                     item = item.replace(y, "")
-            aux = '   - '+item
+            aux = '   - '+item[:-1]+'?raw=true"'
         if count == 0: #Define Name and ID of the game
             gameId = lista_md.index(i)
             readme_json.write(' ID:\n    '+str(gameId)+'\n' + ' Name:\n    '+aux+'\n')
         else:
             url_rep = re.findall(r'https://', aux)
             if not url_rep:
-                if (aux.replace('#','').strip() == "Carousel Gallery:") or (aux.replace('#','').strip() == "Cover Image:") or (aux.replace('#','').strip() == "Image Gallery:"):
+                if (aux.replace('#','').strip() == "Carousel Gallery:") or (aux.replace('#','').strip() == "Cover Image:") or (aux.replace('#','').strip() == "Image Gallery:") or (aux.replace('#','').strip() == "Debian:") or (aux.replace('#','').strip() == "RedHat:") or (aux.replace('#','').strip() == "Windows:") :
                     aux = aux.replace(' ','')
                     aux = '  '+aux
 
                 if (aux.replace('#','').strip() != "Description:" and aux.replace('#','').strip() !="Version:" and aux.replace('#','').strip() !="Year:" and 
                     aux.replace('#','').strip() !="Repository:" and aux.replace('#','').strip() !="Awards:" and aux.replace('#','').strip() !="Gallery:" and
-                    aux.replace('#','').strip() !="Genre:" and aux.replace('#','').strip() !="Development:" and aux.replace('#','').strip() !="Art:" and 
+                    aux.replace('#','').strip() !="Genre:" and aux.replace('#','').strip() !="Downloads:" and aux.replace('#','').strip() !="Development:" and aux.replace('#','').strip() !="Art:" and 
                     aux.replace('#','').strip() !="Music:" and aux.replace('#','').strip() !="CoverImage:") and is_url == 0:
                     aux = aux.replace(':',' -')
 
