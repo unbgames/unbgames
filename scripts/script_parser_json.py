@@ -34,7 +34,7 @@ for i in lista_md:
                 item = x
                 for y in ['(', ')']:
                     item = item.replace(y, "")
-            aux = '   - '+item
+            aux = '   - '+item[:-1]+'?raw=true"'
         if count == 0: #Define Name and ID of the game
             gameId = lista_md.index(i)
             readme_json.write(' ID:\n    '+str(gameId)+'\n' + ' Name:\n    '+aux+'\n')
