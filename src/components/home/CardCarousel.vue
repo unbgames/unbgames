@@ -5,7 +5,7 @@
         class="card-carousel"
         :to="{name: 'game', params: {game_id: game.ID, game_json: game}}"
       >
-        <card-game :name="game.Name" :cover_image="game.Gallery[0]"/>
+        <card-game :name="game.Name" :cover_image="game.Gallery.CoverImage[0]"/>
       </router-link>
     </swiper-slide>
     <div class="swiper-button-prev" slot="button-prev"></div>
