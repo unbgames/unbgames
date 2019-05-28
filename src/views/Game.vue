@@ -22,7 +22,10 @@
             :genres="game.Genre"
           />
 
-          <credits-card :developers="game.Development" :artists="game.Art" :musicians="game.Music"/>
+          <credits-card
+            :developers="game.Developers"
+            :artists="game.Designers"
+            :musicians="game.Musicians"/>
         </v-flex>
       </v-layout>
     </v-container>

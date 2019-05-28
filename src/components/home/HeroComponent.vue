@@ -15,7 +15,7 @@ export default {
 
 <style lang="scss" scoped>
 .header-image {
-  height: 60vh;
+  height: 70vh;
   background-image: linear-gradient(
     to right bottom,
     rgba(#4caf50, 1),

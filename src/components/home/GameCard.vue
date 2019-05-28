@@ -13,7 +13,7 @@
 export default {
   name: "GameCard",
   props: {
-    cover_image: String,
+    cover_image: Array,
     name: String
   }
 };

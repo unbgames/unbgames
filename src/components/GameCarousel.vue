@@ -13,7 +13,7 @@ export default {
     "game-carousel": GameCarousel
   },
   props: {
-    images: Array
+    images: Object
   }
 };
 </script>
