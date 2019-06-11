@@ -1,3 +1,6 @@
+# NOME: concatenate_json
+# FUNÇÃO: juntar os arquivos json em um unico arquivo json
+
 import glob
 import json
 import os
