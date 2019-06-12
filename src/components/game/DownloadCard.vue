@@ -1,26 +1,5 @@
 <template>
   <v-card>
-    <!-- <v-data-table :headers="headers" :items="game" hide-actions class="elevation-2">
-      <template v-slot:items="props">
-        <td class="grey lighten-2">
-          <v-icon
-            v-if="props.item.Debian"
-            size="18"
-            color="red"
-          >mdi-{{ props.item.Debian }}</v-icon>
-          <v-icon
-            v-else-if="props.item.platform=='fedora'"
-            size="18"
-            color="purple"
-          >mdi-{{ props.item.platform }}</v-icon>
-          <v-icon v-else size="18">mdi-{{ props.item.platform }}</v-icon>
-          <a class="link-app" :href="props.item.link">
-            <span class="body-1 text-capitalize platform-text">{{ props.item.platform }}</span>
-          </a>
-        </td>
-        <td class="text-xs-left grey lighten-2">{{ props.item.architecture }}</td>
-      </template>
-    </v-data-table>-->
     <v-card color="grey lighten-2">
       <v-card-text>
         <span class="title font-weight-light">Downloads</span>
@@ -96,9 +75,6 @@ export default {
         }
       ]
     };
-  },
-  mounted() {
-    console.log(this.game);
   }
 };
 </script>

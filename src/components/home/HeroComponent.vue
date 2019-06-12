@@ -2,7 +2,7 @@
   <div class="header-image">
     <div class="header-text">
        <h3 class="display-3">UnBGames</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quidem impedit mollitia repudiandae, fugiat quia aliquid blanditiis quasi illo dolor asperiores, minus vel, nesciunt illum modi eligendi dolorum. Nemo, fugit?</p>
+      <p>Acervo central de jogos feitos na Universidade de Brasilia e em seus campi.</p>
     </div>
   </div>
 </template>
