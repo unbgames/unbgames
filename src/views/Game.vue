@@ -41,7 +41,7 @@
           <game-card :game="game"/>
         </v-flex>
         <v-flex xs12 md5 sm5 my-3>
-          <download-card :game="game"/>
+          <download-card :game="game.Downloads"/>
         </v-flex>
       </v-layout>
     </v-container>

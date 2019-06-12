@@ -3,38 +3,36 @@
         {
             "jogo": {
                 "ID": 0,
-                "Name": "Game Name",
-                "Description": "Breve descri\u00e7\u00e3o do jogo. Os dados de cada t\u00f3pico devem conter um tab em seu in\u00edcio. Obede\u00e7a a formata\u00e7\u00e3o exata deste template.",
-                "Version": "Vers\u00e3o do jogo. Exemplo - 1.0, 2.0...",
-                "Year": "Ano de lan\u00e7amento do jogo.",
-                "Repository": "Link do reposit\u00f3rio oficial do jogo.",
+                "Name": "MindScape",
+                "Description": "MindScape \u00e9 um jogo plataforma com elementos de terror e suspense. Como o jogo se situa na mente da protagonista, h\u00e1 monstros surreais que s\u00e3o criados com base em seus medos.\nAl\u00e9m disso, o jogo trar\u00e1 a arte como elemento de hist\u00f3ria do jogo. Nas fases iniciais, haver\u00e1 a presen\u00e7a de muitas cores que eventualmente v\u00e3o desbotando e ficando preto e branco, para demonstrar a ci\u00eancia da menina de sua pr\u00f3pria situa\u00e7\u00e3o.",
+                "Version": 1.2,
+                "Year": 2017,
+                "Repository": "https://github.com/unbgames/mindscape",
                 "Awards": [
-                    "Melhor jogo da categoria",
-                    "Melhor jogabilidade"
+                    "Melhor jogo da categoria"
                 ],
                 "Gallery": {
                     "CoverImage": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/cover_image/game5.jpg?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/cover_image/game5.jpg?raw=true"
                     ],
                     "CarouselGallery": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game2.jpeg?raw=true",
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game3.jpg?raw=true",
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game4.png?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game2.jpeg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game3.jpg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game4.png?raw=true"
                     ],
                     "ImageGallery": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/image_gallery/game6.jpg?raw=true",
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/image_gallery/game7.jpg?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/image_gallery/game6.jpg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/image_gallery/game7.jpg?raw=true"
                     ]
                 },
                 "Genre": [
-                    "Rpg",
-                    "Luta",
-                    "Guerra"
+                    "Suspense"
                 ],
                 "Developers": [
-                    "Desenvolvedor 1",
-                    "Desenvolvedor 2",
-                    "Desenvolvedor N"
+                    "Luan Guimar\u00e3es",
+                    "Lucas Soares",
+                    "Matheus Miranda",
+                    "Victor Navarro"
                 ],
                 "Designers": [
                     "Artista 1",
@@ -46,6 +44,17 @@
                     "M\u00fasico 2",
                     "M\u00fasico N"
                 ],
+                "Downloads": {
+                    "Debian": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame_1.0.1-1_amd64.deb"
+                    ],
+                    "RedHat": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame-1.0.1-1.x86_64.rpm"
+                    ],
+                    "Windows": [
+                        "https://github.com/unbgames/game-template/archive/test3-w.zip"
+                    ]
+                },
                 "preview": "",
                 "basename": "MindScape_tmp"
             }
@@ -90,6 +99,17 @@
                 "Musicians": [
                     "Lucas"
                 ],
+                "Downloads": {
+                    "Debian": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame_1.0.1-1_amd64.deb"
+                    ],
+                    "RedHat": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame-1.0.1-1.x86_64.rpm"
+                    ],
+                    "Windows": [
+                        "https://github.com/unbgames/game-template/archive/test3-w.zip"
+                    ]
+                },
                 "preview": "",
                 "basename": "unbgames-platform_tmp"
             }
@@ -97,9 +117,9 @@
         {
             "jogo": {
                 "ID": 3,
-                "Name": "Game Name",
-                "Description": "Breve descri\u00e7\u00e3o do jogo. Os dados de cada t\u00f3pico devem conter um tab em seu in\u00edcio. Obede\u00e7a a formata\u00e7\u00e3o exata deste template.",
-                "Version": "Vers\u00e3o do jogo. Exemplo - 1.0, 2.0...",
+                "Name": "Conspiracy",
+                "Description": "It is possible and necessary to control three characters with different abilities. They are - E.T. Bilu, E.T. De Varginha and E.Temer. These skills are necessary to fulfill the main purpose to change the data of the government accounts to incriminate the current president of the country. Each phase consists of several challenges where cooperation between the characters is vital. The essential purpose of each phase is to change all the documents present and position all the characters on the ladder. As the player advances through the stages, more difficult puzzles are introduced, as well as more guards and detection systems.",
+                "Version": 2.9,
                 "Year": "Ano de lan\u00e7amento do jogo.",
                 "Repository": "Link do reposit\u00f3rio oficial do jogo.",
                 "Awards": [
@@ -108,38 +128,44 @@
                 ],
                 "Gallery": {
                     "CoverImage": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/cover_image/game5.jpg?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/cover_image/game5.jpg?raw=true"
                     ],
                     "CarouselGallery": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game2.jpeg?raw=true",
-                        "hhttps://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game3.jpg?raw=true",
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game4.png?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game2.jpeg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game3.jpg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game4.png?raw=true"
                     ],
                     "ImageGallery": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/image_gallery/game6.jpg?raw=true",
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/image_gallery/game7.jpg?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/image_gallery/game6.jpg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/image_gallery/game7.jpg?raw=true"
                     ]
                 },
                 "Genre": [
                     "Rpg",
-                    "Luta",
-                    "Guerra"
+                    "Luta"
                 ],
                 "Developers": [
-                    "Desenvolvedor 1",
-                    "Desenvolvedor 2",
-                    "Desenvolvedor N"
+                    "Rodrigo Oliveira Campos",
+                    "Pablo Diego da Silva",
+                    "Ronyell Henrique dos Santos"
                 ],
                 "Designers": [
-                    "Artista 1",
-                    "Artista 2",
-                    "Artista N"
+                    "Vitor Paz Guedes"
                 ],
                 "Musicians": [
-                    "M\u00fasico 1",
-                    "M\u00fasico 2",
-                    "M\u00fasico N"
+                    "Daniel Gillez Ara\u00fajo Silva"
                 ],
+                "Downloads": {
+                    "Debian": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame_1.0.1-1_amd64.deb"
+                    ],
+                    "RedHat": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame-1.0.1-1.x86_64.rpm"
+                    ],
+                    "Windows": [
+                        "https://github.com/unbgames/game-template/archive/test3-w.zip"
+                    ]
+                },
                 "preview": "",
                 "basename": "Conspiracy_tmp"
             }
@@ -147,10 +173,10 @@
         {
             "jogo": {
                 "ID": 1,
-                "Name": "Game Name",
-                "Description": "Breve descri\u00e7\u00e3o do jogo. Os dados de cada t\u00f3pico devem conter um tab em seu in\u00edcio. Obede\u00e7a a formata\u00e7\u00e3o exata deste template.",
-                "Version": "Vers\u00e3o do jogo. Exemplo - 1.0, 2.0...",
-                "Year": "Ano de lan\u00e7amento do jogo.",
+                "Name": "Towers",
+                "Description": "Nova descri\u00e7\u00e3o.",
+                "Version": 2,
+                "Year": 2017,
                 "Repository": "Link do reposit\u00f3rio oficial do jogo.",
                 "Awards": [
                     "Melhor jogo da categoria",
@@ -158,16 +184,16 @@
                 ],
                 "Gallery": {
                     "CoverImage": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/cover_image/game5.jpg?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/cover_image/game5.jpg?raw=true"
                     ],
                     "CarouselGallery": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game2.jpeg?raw=true",
-                        "hhttps://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game3.jpg?raw=true",
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/carousel_gallery/game4.png?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game2.jpeg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game3.jpg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/carousel_gallery/game4.png?raw=true"
                     ],
                     "ImageGallery": [
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/image_gallery/game6.jpg?raw=true",
-                        "https://github.com/unbgames/game-template/blob/master/gallery_img/image_gallery/game7.jpg?raw=true"
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/image_gallery/game6.jpg?raw=true",
+                        "https://raw.githubusercontent.com/unbgames/game-template/master/gallery_img/image_gallery/game7.jpg?raw=true"
                     ]
                 },
                 "Genre": [
@@ -190,6 +216,17 @@
                     "M\u00fasico 2",
                     "M\u00fasico N"
                 ],
+                "Downloads": {
+                    "Debian": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame_1.0.1-1_amd64.deb"
+                    ],
+                    "RedHat": [
+                        "https://github.com/unbgames/game-template/releases/download/test3-w/myawesomegame-1.0.1-1.x86_64.rpm"
+                    ],
+                    "Windows": [
+                        "https://github.com/unbgames/game-template/archive/test3-w.zip"
+                    ]
+                },
                 "preview": "",
                 "basename": "Towers_tmp"
             }
