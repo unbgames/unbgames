@@ -1,6 +1,8 @@
 <template>
   <v-card color="grey lighten-2">
     <v-card-text>
+      <span class="title font-weight-light">Informações do Jogo</span>
+      <div class="u-margin-top">
       <p>
         <strong>Versão do jogo:</strong>
         {{game.Version}}
@@ -15,6 +17,7 @@
         <a class="link-app" :href="game.Repository">{{game.Name}}</a>
       </p>
       <awards-card :awards="game.Awards"></awards-card>
+      </div>
     </v-card-text>
   </v-card>
 </template>
@@ -37,7 +40,12 @@ export default {
   margin: 5px 0;
   vertical-align: baseline;
 }
+
 .icon-content {
   padding: 2px;
+}
+
+.u-margin-top {
+  margin-top: 2vh;
 }
 </style>
