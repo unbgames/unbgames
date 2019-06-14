@@ -41,7 +41,7 @@ auxiliaFormatacaoArquivo = ''
 encontroUrl = 0
 
 for nomeArquivo in listaDeNomesDeArquivosReadme:
-    identificadorJogo = 0
+    numeroLinha = 0
     arquivoReadme = open(nomeArquivo, "r")
     arquivoReadmePreFormatado = nomeArquivo.replace('.md','_tmp.md')
     arquivoParaFormatar = open(arquivoReadmePreFormatado , 'w')
@@ -71,14 +71,14 @@ for nomeArquivo in listaDeNomesDeArquivosReadme:
                 if (auxiliaFormatacaoArquivo.replace('#','').strip() != "Description:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Version:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Year:" and 
                     auxiliaFormatacaoArquivo.replace('#','').strip() !="Repository:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Awards:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Gallery:" and
                     auxiliaFormatacaoArquivo.replace('#','').strip() !="Genre:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Downloads:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Development:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Art:" and 
-                    auxiliaFormatacaoArquivo.replace('#','').strip() !="Music:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="CoverImage:") and is_url == 0:
+                    auxiliaFormatacaoArquivo.replace('#','').strip() !="Music:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="CoverImage:") and encontroUrl == 0:
                     auxiliaFormatacaoArquivo = auxiliaFormatacaoArquivo.replace(':',' -')
 
             arquivoParaFormatar.write(auxiliaFormatacaoArquivo+'\n')
         numeroLinha+=1
     arquivoParaFormatar.write('---')
 
-    arquivo.close()
+    arquivoReadme.close()
     arquivoParaFormatar.close()
     encontroUrl = 0
     geraArquivoJsonFormatado(arquivoReadmePreFormatado)
