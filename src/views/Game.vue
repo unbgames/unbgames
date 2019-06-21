@@ -15,22 +15,33 @@
     </v-container>
     <v-container>
       <v-layout row wrap>
-        <v-flex xs12 md12 sm12 my-3>
-          <description-card
-            :game_description="game.Description"
-            :game_license="game.license"
-            :genres="game.Genre"
-          />
-
-          <credits-card
-            :developers="game.Developers"
-            :artists="game.Designers"
-            :musicians="game.Musicians"/>
+        <v-flex xs6 lg6 md12 sm12 my-3>
+            <v-flex xs12 lg12 mb-3>
+              <description-card
+                :game_description="game.Description"
+                :game_license="game.license"
+                :genres="game.Genre"
+              />
+            <v-flex xs12 lg12 mb-3 my-3>
+                        <game-card :game="game"/>
+            </v-flex>
+            </v-flex>
+        </v-flex>
+        <v-flex xs6 md12 lg6 sm12 my-3>
+            <v-flex xs12 lg12 mb-3 ml-2>
+              <credits-card ml-3
+                :developers="game.Developers"
+                :artists="game.Designers"
+                :musicians="game.Musicians"/>
+            </v-flex>
+            <v-flex xs12 lg12 ml-3>
+              <download-card :game="game.Downloads"/>
+            </v-flex>
         </v-flex>
       </v-layout>
     </v-container>
     <v-container>
-      <v-layout align-center justify-space-around row wrap>
+      <v-layout  justify-space-around row wrap>
         <v-flex
           xs12
           md5
@@ -38,13 +49,13 @@
           my-3
           :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-0': $vuetify.breakpoint.mdAndUp}"
         >
-          <game-card :game="game"/>
         </v-flex>
         <v-flex xs12 md5 sm5 my-3>
-          <download-card :game="game.Downloads"/>
+
         </v-flex>
       </v-layout>
     </v-container>
+    
   </div>
 </template>
 
