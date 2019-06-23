@@ -1,14 +1,15 @@
 <template>
-  <v-card color="grey lighten-2">
+  <v-card color="deep-purple accent-1">
     <v-layout row wrap>
           <v-flex xs12>
-            <v-card color="purple" class="white--text">
+            <v-card color="deep-purple accent-1" class="white--text">
               <v-layout row>
-                <v-flex xs7>
+                <v-flex xs12>
                   <v-card-title primary-title>
                     <div>
                       <div class="headline">Informações do Jogo</div>
-                      <div class=""><strong>Versão do jogo</strong>: {{game.Version}}</div>
+                      <br>
+                      <div><strong>Versão do jogo</strong>: {{game.Version}}</div>
                       <br>
                       <div><i class="fas fa-calendar-check"></i><strong> -Ano de lançamento:</strong> {{game.Year}}</div>
                       <br>
@@ -20,24 +21,9 @@
                     </div>
                   </v-card-title>
                 </v-flex>
-                <v-flex xs5>
-                  <v-img
-                    src="https://cdn.vuetifyjs.com/images/cards/halcyon.png"
-                    height="125px"
-                    contain
-                  ></v-img>
-                </v-flex>
+               
               </v-layout>
               <v-divider light></v-divider>
-              <v-card-actions class="pa-3">
-                Rate this album
-                <v-spacer></v-spacer>
-                <v-icon>star_border</v-icon>
-                <v-icon>star_border</v-icon>
-                <v-icon>star_border</v-icon>
-                <v-icon>star_border</v-icon>
-                <v-icon>star_border</v-icon>
-              </v-card-actions>
             </v-card>
           </v-flex>
         </v-layout>

@@ -9,6 +9,7 @@
               <div>Desenvolvedor</div>
             </template>
             <v-card>
+              <v-divider light></v-divider>
               <v-card-text v-for="developer in developers">{{developer}}</v-card-text>
             </v-card>
           </v-expansion-panel-content>
@@ -19,6 +20,7 @@
               <div>Artistas</div>
             </template>
             <v-card>
+              <v-divider light></v-divider>
               <v-card-text v-for="artist in artists">{{artist}}</v-card-text>
             </v-card>
           </v-expansion-panel-content>
@@ -29,6 +31,7 @@
               <div>Musicos</div>
             </template>
             <v-card>
+              <v-divider light></v-divider>
               <v-card-text v-for="musician in musicians">{{musician}}</v-card-text>
             </v-card>
           </v-expansion-panel-content>

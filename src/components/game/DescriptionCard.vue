@@ -1,8 +1,8 @@
 <template>
        <v-expansion-panel>
-    <v-expansion-panel-content class="indigo lighten-2" >
+    <v-expansion-panel-content class="indigo lighten-2 white--text" >
       <template v-slot:header>
-        <div class="text-sm-center">Descrição</div>
+        <div class="text-sm-center headline">Descrição</div>
         
       </template>
       <v-card>
