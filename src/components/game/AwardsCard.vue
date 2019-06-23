@@ -2,7 +2,9 @@
   <div v-if="awards.length!=0">
     <div color="grey lighten-2">
       <p>
-        <strong>Prêmios conquistados:</strong>
+        <i class="fas fa-trophy"></i>
+        <strong> -Prêmios conquistados:</strong>
+        
         <br>
       </p>
       <span v-for="(award,i) in awards" :key="i">
