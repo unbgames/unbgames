@@ -48,23 +48,6 @@ export default {
   name: "AuthorsCard",
   props: {
     game: Object
-  },
-  data() {
-    return {
-      headers: [
-        {
-          text: "Plataforma",
-          align: "left",
-          sortable: false,
-          value: "platform"
-        },
-        {
-          text: "Arquitetura",
-          sortable: false,
-          value: "architecture"
-        }
-      ]
-    };
   }
 };
 </script>
