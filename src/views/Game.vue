@@ -1,18 +1,19 @@
 <template>
   <div>
-    <menu-app/>
     <v-container>
       <v-flex>
         <div>
-          <h1 class="font-weight-thin display-1">{{game.Name}}</h1>
+          <h1 class="font-weight-bold display-1 game-title">{{game.Name}}</h1>
         </div>
       </v-flex>
+
       <v-layout row wrap>
         <v-flex d-flex xs12 sm12 md12 my-12>
           <carousel :images="game"/>
         </v-flex>
       </v-layout>
     </v-container>
+
     <v-container>
       <v-layout row wrap>
         <v-flex xs12 md12 sm12 my-3>
@@ -25,10 +26,12 @@
           <credits-card
             :developers="game.Developers"
             :artists="game.Designers"
-            :musicians="game.Musicians"/>
+            :musicians="game.Musicians"
+          />
         </v-flex>
       </v-layout>
     </v-container>
+
     <v-container>
       <v-layout align-center justify-space-around row wrap>
         <v-flex
@@ -40,9 +43,11 @@
         >
           <game-card :game="game"/>
         </v-flex>
+
         <v-flex xs12 md5 sm5 my-3>
           <download-card :game="game.Downloads"/>
         </v-flex>
+        
       </v-layout>
     </v-container>
   </div>
@@ -55,17 +60,15 @@ import DescriptionCard from "@/components/game/DescriptionCard.vue";
 import CreditsCard from "@/components/game/CreditsCard.vue";
 import DownloadCard from "@/components/game/DownloadCard.vue";
 import GameCardDescription from "@/components/game/GameCardDescription.vue";
-import HeaderMenu from "@/components/HeaderMenu.vue";
 
 export default {
   name: "game",
   components: {
-    carousel: GameCarousel,
+    "carousel": GameCarousel,
     "description-card": DescriptionCard,
     "credits-card": CreditsCard,
     "game-card": GameCardDescription,
-    "download-card": DownloadCard,
-    "menu-app": HeaderMenu
+    "download-card": DownloadCard
   },
   props: {
     game_id: Number
@@ -73,9 +76,9 @@ export default {
   computed: {
     game: function() {
       let size = json.jogos.length;
-      for (var i = 0; i <= size; i++) {
-        var jogo = json.jogos[i].jogo;
-        if (jogo.ID == this.game_id) {
+      for (let i = 0; i <= size; i++) {
+        let jogo = json.jogos[i].jogo;
+        if (jogo.ID === this.game_id) {
           return jogo;
         }
       }
@@ -83,3 +86,12 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+
+.game-title {
+  padding: 3.5vh 0;
+}
+
+</style>
+

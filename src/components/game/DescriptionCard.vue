@@ -13,15 +13,6 @@
   </v-card>
 </template>
 
-<style>
-.description-text {
-  margin-top: 10px;
-}
-.genres-card {
-  padding: 5px 15px;
-}
-</style>
-
 <script>
 export default {
   name: "DescriptionCard",
@@ -32,3 +23,12 @@ export default {
   }
 };
 </script>
+
+<style>
+.description-text {
+  margin-top: 10px;
+}
+.genres-card {
+  padding: 5px 15px;
+}
+</style>

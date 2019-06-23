@@ -34,7 +34,8 @@ export default {
     "awards-card": AwardsCard
   }
 };
-</script>        
+</script>
+
 <style>
 .data-content {
   margin: 5px 0;

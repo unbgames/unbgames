@@ -43,16 +43,6 @@
   </v-card>
 </template>
 
-<style>
-.u-margin-top {
-  margin-top: 2vh;
-}
-
-.icon-holder {
-  font-size: 20px;
-}
-</style>
-
 <script>
 export default {
   name: "AuthorsCard",
@@ -78,3 +68,13 @@ export default {
   }
 };
 </script>
+
+<style>
+.u-margin-top {
+  margin-top: 2vh;
+}
+
+.icon-holder {
+  font-size: 20px;
+}
+</style>

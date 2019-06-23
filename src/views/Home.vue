@@ -6,7 +6,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import GameList from "@/components/home/GameList.vue";
 import HeroComponentVue from "@/components/home/HeroComponent.vue";
 
