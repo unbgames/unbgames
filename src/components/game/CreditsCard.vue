@@ -4,7 +4,7 @@
       <v-flex xs1 md4 sm1>
         <v-card-text class="text-xs-center">
           <span class="font-weight-light title authors-names-list">Desenvolvedores</span>
-          <p  v-for="developer in developers">{{developer}}</p>
+          <p v-for="developer in developers">{{developer}}</p>
         </v-card-text>
       </v-flex>
 
@@ -30,7 +30,7 @@ p {
   margin-top: 2vh;
 }
 
-.u-margin-bottom{
+.u-margin-bottom {
   margin-top: 3vh;
   margin-bottom: -7.5vh;
 }

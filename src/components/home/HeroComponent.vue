@@ -2,7 +2,7 @@
   <div class="header-image">
     <div class="header-text">
        <h3 class="display-3">UnBGames</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quidem impedit mollitia repudiandae, fugiat quia aliquid blanditiis quasi illo dolor asperiores, minus vel, nesciunt illum modi eligendi dolorum. Nemo, fugit?</p>
+      <p>Acervo central de jogos feitos na Universidade de Brasilia e em seus campi.</p>
     </div>
   </div>
 </template>
@@ -15,12 +15,15 @@ export default {
 
 <style lang="scss" scoped>
 .header-image {
-  height: 60vh;
+  height: 75vh;
   background-image: linear-gradient(
-    to right bottom,
-    rgba(#4caf50, 1),
-    rgba(#1f4037, 1)
-  );
+      to right,
+    rgba(#449D48, 0.95),
+    rgba(#18332C, 0.95)
+    ),
+    url('https://user-images.githubusercontent.com/26073710/59325516-c3016e00-8cb9-11e9-8c65-b7e3d39dc296.png');
+  background-size: cover;
+  background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;
