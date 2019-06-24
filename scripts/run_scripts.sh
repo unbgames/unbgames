@@ -12,7 +12,7 @@ echo "Step 2"
 cd ../
 python scripts/script_get_readme.py
 sleep 3
-python scripts/script_parser_json.py
+python scripts/parser_json_main.py
 sleep 3
 python scripts/concatenate_json.py
 

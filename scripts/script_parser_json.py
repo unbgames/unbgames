@@ -1,61 +1,84 @@
+'''
+Script: 
+    script_parser_json.py
+
+Objetivo: 
+    Realizar a pré formatação dos arquivos no formato markdown para um formato
+    aceito pela biblioteca que realiza o parser dos arquivospara o formato json.
+'''
+
 import os
 import glob
 import re
 
-def lista_arquivo():
-    lista = []
-    for x in glob.glob("readmes/*.md"):
-       lista.append(x)
-    return lista
+'''
+Método: geraListaArquivosReadmes
+Objetivo: Ler o nome dos arquivos no formato readme e adicioná-los a uma lista
+Retorno: Lista contendo todos os nomes dos arquivos readmes
+Parâmetros: Não recebe parâmetros
+'''
+def geraListaArquivosReadmes():
+    listaDeNomesArquivosReadmes = []
+    for nomeArquivo in glob.glob("readmes/*.md"):
+       listaDeNomesArquivosReadmes.append(nomeArquivo)
+    return listaDeNomesArquivosReadmes
 
-def salva_json(nomeArquivo):
+
+'''
+ Método: geraArquivoJsonFormatado
+ Objetivo: Invocar processo externo responsável pelo parser dos arquivos (realizar o parser).
+ Retorno: Não há retorno
+ Parâmetros: nome dos arquivos temporários pré formatados no formato aceito pela biblioteca m2j.
+'''
+def geraArquivoJsonFormatado(nomeArquivo):
     os.popen('m2j '+nomeArquivo+' >> '+nomeArquivo.replace('_tmp.md','.json'))
 
-lista_md = lista_arquivo()
 
-dados = []
-aux = ''
-is_url = 0
 
-for i in lista_md:
-    count = 0
-    arquivo = open(i, "r")
-    arquivoTmp = i.replace('.md','_tmp.md')
-    readme_json = open(arquivoTmp , 'w')
-    readme_json.write('---\n')
-    for linha in arquivo:
-        aux = linha.rstrip()
-        aux = aux.replace('#', '')
-        aux = aux.replace('*', '-')
-        url = re.findall(r'src=(\S+)><', aux)
+listaDeNomesDeArquivosReadme = geraListaArquivosReadmes()
+
+auxiliaFormatacaoArquivo = ''
+encontroUrl = 0
+
+for nomeArquivo in listaDeNomesDeArquivosReadme:
+    numeroLinha = 0
+    arquivoReadme = open(nomeArquivo, "r")
+    arquivoReadmePreFormatado = nomeArquivo.replace('.md','_tmp.md')
+    arquivoParaFormatar = open(arquivoReadmePreFormatado , 'w')
+    arquivoParaFormatar.write('---\n')
+    for linhaDoArquivo in arquivoReadme:
+        auxiliaFormatacaoArquivo = linhaDoArquivo.rstrip()
+        auxiliaFormatacaoArquivo = auxiliaFormatacaoArquivo.replace('#', '')
+        auxiliaFormatacaoArquivo = auxiliaFormatacaoArquivo.replace('*', '-')
+        url = re.findall(r'src=(\S+)><', auxiliaFormatacaoArquivo)
         if url:
-            is_url = 1
-            for x in url:
-                item = x
+            encontroUrl = 1
+            for urlNaoFormatada in url:
+                #formatacaoUrl = x
                 for y in ['(', ')']:
-                    item = item.replace(y, "")
-            aux = '   - '+item[:-1]+'?raw=true"'
-        if count == 0: #Define Name and ID of the game
-            gameId = lista_md.index(i)
-            readme_json.write(' ID:\n    '+str(gameId)+'\n' + ' Name:\n    '+aux+'\n')
+                    formatacaoUrl = urlNaoFormatada.replace(y, "")
+            auxiliaFormatacaoArquivo = '   - '+formatacaoUrl[:-1]+'?raw=true"'
+        if numeroLinha == 0: #Define o nome e o identificador do jogo
+            identificadorJogo = listaDeNomesDeArquivosReadme.index(nomeArquivo)
+            arquivoParaFormatar.write(' ID:\n    '+str(identificadorJogo)+'\n' + ' Name:\n    '+auxiliaFormatacaoArquivo+'\n')
         else:
-            url_rep = re.findall(r'https://', aux)
-            if not url_rep:
-                if (aux.replace('#','').strip() == "Carousel Gallery:") or (aux.replace('#','').strip() == "Cover Image:") or (aux.replace('#','').strip() == "Image Gallery:") or (aux.replace('#','').strip() == "Debian:") or (aux.replace('#','').strip() == "RedHat:") or (aux.replace('#','').strip() == "Windows:") :
-                    aux = aux.replace(' ','')
-                    aux = '  '+aux
+            achoUrlRepositorio = re.findall(r'https://', auxiliaFormatacaoArquivo)
+            if not achoUrlRepositorio:
+                if (auxiliaFormatacaoArquivo.replace('#','').strip() == "Carousel Gallery:") or (auxiliaFormatacaoArquivo.replace('#','').strip() == "Cover Image:") or (auxiliaFormatacaoArquivo.replace('#','').strip() == "Image Gallery:") or (auxiliaFormatacaoArquivo.replace('#','').strip() == "Debian:") or (auxiliaFormatacaoArquivo.replace('#','').strip() == "RedHat:") or (auxiliaFormatacaoArquivo.replace('#','').strip() == "Windows:") :
+                    auxiliaFormatacaoArquivo = auxiliaFormatacaoArquivo.replace(' ','')
+                    auxiliaFormatacaoArquivo = '  '+auxiliaFormatacaoArquivo
 
-                if (aux.replace('#','').strip() != "Description:" and aux.replace('#','').strip() !="Version:" and aux.replace('#','').strip() !="Year:" and 
-                    aux.replace('#','').strip() !="Repository:" and aux.replace('#','').strip() !="Awards:" and aux.replace('#','').strip() !="Gallery:" and
-                    aux.replace('#','').strip() !="Genre:" and aux.replace('#','').strip() !="Downloads:" and aux.replace('#','').strip() !="Development:" and aux.replace('#','').strip() !="Art:" and 
-                    aux.replace('#','').strip() !="Music:" and aux.replace('#','').strip() !="CoverImage:") and is_url == 0:
-                    aux = aux.replace(':',' -')
+                if (auxiliaFormatacaoArquivo.replace('#','').strip() != "Description:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Version:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Year:" and 
+                    auxiliaFormatacaoArquivo.replace('#','').strip() !="Repository:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Awards:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Gallery:" and
+                    auxiliaFormatacaoArquivo.replace('#','').strip() !="Genre:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Downloads:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Development:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="Art:" and 
+                    auxiliaFormatacaoArquivo.replace('#','').strip() !="Music:" and auxiliaFormatacaoArquivo.replace('#','').strip() !="CoverImage:") and encontroUrl == 0:
+                    auxiliaFormatacaoArquivo = auxiliaFormatacaoArquivo.replace(':',' -')
 
-            readme_json.write(aux+'\n')
-        count+=1
-    readme_json.write('---')
+            arquivoParaFormatar.write(auxiliaFormatacaoArquivo+'\n')
+        numeroLinha+=1
+    arquivoParaFormatar.write('---')
 
-    arquivo.close()
-    readme_json.close()
-    is_url = 0
-    salva_json(arquivoTmp)
+    arquivoReadme.close()
+    arquivoParaFormatar.close()
+    encontroUrl = 0
+    geraArquivoJsonFormatado(arquivoReadmePreFormatado)
