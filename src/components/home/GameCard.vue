@@ -1,8 +1,8 @@
 <template>
   <v-card class="game-card">
-    <v-card-media>
-      <img class="cover-image" :src="cover_image" alt="Image">
-    </v-card-media>
+    <v-card>
+      <v-img class="cover-image" :src="cover_image[0]" alt="Image"></v-img>
+    </v-card>
     <v-card-title primary-title>
       <h4 class="title card-text text-truncate">{{name}}</h4>
     </v-card-title>
@@ -13,7 +13,7 @@
 export default {
   name: "GameCard",
   props: {
-    cover_image: String,
+    cover_image: Array,
     name: String
   }
 };

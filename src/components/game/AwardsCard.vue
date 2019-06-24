@@ -5,7 +5,7 @@
         <strong>Prêmios conquistados:</strong>
         <br>
       </p>
-      <span v-for="(award,i) in awards" :key="award.type+i">
+      <span v-for="(award,i) in awards" :key="i">
         <p class="award-text">{{award}}</p>
       </span>
     </div>
