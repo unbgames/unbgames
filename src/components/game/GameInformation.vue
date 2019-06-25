@@ -16,7 +16,18 @@
                       <div><strong><i class="fab fa-github"></i> -Repositório Oficial:</strong></div>
                       <a class="link-app" :href="game.Repository">{{game.Name}}</a>
                       <br><br>
-                      <awards-card :awards="game.Awards"></awards-card>                    
+                      <div v-if="game.Awards.length!=0">
+                      <div color="grey lighten-2">
+                        <p>
+                          <i class="fas fa-trophy"></i>
+                          <strong> -Prêmios conquistados:</strong>
+                          <br>
+                        </p>
+                        <span v-for="(award,i) in game.Awards" :key="i">
+                          <p class="award-text">{{award}}</p>
+                        </span>
+                      </div>
+  </div>    
   
                     </div>
                   </v-card-title>
@@ -32,16 +43,13 @@
 </template>
 
 <script>
-import AwardsCard from "./AwardsCard.vue";
+
 
 export default {
   name: "GameInformation",
   props: {
     game: Object
   },
-  components: {
-    "awards-card": AwardsCard
-  }
 };
 </script>
 

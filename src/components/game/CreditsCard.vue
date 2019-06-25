@@ -10,7 +10,7 @@
             </template>
             <v-card>
               <v-divider light></v-divider>
-              <v-card-text v-for="developer in developers">{{developer}}</v-card-text>
+              <v-card-text v-for="(developer,i) in developers" :key="i">{{developer}}</v-card-text>
             </v-card>
           </v-expansion-panel-content>
         </v-expansion-panel>
@@ -21,7 +21,7 @@
             </template>
             <v-card>
               <v-divider light></v-divider>
-              <v-card-text v-for="artist in artists">{{artist}}</v-card-text>
+              <v-card-text v-for="(artist,i) in artists" :key="i">{{artist}}</v-card-text>
             </v-card>
           </v-expansion-panel-content>
         </v-expansion-panel>
@@ -32,7 +32,7 @@
             </template>
             <v-card>
               <v-divider light></v-divider>
-              <v-card-text v-for="musician in musicians">{{musician}}</v-card-text>
+              <v-card-text v-for="(musician,i) in musicians" :key="i">{{musician}}</v-card-text>
             </v-card>
           </v-expansion-panel-content>
         </v-expansion-panel>
