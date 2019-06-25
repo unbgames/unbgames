@@ -1,5 +1,5 @@
 # NOME: concatenate_json
-# FUNÇÃO: juntar os arquivos json em um unico arquivo json
+# FUNÇÃO: Concatenar os arquivos json com os dados dos jogos em um único arquivo json que será o banco de dados da aplicação
 
 import glob
 import json
@@ -17,5 +17,5 @@ print(lista_jsons)
 lista_jogos = PadronizaArrayJogos.abri_transformar_json_python(lista_jsons)
 
 # Salvando lista em um arquivo json que será o banco de dados
-SalvaDicionarioEmJson.salva_arquivo_json(lista_jogos)
+SalvaDicionarioEmJson.salva_arquivo_json(lista_jogos, 4)
 
