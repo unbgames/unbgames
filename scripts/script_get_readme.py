@@ -1,19 +1,24 @@
+# NOME: script_get_readme
+# FUNÇÃO: Acessar cada repositório na organização para capturar o arquivo 'unbgames.md' 
+#         com as informações referentes a cada jogo,
+
 from github import Github
 import urllib
 import os
 
+# --- Variável de ambiente configurada no travis para autenticação da API Github
 token = os.environ['AUTH_TOKEN']
 
-g = Github(token)
-org = g.get_organization('plataformagames')
+objeto_github = Github(token)
+organizacao = objeto_github.get_organization('plataformagames')
 
-for repo in org.get_repos():
+for repositorio in organizacao.get_repos():
     try:
-        file_content = repo.get_file_contents('unbgames.md')
+        conteudo_arquivo = repositorio.get_file_contents('unbgames.md')
 
-        if(repo.name != 'unbgames' or repo.name != 'game-template' or repo.name != 'unbgames-platform'):
-            urllib.request.urlretrieve(file_content.download_url, ('readmes/'+repo.name + '.md'))
+        if(repositorio.name != 'unbgames' or repositorio.name != 'game-template' or repositorio.name != 'unbgames-platform'):
+            urllib.request.urlretrieve(conteudo_arquivo.download_url, ('readmes/'+repositorio.name + '.md'))
 
-    except Exception as e :
-        print("Repository: " + repo.name + " don't have readme.md file.")
-        print(str(e))
+    except Exception as excecao_encontrada :
+        print("O repositório: " + repositorio.name + " não possui o arquivo 'unbgames.md'.")
+        print(str(excecao_encontrada))
