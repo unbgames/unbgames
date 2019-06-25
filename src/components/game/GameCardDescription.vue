@@ -1,24 +1,33 @@
 <template>
-  <v-card color="grey lighten-2">
-    <v-card-text>
-      <span class="title font-weight-light">Informações do Jogo</span>
-      <div class="u-margin-top">
-      <p>
-        <strong>Versão do jogo:</strong>
-        {{game.Version}}
-      </p>
-      <p>
-        <strong>Ano de lançamento:</strong>
-        {{game.Year}}
-      </p>
-      <p>
-        <strong>Repositório Oficial:</strong>
-        <br>
-        <a class="link-app" :href="game.Repository">{{game.Name}}</a>
-      </p>
-      <awards-card :awards="game.Awards"></awards-card>
-      </div>
-    </v-card-text>
+  <v-card color="deep-purple accent-1">
+    <v-layout row wrap>
+          <v-flex xs12>
+            <v-card color="deep-purple accent-1" class="white--text">
+              <v-layout row>
+                <v-flex xs12>
+                  <v-card-title primary-title>
+                    <div>
+                      <div class="headline">Informações do Jogo</div>
+                      <br>
+                      <div><strong>Versão do jogo</strong>: {{game.Version}}</div>
+                      <br>
+                      <div><i class="fas fa-calendar-check"></i><strong> -Ano de lançamento:</strong> {{game.Year}}</div>
+                      <br>
+                      <div><strong><i class="fab fa-github"></i> -Repositório Oficial:</strong></div>
+                      <a class="link-app" :href="game.Repository">{{game.Name}}</a>
+                      <br><br>
+                      <awards-card :awards="game.Awards"></awards-card>                    
+  
+                    </div>
+                  </v-card-title>
+                </v-flex>
+               
+              </v-layout>
+              <v-divider light></v-divider>
+            </v-card>
+          </v-flex>
+        </v-layout>
+
   </v-card>
 </template>
 

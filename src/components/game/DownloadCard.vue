@@ -1,8 +1,8 @@
 <template>
   <v-card>
-    <v-card color="grey lighten-2">
+    <v-card color="blue accent-1">
       <v-card-text>
-        <span class="title font-weight-light">Downloads</span>
+        <span class="title white--text">Downloads</span>
         <div class="u-margin-top">
           <v-layout align-center justify-space-around row wrap>
             <v-flex xs1 md4 sm1>
