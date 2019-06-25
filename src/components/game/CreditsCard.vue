@@ -25,17 +25,6 @@
   </v-container>
 </template>
 
-<style scoped>
-p {
-  margin-top: 2vh;
-}
-
-.u-margin-bottom {
-  margin-top: 3vh;
-  margin-bottom: -7.5vh;
-}
-</style>
-
 <script>
 export default {
   name: "AuthorsCard",
@@ -46,3 +35,14 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+p {
+  margin-top: 2vh;
+}
+
+.u-margin-bottom {
+  margin-top: 3vh;
+  margin-bottom: -7.5vh;
+}
+</style>
