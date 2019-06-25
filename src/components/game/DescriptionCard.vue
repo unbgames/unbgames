@@ -31,3 +31,12 @@ export default {
   }
 };
 </script>
+
+<style>
+.description-text {
+  margin-top: 10px;
+}
+.genres-card {
+  padding: 5px 15px;
+}
+</style>

@@ -43,6 +43,15 @@
   </v-card>
 </template>
 
+<script>
+export default {
+  name: "AuthorsCard",
+  props: {
+    game: Object
+  }
+};
+</script>
+
 <style>
 .u-margin-top {
   margin-top: 2vh;
@@ -52,29 +61,3 @@
   font-size: 20px;
 }
 </style>
-
-<script>
-export default {
-  name: "AuthorsCard",
-  props: {
-    game: Object
-  },
-  data() {
-    return {
-      headers: [
-        {
-          text: "Plataforma",
-          align: "left",
-          sortable: false,
-          value: "platform"
-        },
-        {
-          text: "Arquitetura",
-          sortable: false,
-          value: "architecture"
-        }
-      ]
-    };
-  }
-};
-</script>

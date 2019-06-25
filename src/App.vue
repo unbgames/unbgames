@@ -15,6 +15,7 @@ export default {
   }
 };
 </script>
+
 <style>
 body {
   color: #282928;

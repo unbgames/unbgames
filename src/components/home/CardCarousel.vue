@@ -5,7 +5,7 @@
         class="card-carousel"
         :to="{name: 'game', params: {game_id: game.ID, game_json: game}}"
       >
-        <card-game :name="game.Name" :cover_image="game.Gallery.CoverImage[0]"/>
+        <game-card :name="game.Name" :cover_image="game.Gallery.CoverImage[0]"/>
       </router-link>
     </swiper-slide>
     <div class="swiper-button-prev" slot="button-prev"></div>
@@ -16,13 +16,13 @@
 <script>
 import "swiper/dist/css/swiper.css";
 import { swiper, swiperSlide } from "vue-awesome-swiper";
-import CardGame from "@/components/home/GameCard.vue";
+import GameCard from "@/components/home/GameCard.vue";
 
 export default {
   components: {
     swiper: swiper,
     "swiper-slide": swiperSlide,
-    "card-game": CardGame
+    "game-card": GameCard
   },
   data() {
     return {
