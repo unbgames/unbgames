@@ -35,6 +35,7 @@ def abri_transformar_json_python(lista_jsons):
 			lista_jogos.append(objeto_jogo)
 
 	return lista_jogos
+
 # Salvando lista em um arquivo json que será o banco de dados
 lista_jsons = lista_json_jogos()
 lista_jogos = abri_transformar_json_python(lista_jsons)
