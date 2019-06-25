@@ -17,9 +17,9 @@ class SalvaDicionarioEmJson:
     '''
     @staticmethod
     # Lista JSONs dos jogos
-    def lista_json_jogos(lista_jogos):
+    def salva_arquivo_json(lista_jogos):
         dicionario_jogos = {"jogos" : lista_jogos}
     	
-        with open('utils/db.json', 'w') as database:
+        with open('../utils/db.json', 'w') as database:
             json.dump(dicionario_jogos, database, indent=4)
         database.close()
