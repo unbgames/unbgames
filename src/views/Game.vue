@@ -69,7 +69,7 @@ import GameCarousel from "@/components/GameCarousel.vue";
 import DescriptionCard from "@/components/game/DescriptionCard.vue";
 import CreditsCard from "@/components/game/CreditsCard.vue";
 import DownloadCard from "@/components/game/DownloadCard.vue";
-import GameCardDescription from "@/components/game/GameCardDescription.vue";
+import GameInformation from "@/components/game/GameInformation.vue";
 
 export default {
   name: "game",
@@ -77,7 +77,7 @@ export default {
     "carousel": GameCarousel,
     "description-card": DescriptionCard,
     "credits-card": CreditsCard,
-    "game-card": GameCardDescription,
+    "game-card": GameInformation,
     "download-card": DownloadCard
   },
   props: {
