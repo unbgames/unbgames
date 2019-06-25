@@ -35,7 +35,7 @@
 import AwardsCard from "./AwardsCard.vue";
 
 export default {
-  name: "GameCardDescription",
+  name: "GameInformation",
   props: {
     game: Object
   },
