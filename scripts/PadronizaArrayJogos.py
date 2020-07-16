@@ -18,22 +18,24 @@ class PadronizaArrayJogos:
     '''
     @staticmethod
     def abri_transformar_json_python(lista_jsons):
-    	for json_file in lista_jsons:
-    		with open(json_file, "r") as data:
-    			# Verifica se o arquivo já está salvo
-    			while True:
-    				tamanho_arquivo = os.path.getsize(json_file)
+        lista_jogos = []
 
-    				if tamanho_arquivo != 0:
-    					break
+        for json_file in lista_jsons:
+            with open(json_file, "r") as data:
+                # Verifica se o arquivo já está salvo
+                while True:
+                    tamanho_arquivo = os.path.getsize(json_file)
 
-    			objeto_jogo = json.load(data)
+                    if tamanho_arquivo != 0:
+                        break
 
-    			# Padroniza todas as chaves no array de jogos
-    			key_objeto_jogo = objeto_jogo.keys()
-    			key_objeto_jogo = list(key_objeto_jogo)[0]
-    			objeto_jogo["jogo"] = objeto_jogo.pop(key_objeto_jogo)
+                objeto_jogo = json.load(data)
 
-    			lista_jogos.append(objeto_jogo)
+                # Padroniza todas as chaves no array de jogos
+                key_objeto_jogo = objeto_jogo.keys()
+                key_objeto_jogo = list(key_objeto_jogo)[0]
+                objeto_jogo["jogo"] = objeto_jogo.pop(key_objeto_jogo)
 
-    	return lista_jogos
+                lista_jogos.append(objeto_jogo)
+
+        return lista_jogos

@@ -19,10 +19,8 @@ class AbrirListaJson:
     @staticmethod
     # Lista JSONs dos jogos
     def lista_json_jogos():
-    	lista_jsons = []
-    	for arquivo_json in glob.glob("readmes/*.json"):
-    		lista_jsons.append(arquivo_json)
+        lista_jsons = []
+        for arquivo_json in glob.glob("../readmes/json/*.json"):
+            lista_jsons.append(arquivo_json)
 
-    	# Abre os aquivos json e coloca seus conteudos em uma lista de objetos
-    	lista_jogos = []
-    	return lista_jsons
+        return lista_jsons
