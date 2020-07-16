@@ -1,43 +1,65 @@
 <template>
   <div>
-    <menu-app/>
     <v-container>
       <v-flex>
         <div>
-          <h1 class="font-weight-thin display-1">{{game.name}}</h1>
+          <h1 class="font-weight-bold display-1 game-title">{{game.Name}}</h1>
         </div>
       </v-flex>
+
       <v-layout row wrap>
-        <v-flex d-flex xs12 sm12 md8 my-3>
-          <carousel :images="game.images"/>
-        </v-flex>
-        <v-flex
-          md3
-          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
-        >
-          <v-flex my-3>
-            <download-card :game="game"/>
-          </v-flex>
-          <game-card :game="game"/>
-        </v-flex>
-      </v-layout>
-      <v-layout row wrap>
-        <v-flex xs12 md8 sm12 my-3>
-          <description-card
-            :game_description="game.description"
-            :game_license="game.license"
-            :genres="game.genres"
-          />
-        </v-flex>
-        <v-flex
-          my-3
-          md3
-          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-4': $vuetify.breakpoint.mdAndUp}"
-        >
-          <credits-card :credits="game.credits"/>
+        <v-flex d-flex xs12 sm12 md12 my-12>
+          <carousel :images="game"/>
         </v-flex>
       </v-layout>
     </v-container>
+
+    <v-container>
+      <v-layout row wrap>
+        <v-flex xs6 lg6 md12 sm12 my-3>
+            <v-flex xs12 lg12 mb-3>
+              <description-card
+                :game_description="game.Description"
+                :game_license="game.license"
+                :genres="game.Genre"
+              />
+            <v-flex xs12 lg12 mb-3 my-3>
+                        <game-card :game="game"/>
+            </v-flex>
+            </v-flex>
+        </v-flex>
+        <v-flex xs6 md12 lg6 sm12 my-3>
+            <v-flex xs12 lg12 mb-3 ml-2>
+              <credits-card ml-3
+                :developers="game.Developers"
+                :artists="game.Designers"
+                :musicians="game.Musicians"/>
+            </v-flex>
+            <v-flex xs12 lg12 ml-3>
+              <download-card :game="game.Downloads"/>
+            </v-flex>
+        </v-flex>
+      </v-layout>
+    </v-container>
+
+    <v-container>
+      <v-layout  justify-space-around row wrap>
+        <v-flex
+          xs12
+          md5
+          sm5
+          my-3
+          :class="{'ma-0': $vuetify.breakpoint.smAndDown, 'ml-0': $vuetify.breakpoint.mdAndUp}"
+        >
+        </v-flex>
+
+        <v-flex xs12 md5 sm5 my-3>
+
+        </v-flex>
+        
+      </v-layout>
+    </v-container>
+    
   </div>
 </template>
 
@@ -47,30 +69,39 @@ import GameCarousel from "@/components/GameCarousel.vue";
 import DescriptionCard from "@/components/game/DescriptionCard.vue";
 import CreditsCard from "@/components/game/CreditsCard.vue";
 import DownloadCard from "@/components/game/DownloadCard.vue";
-import GameCardDescription from "@/components/game/GameCardDescription.vue";
-import HeaderMenu from "@/components/HeaderMenu.vue";
+import GameInformation from "@/components/game/GameInformation.vue";
 
 export default {
   name: "game",
   components: {
-    carousel: GameCarousel,
+    "carousel": GameCarousel,
     "description-card": DescriptionCard,
     "credits-card": CreditsCard,
-    "game-card": GameCardDescription,
-    "download-card": DownloadCard,
-    "menu-app": HeaderMenu
+    "game-card": GameInformation,
+    "download-card": DownloadCard
   },
   props: {
     game_id: Number
   },
   computed: {
     game: function() {
-      for (var i = 0, size = json.length; i < size; i++) {
-        var game = json[i].games.find(game => game.id === this.game_id);
-        if (game != undefined) break;
+      let size = json.jogos.length;
+      for (let i = 0; i <= size; i++) {
+        let jogo = json.jogos[i].jogo;
+        if (jogo.ID === this.game_id) {
+          return jogo;
+        }
       }
-      return game;
     }
   }
 };
 </script>
+
+<style scoped>
+
+.game-title {
+  padding: 3.5vh 0;
+}
+
+</style>
+

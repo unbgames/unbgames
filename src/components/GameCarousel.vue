@@ -1,6 +1,6 @@
 <template>
   <v-carousel>
-    <v-carousel-item v-for="(item,i) in images" :key="i" :src="item.src"></v-carousel-item>
+    <v-carousel-item v-for="(item,i) in images.Gallery.CarouselGallery" :key="i" :src="item"></v-carousel-item>
   </v-carousel>
 </template>
 
@@ -13,7 +13,7 @@ export default {
     "game-carousel": GameCarousel
   },
   props: {
-    images: Array
+    images: Object
   }
 };
 </script>

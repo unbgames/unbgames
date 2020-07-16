@@ -1,32 +1,62 @@
 <template>
-  <v-card color="grey lighten-2">
-    <div v-for="credit in credits" :key="credit.role">
-      <v-card-text>
-        <span class="font-weight-light title">{{credit.role}}</span>
-        <ul class="authors-names-list">
-          <li v-for="(author, i) in credit.authors" :key="credit.role+i+author.name">
-            <a class="author-link" :href="author.portifolio">{{author.name}}</a>
-          </li>
-        </ul>
-      </v-card-text>
-    </div>
-  </v-card>
+      <div> 
+        <v-expansion-panel popout class="green accent-1">
+        </v-expansion-panel>
+        <tr/>
+        <v-expansion-panel popout class="deep-purple lighten-3">
+          <v-expansion-panel-content>
+            <template v-slot:header>
+              <div>Desenvolvedor</div>
+            </template>
+            <v-card>
+              <v-divider light></v-divider>
+              <v-card-text v-for="developer in developers">{{developer}}</v-card-text>
+            </v-card>
+          </v-expansion-panel-content>
+        </v-expansion-panel>
+        <v-expansion-panel popout class="blue lighten-3">
+          <v-expansion-panel-content>
+            <template v-slot:header>
+              <div>Artistas</div>
+            </template>
+            <v-card>
+              <v-divider light></v-divider>
+              <v-card-text v-for="artist in artists">{{artist}}</v-card-text>
+            </v-card>
+          </v-expansion-panel-content>
+        </v-expansion-panel>
+        <v-expansion-panel popout class="orange lighten-3">
+          <v-expansion-panel-content>
+            <template v-slot:header>
+              <div>Musicos</div>
+            </template>
+            <v-card>
+              <v-divider light></v-divider>
+              <v-card-text v-for="musician in musicians">{{musician}}</v-card-text>
+            </v-card>
+          </v-expansion-panel-content>
+        </v-expansion-panel>
+      </div>
 </template>
-
-<style>
-.authors-names-list {
-  margin-top: 10px;
-}
-.author-link {
-  color: #282928;
-}
-</style>
 
 <script>
 export default {
   name: "AuthorsCard",
   props: {
-    credits: Array
+    developers: Array,
+    artists: Array,
+    musicians: Array
   }
 };
 </script>
+
+<style scoped>
+p {
+  margin-top: 2vh;
+}
+
+.u-margin-bottom {
+  margin-top: 3vh;
+  margin-bottom: -7.5vh;
+}
+</style>
