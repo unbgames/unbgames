@@ -27,7 +27,7 @@
     "@vue/test-utils": "^1.0.0-beta.29",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^23.6.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "push-dir": "^0.4.1",
     "sass-loader": "^7.0.1",
     "vue-cli-plugin-vuetify": "^0.1.6",
